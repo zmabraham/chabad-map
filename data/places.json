@@ -1,0 +1,524 @@
+[
+  {
+    "id": "mezhibuzh",
+    "name_en": "Mezhibuzh",
+    "name_he": "מעזיבוז'",
+    "lat": 49.4441,
+    "lng": 27.4865,
+    "modern_country": "Ukraine",
+    "significance": "Home and burial place of the Baal Shem Tov; foundational birthplace of the chassidic movement."
+  },
+  {
+    "id": "okopy",
+    "name_en": "Okopy",
+    "name_he": "אוקופ",
+    "lat": 48.6500,
+    "lng": 26.4500,
+    "modern_country": "Ukraine",
+    "significance": "Birthplace of the Baal Shem Tov."
+  },
+  {
+    "id": "anipoli",
+    "name_en": "Anipoli (Hannopil)",
+    "name_he": "אניפולי",
+    "lat": 50.0728,
+    "lng": 26.9886,
+    "modern_country": "Ukraine",
+    "significance": "Seat of the Maggid of Mezeritch in his later years; place of his passing in 1772."
+  },
+  {
+    "id": "trisk",
+    "name_en": "Trisk (Turiisk)",
+    "name_he": "טריסק",
+    "lat": 51.0892,
+    "lng": 24.5310,
+    "modern_country": "Ukraine",
+    "significance": "Home of Rabbi Shimon Zundel, an early disciple of the Baal Shem Tov."
+  },
+  {
+    "id": "vilna",
+    "name_en": "Vilna (Vilnius)",
+    "name_he": "ווילנא",
+    "lat": 54.6872,
+    "lng": 25.2797,
+    "modern_country": "Lithuania",
+    "significance": "Center of the Lithuanian (Misnagdic) tradition; site of fierce early opposition to chassidus. Home of Reb Ze'ev Vilenker before he was drawn to chassidus."
+  },
+  {
+    "id": "vitebsk",
+    "name_en": "Vitebsk",
+    "name_he": "וויטעבסק",
+    "lat": 55.1904,
+    "lng": 30.2049,
+    "modern_country": "Belarus",
+    "significance": "Center of early chassidic activity in Belarus; home of hidden tzaddikim who taught Reb Chaim Eliyahu. Reb Ze'ev Vilenker's home in Vitebsk continued to host chassidic gatherings for generations."
+  },
+  {
+    "id": "shvintzian",
+    "name_en": "Shvintzian (Švenčionys)",
+    "name_he": "שווינציאן",
+    "lat": 55.1340,
+    "lng": 26.1590,
+    "modern_country": "Lithuania",
+    "significance": "Home of Rabbi Shlomo Raphael."
+  },
+  {
+    "id": "liozna",
+    "name_en": "Liozna",
+    "name_he": "ליאזנא",
+    "lat": 55.0306,
+    "lng": 30.8025,
+    "modern_country": "Belarus",
+    "significance": "Birthplace of the Alter Rebbe; site of his early teaching and the first Chabad yeshiva. Setting of the Alter Rebbe's childhood dream involving Rabbi Reuven Baal Shem."
+  },
+  {
+    "id": "liadi",
+    "name_en": "Liadi",
+    "name_he": "ליאדי",
+    "lat": 54.5897,
+    "lng": 30.9897,
+    "modern_country": "Belarus",
+    "significance": "Seat of the Alter Rebbe from 1801 until 1812. Gave the Alter Rebbe the name by which he is most known."
+  },
+  {
+    "id": "piena",
+    "name_en": "Piena",
+    "name_he": "פיענא",
+    "lat": 52.0500,
+    "lng": 35.7500,
+    "modern_country": "Russia",
+    "significance": "Place of the Alter Rebbe's passing on 24 Tevet 1812 while fleeing Napoleon's advance."
+  },
+  {
+    "id": "hadiach",
+    "name_en": "Hadiach (Haditch)",
+    "name_he": "האדיטש",
+    "lat": 50.3667,
+    "lng": 33.9956,
+    "modern_country": "Ukraine",
+    "significance": "Burial place of the Alter Rebbe."
+  },
+  {
+    "id": "shklov",
+    "name_en": "Shklov",
+    "name_he": "שקלאוו",
+    "lat": 54.2078,
+    "lng": 30.2937,
+    "modern_country": "Belarus",
+    "significance": "Center of opposition to the Alter Rebbe among brilliant peers; home of Reb Pinchas Reizes."
+  },
+  {
+    "id": "mohilev",
+    "name_en": "Mohilev",
+    "name_he": "מאהליעוו",
+    "lat": 53.8916,
+    "lng": 30.3324,
+    "modern_country": "Belarus",
+    "significance": "Site of opposition to the Alter Rebbe."
+  },
+  {
+    "id": "petersburg",
+    "name_en": "St. Petersburg",
+    "name_he": "פטרבורג",
+    "lat": 59.9311,
+    "lng": 30.3609,
+    "modern_country": "Russia",
+    "significance": "Imperial capital where the Alter Rebbe was imprisoned in 1798 and 1800. Reb Mordechai Lepler used his Petersburg home to host the Alter Rebbe after his release."
+  },
+  {
+    "id": "lepli",
+    "name_en": "Lepli (Lepel)",
+    "name_he": "לעפלי",
+    "lat": 54.8810,
+    "lng": 28.7050,
+    "modern_country": "Belarus",
+    "significance": "Home of Rabbi Yekutiel Lepler and Reb Mordechai Lepler."
+  },
+  {
+    "id": "krislava",
+    "name_en": "Krāslava",
+    "name_he": "קרעסלאווא",
+    "lat": 55.8939,
+    "lng": 27.1672,
+    "modern_country": "Latvia",
+    "significance": "City where Rabbi Zalman Zezmer served as rabbi."
+  },
+  {
+    "id": "dribin",
+    "name_en": "Dribin",
+    "name_he": "דריבין",
+    "lat": 54.0408,
+    "lng": 31.0125,
+    "modern_country": "Belarus",
+    "significance": "Town transformed into a Chabad chassidic stronghold through the influence of Rabbi Menachem Zecharia, who won over Rabbi Zerach Meir and the local Torah scholars."
+  },
+  {
+    "id": "lubavitch",
+    "name_en": "Lubavitch (Lyubavichi)",
+    "name_he": "ליובאוויטש",
+    "lat": 54.8395,
+    "lng": 30.9959,
+    "modern_country": "Russia",
+    "significance": "Seat of Chabad from 1813 to 1915, under Rebbes 2 through 5. Home of the Tomchei Temimim yeshiva, founded by the Rashab in 1897. Gave the movement its common name 'Lubavitch.'"
+  },
+  {
+    "id": "paritch",
+    "name_en": "Paritch (Paryčy)",
+    "name_he": "פאריטש",
+    "lat": 52.8083,
+    "lng": 29.4244,
+    "modern_country": "Belarus",
+    "significance": "Town where Reb Hillel served as rabbi, giving him the name by which he is most commonly known."
+  },
+  {
+    "id": "bobruisk",
+    "name_en": "Bobruisk (Babruisk)",
+    "name_he": "באברויסק",
+    "lat": 53.1384,
+    "lng": 29.2214,
+    "modern_country": "Belarus",
+    "significance": "Major chassidic center; Reb Hillel Paritcher's later location, and home of Rabbi Avraham DovBer of Bobruisk."
+  },
+  {
+    "id": "kherson",
+    "name_en": "Kherson",
+    "name_he": "כערסאן",
+    "lat": 46.6354,
+    "lng": 32.6169,
+    "modern_country": "Ukraine",
+    "significance": "Place of Reb Hillel Paritcher's passing in 1864; site of the miraculous fulfillment of his blessing to the tailor."
+  },
+  {
+    "id": "homel",
+    "name_en": "Homel (Gomel)",
+    "name_he": "האמלי",
+    "lat": 52.4345,
+    "lng": 30.9754,
+    "modern_country": "Belarus",
+    "significance": "Home of R' Yitzchak Isaac Epstein, the great Maskil of the Tzemach Tzedek's circle."
+  },
+  {
+    "id": "kapust",
+    "name_en": "Kapust (Kopys)",
+    "name_he": "קאפוסט",
+    "lat": 54.3214,
+    "lng": 30.2882,
+    "modern_country": "Belarus",
+    "significance": "Seat of the Kapust branch of Chabad under Rabbi Yehuda Leib, son of the Tzemach Tzedek."
+  },
+  {
+    "id": "niezhin",
+    "name_en": "Niezhin (Nizhyn)",
+    "name_he": "ניעזין",
+    "lat": 51.0481,
+    "lng": 31.8866,
+    "modern_country": "Ukraine",
+    "significance": "Burial place of the Mitteler Rebbe. Later home of a Chabad branch under one of the Tzemach Tzedek's sons."
+  },
+  {
+    "id": "avritch",
+    "name_en": "Avritch (Ovruch)",
+    "name_he": "אווריטש",
+    "lat": 51.3245,
+    "lng": 28.8083,
+    "modern_country": "Ukraine",
+    "significance": "Seat of the Avritch branch of Chabad under another of the Tzemach Tzedek's sons."
+  },
+  {
+    "id": "lublin",
+    "name_en": "Lublin",
+    "name_he": "לובלין",
+    "lat": 51.2465,
+    "lng": 22.5684,
+    "modern_country": "Poland",
+    "significance": "City associated with Rabbi Shneur Zalman Fradkin, the 'Gaon of Lublin.'"
+  },
+  {
+    "id": "rostov",
+    "name_en": "Rostov-on-Don",
+    "name_he": "ראסטאוו",
+    "lat": 47.2357,
+    "lng": 39.7015,
+    "modern_country": "Russia",
+    "significance": "Seat of Chabad from 1915-1924 under the Rashab and early Rayatz. Place of the Rashab's passing in 1920. Setting of major Rayatz farbrengens during the early Soviet years."
+  },
+  {
+    "id": "yekaterinoslav",
+    "name_en": "Yekaterinoslav (Dnipro)",
+    "name_he": "יעקאטערינאסלאוו",
+    "lat": 48.4647,
+    "lng": 35.0462,
+    "modern_country": "Ukraine",
+    "significance": "City where Rabbi Levi Yitzchak Schneerson served as Chief Rabbi and where his sons—including the future Lubavitcher Rebbe—were raised."
+  },
+  {
+    "id": "nikolaev",
+    "name_en": "Nikolaev (Mykolaiv)",
+    "name_he": "ניקאלאיעוו",
+    "lat": 46.9750,
+    "lng": 31.9946,
+    "modern_country": "Ukraine",
+    "significance": "Birthplace of the Lubavitcher Rebbe in 1902."
+  },
+  {
+    "id": "babinovich",
+    "name_en": "Babinovich",
+    "name_he": "באבינאוויטש",
+    "lat": 54.7000,
+    "lng": 30.5500,
+    "modern_country": "Belarus",
+    "significance": "Birthplace of Rebbetzin Chaya Mushka, wife of the Lubavitcher Rebbe."
+  },
+  {
+    "id": "alma-ata",
+    "name_en": "Alma-Ata (Almaty)",
+    "name_he": "אלמא אטא",
+    "lat": 43.2220,
+    "lng": 76.8512,
+    "modern_country": "Kazakhstan",
+    "significance": "Place of exile and passing of Rabbi Levi Yitzchak Schneerson, the Lubavitcher Rebbe's father, in 1944."
+  },
+  {
+    "id": "leningrad",
+    "name_en": "Leningrad (St. Petersburg)",
+    "name_he": "לענינגראד",
+    "lat": 59.9311,
+    "lng": 30.3609,
+    "modern_country": "Russia",
+    "significance": "Soviet name for St. Petersburg during the years when the Rayatz was based there before his arrest and 1927 expulsion. Place of Rebbetzin Shterna Sarah's passing in 1942."
+  },
+  {
+    "id": "samarkand",
+    "name_en": "Samarkand",
+    "name_he": "סמרקנד",
+    "lat": 39.6270,
+    "lng": 66.9750,
+    "modern_country": "Uzbekistan",
+    "significance": "Center of underground Jewish education established by Reb Simcha Gorodetsky in 1923 under the Rayatz's directives—over 800 students and 45 teachers within three months."
+  },
+  {
+    "id": "tashkent",
+    "name_en": "Tashkent",
+    "name_he": "טשקנט",
+    "lat": 41.2995,
+    "lng": 69.2401,
+    "modern_country": "Uzbekistan",
+    "significance": "Major center of refuge for Chabad chassidim during WWII; site of R' Zalman Leib Estulin's underground cheder."
+  },
+  {
+    "id": "moscow",
+    "name_en": "Moscow",
+    "name_he": "מאסקווא",
+    "lat": 55.7558,
+    "lng": 37.6173,
+    "modern_country": "Russia",
+    "significance": "Soviet capital; site of underground Chabad activity through the 20th century."
+  },
+  {
+    "id": "siberia",
+    "name_en": "Siberia",
+    "name_he": "סיביר",
+    "lat": 60.0000,
+    "lng": 100.0000,
+    "modern_country": "Russia",
+    "significance": "Region of Soviet labor camps and exile where R' Mendel Futerfas, R' Folleh Kahn, and many other chassidim were imprisoned for their religious activities."
+  },
+  {
+    "id": "lviv",
+    "name_en": "Lviv",
+    "name_he": "לעמבערג",
+    "lat": 49.8397,
+    "lng": 24.0297,
+    "modern_country": "Ukraine",
+    "significance": "Transit point of the 1946 underground 'Exodus from Egypt' organized by R' Mendel Futerfas to smuggle hundreds of chassidic families out of the Soviet Union."
+  },
+  {
+    "id": "riga",
+    "name_en": "Riga",
+    "name_he": "ריגא",
+    "lat": 56.9496,
+    "lng": 24.1052,
+    "modern_country": "Latvia",
+    "significance": "First major stop of the Rayatz after his release from Soviet prison; place where Reb Itche Masmid was martyred in 1941/1942."
+  },
+  {
+    "id": "warsaw",
+    "name_en": "Warsaw",
+    "name_he": "ווארשא",
+    "lat": 52.2297,
+    "lng": 21.0122,
+    "modern_country": "Poland",
+    "significance": "Major Chabad center in the interwar period under the Rayatz; site of the Rebbe and Rebbetzin's 1928 wedding. R' Alter Simchovitz served as mashpia of the local Chabad yeshiva."
+  },
+  {
+    "id": "otwock",
+    "name_en": "Otwock",
+    "name_he": "אטוואצק",
+    "lat": 52.1052,
+    "lng": 21.2613,
+    "modern_country": "Poland",
+    "significance": "Town outside Warsaw where the Rayatz established his court before the outbreak of WWII."
+  },
+  {
+    "id": "brunoy",
+    "name_en": "Brunoy",
+    "name_he": "ברונואה",
+    "lat": 48.6975,
+    "lng": 2.5031,
+    "modern_country": "France",
+    "significance": "Home of the Tomchei Temimim yeshiva in France, led by R' Nissan Nemenov."
+  },
+  {
+    "id": "paris",
+    "name_en": "Paris",
+    "name_he": "פאריז",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "modern_country": "France",
+    "significance": "Transit point for many chassidim escaping Europe; the future Rebbe lived here in the late 1930s. Yitzchak Schneersohn (a Tzemach Tzedek descendant) became a successful merchant here."
+  },
+  {
+    "id": "vienna",
+    "name_en": "Vienna",
+    "name_he": "ווין",
+    "lat": 48.2082,
+    "lng": 16.3738,
+    "modern_country": "Austria",
+    "significance": "Transit point for chassidim fleeing the Soviet Union seeking specialist medical care in the West."
+  },
+  {
+    "id": "marseille",
+    "name_en": "Marseille",
+    "name_he": "מארסעי",
+    "lat": 43.2965,
+    "lng": 5.3698,
+    "modern_country": "France",
+    "significance": "Departure port for the Rayatz and the future Rebbe and Rebbetzin as they escaped Europe for the United States in 1940-1941."
+  },
+  {
+    "id": "new-york",
+    "name_en": "New York (770 Eastern Parkway, Crown Heights)",
+    "name_he": "ניו יארק",
+    "lat": 40.6692,
+    "lng": -73.9433,
+    "modern_country": "United States",
+    "significance": "Final headquarters of Chabad from 1940 onward. The Rayatz arrived in 1940 and established the worldwide Chabad headquarters at 770 Eastern Parkway. The Rebbe led the movement from here from 1951 to 1994."
+  },
+  {
+    "id": "chicago",
+    "name_en": "Chicago",
+    "name_he": "שיקאגא",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "modern_country": "United States",
+    "significance": "Site of the 1945 community crisis handled by Rabbi Shlomo Aharon Kazarnovsky."
+  },
+  {
+    "id": "liverpool",
+    "name_en": "Liverpool",
+    "name_he": "ליווערפול",
+    "lat": 53.4084,
+    "lng": -2.9916,
+    "modern_country": "United Kingdom",
+    "significance": "Place of passing of R' Yisrael Aryeh Leib Schneerson, the Rebbe's younger brother, in 1952."
+  },
+  {
+    "id": "jerusalem",
+    "name_en": "Jerusalem",
+    "name_he": "ירושלים",
+    "lat": 31.7683,
+    "lng": 35.2137,
+    "modern_country": "Israel",
+    "significance": "Holy city; site of Toras Emes yeshiva, the Mea Shearim Chabad community, and the homes of many great chassidim who settled in the Holy Land including R' Chaim Moshe Alperovitz, R' Avraham Chaim Naeh, Rabbi Shashonkin, and R' Asher Sasonkin."
+  },
+  {
+    "id": "hebron",
+    "name_en": "Hebron",
+    "name_he": "חברון",
+    "lat": 31.5326,
+    "lng": 35.0998,
+    "modern_country": "Israel/Palestinian Territories",
+    "significance": "Original location of the Toras Emes yeshiva, established in 1912 by the Rashab who sent an elite group of students including R' Alter Simchovitz to found it."
+  },
+  {
+    "id": "tel-aviv",
+    "name_en": "Tel Aviv",
+    "name_he": "תל אביב",
+    "lat": 32.0853,
+    "lng": 34.7818,
+    "modern_country": "Israel",
+    "significance": "Major Chabad center in pre-state and modern Israel. Site of the Chabad synagogues on Montefiore and Nachlat Binyamin streets. The Karasik home at Rothschild and Mazeh streets was called 'an institution of the Rebbe.'"
+  },
+  {
+    "id": "ramat-gan",
+    "name_en": "Ramat Gan",
+    "name_he": "רמת גן",
+    "lat": 32.0823,
+    "lng": 34.8141,
+    "modern_country": "Israel",
+    "significance": "Home of a vibrant Chabad community led by Rabbi Meir Blizinsky."
+  },
+  {
+    "id": "bnei-brak",
+    "name_en": "Bnei Brak",
+    "name_he": "בני ברק",
+    "lat": 32.0808,
+    "lng": 34.8338,
+    "modern_country": "Israel",
+    "significance": "Major Israeli Torah center where Rabbi Yaakov Landau served as Chief Rabbi. Home of R' Chaim Moshe Alperovitz and R' Zalman Leib Estulin in their later years."
+  },
+  {
+    "id": "kfar-chabad",
+    "name_en": "Kfar Chabad",
+    "name_he": "כפר חב\"ד",
+    "lat": 31.9886,
+    "lng": 34.8488,
+    "modern_country": "Israel",
+    "significance": "Chabad village in Israel established in 1949 by chassidim who escaped the Soviet Union. Home to many of the great mashpiyim of the post-war generation including R' Mendel Futerfas, R' Shlomo Chaim Kesselman, R' Folleh Kahn, R' Berke Chein, and Rabbi Garlick."
+  },
+  {
+    "id": "lod",
+    "name_en": "Lod",
+    "name_he": "לוד",
+    "lat": 31.9522,
+    "lng": 34.8881,
+    "modern_country": "Israel",
+    "significance": "Home of the Tomchei Temimim yeshiva in Israel led by Rabbi Shraga Melech Kaplan and Reb Avraham Mayor (Drizin)."
+  },
+  {
+    "id": "tzfat",
+    "name_en": "Tzfat (Safed)",
+    "name_he": "צפת",
+    "lat": 32.9646,
+    "lng": 35.4960,
+    "modern_country": "Israel",
+    "significance": "Holy city; burial place of Reb Pinye Althaus."
+  },
+  {
+    "id": "nachlat-har-chabad",
+    "name_en": "Nachlat Har Chabad (Kiryat Malachi)",
+    "name_he": "נחלת הר חב\"ד",
+    "lat": 31.7333,
+    "lng": 34.7500,
+    "modern_country": "Israel",
+    "significance": "Neighborhood established for Russian-immigrant chassidim. Site of the yeshiva established by Rabbi Motel Kozliner in 1972 at the Rebbe's instruction."
+  },
+  {
+    "id": "shchedrin",
+    "name_en": "Shchedrin",
+    "name_he": "שטשעדרין",
+    "lat": 52.3917,
+    "lng": 29.3083,
+    "modern_country": "Belarus",
+    "significance": "Soviet city where Rabbi Shaul DovBer Zislin served as director and mashpia of the Tomchei Temimim yeshiva before moving to the Holy Land."
+  },
+  {
+    "id": "nevel",
+    "name_en": "Nevel",
+    "name_he": "נעוועל",
+    "lat": 56.0144,
+    "lng": 29.9258,
+    "modern_country": "Russia",
+    "significance": "Soviet city where Reb Zalman Moshe HaYitzchaki lived and farbrenged; major Chabad center in the early Soviet period."
+  }
+]

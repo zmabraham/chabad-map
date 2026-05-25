@@ -1,0 +1,36 @@
+@import "tailwindcss";
+@import "maplibre-gl/dist/maplibre-gl.css";
+
+:root {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  color: #0f172a;
+  background: #f8fafc;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow: hidden;
+}
+
+.font-hebrew {
+  font-family: 'Frank Ruhl Libre', 'Times New Roman', serif;
+  font-feature-settings: "kern";
+}
+
+.hebrew {
+  font-family: 'Frank Ruhl Libre', 'Times New Roman', serif;
+  direction: rtl;
+  unicode-bidi: isolate;
+}
+
+.maplibregl-popup-content {
+  border-radius: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.875rem;
+}
