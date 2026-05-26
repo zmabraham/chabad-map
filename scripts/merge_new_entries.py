@@ -302,7 +302,12 @@ def main() -> int:
             notes.append(f"❌ validation errors: {errs}")
         if pid in person_by_id:
             notes.append(f"❌ ID collision with existing `{pid}` — already in persons.json")
-        cands = find_person_candidates(p, persons) if not errs and pid not in person_by_id else []
+        force_create = bool(p.get("_force_create"))
+        cands = (
+            find_person_candidates(p, persons)
+            if not errs and pid not in person_by_id and not force_create
+            else []
+        )
         for score, ex, reason in cands[:3]:
             severity = "🔴 likely-duplicate" if score >= NAME_SIM_STRONG else "🟡 possible-duplicate"
             notes.append(

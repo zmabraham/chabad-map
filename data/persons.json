@@ -10,7 +10,11 @@
     "birth_place_id": "okopy",
     "death_place_id": "mezhibuzh",
     "role": "Pre-Chabad Teacher",
-    "bio": "Founder of the chassidic movement. Son of Rabbi Eliezer, known for his extraordinary love of every Jew and his teaching that every person can serve G-d through joy and simple faith. His teachings became the spiritual foundation that the Alter Rebbe later developed into Chabad chassidus."
+    "bio": "Founder of the chassidic movement. Son of Rabbi Eliezer, known for his extraordinary love of every Jew and his teaching that every person can serve G-d through joy and simple faith. His teachings became the spiritual foundation that the Alter Rebbe later developed into Chabad chassidus.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "rabbi-eliezer-baal-shem-tov-father",
@@ -24,7 +28,10 @@
     "death_place_id": "okopy",
     "role": "Pre-Chabad Teacher",
     "bio": "Father of the Baal Shem Tov. Renowned for his extraordinary dedication to hachnasat orchim (hosting guests), using the vast majority of his wealth to host 20-30 poor and lonely guests every Shabbat. Before his passing, when his son Yisrael was about five years old, he left him two foundational commands: to fear no one but G-d, and to love every single Jew unconditionally. These became core principles of the chassidic movement his son would later establish.",
-    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אליעזר_אבי_הבעל_שם_טוב"
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אליעזר_אבי_הבעל_שם_טוב",
+    "primary_place_id": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "rabbi-tzvi-baal-shem-tov-son",
@@ -39,7 +46,9 @@
     "role": "Family",
     "bio": "Son of the Baal Shem Tov, primarily remembered for an extraordinary display of humility and self-nullification regarding the leadership of the chassidic movement.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/צבי_(בן_הבעל_שם_טוב)",
-    "photo_url": null
+    "photo_url": null,
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "maggid-of-mezeritch",
@@ -52,7 +61,11 @@
     "birth_place_id": null,
     "death_place_id": "anipoli",
     "role": "Pre-Chabad Teacher",
-    "bio": "Primary successor to the Baal Shem Tov and the teacher who systematized chassidic teaching. The Alter Rebbe was among his greatest disciples, and the journey of the Alter Rebbe to Mezeritch became foundational lore in Chabad."
+    "bio": "Primary successor to the Baal Shem Tov and the teacher who systematized chassidic teaching. The Alter Rebbe was among his greatest disciples, and the journey of the Alter Rebbe to Mezeritch became foundational lore in Chabad.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "rabbi-shimon-zundel-trisk",
@@ -65,7 +78,11 @@
     "birth_place_id": null,
     "death_place_id": "trisk",
     "role": "Pre-Chabad Teacher",
-    "bio": "A gaon, tzaddik, and devoted disciple of the Baal Shem Tov, who served as a special emissary of his master. He undertook a pivotal mission to Vilna to the Gaon Rabbi Shlomo Yochanan, conveying the Baal Shem Tov's message that his son Chaim Eliyahu should travel to study in Vitebsk."
+    "bio": "A gaon, tzaddik, and devoted disciple of the Baal Shem Tov, who served as a special emissary of his master. He undertook a pivotal mission to Vilna to the Gaon Rabbi Shlomo Yochanan, conveying the Baal Shem Tov's message that his son Chaim Eliyahu should travel to study in Vitebsk.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "rabbi-baruch-alter-rebbe-father",
@@ -76,11 +93,24 @@
     "birth_year": 1743,
     "death_year": 1792,
     "birth_place_id": "vitebsk",
-    "death_place_id": null,
+    "death_place_id": "liozna",
     "role": "Family",
     "bio": "Father of the Alter Rebbe. Known for his profound humility, self-imposed exile, and prophetic foresight regarding his son's greatness. Owned a farm where the hidden tzaddik R' Chaim Eliyahu would stay for weeks at a time, becoming a historical witness to the young Alter Rebbe's wondrous talents.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/ישראל_ברוך_מליאזנא",
-    "photo_url": null
+    "photo_url": null,
+    "primary_place_id": "liozna",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Lived and raised his family"
+      },
+      {
+        "year": null,
+        "place_id": "mezhibuzh",
+        "event": "Visited the Baal Shem Tov and received a blessing for a son"
+      }
+    ]
   },
   {
     "id": "rabbi-chaim-eliyahu-vitebsk",
@@ -93,7 +123,11 @@
     "birth_place_id": "vilna",
     "death_place_id": "vitebsk",
     "role": "Pre-Chabad Teacher",
-    "bio": "An outstanding disciple of the Baal Shem Tov, despite being the son of Rabbi Shlomo Yochanan, one of the great Torah geniuses of Vilna. After his father was visited by R' Shimon Zundel of Trisk on a mission from the Baal Shem Tov, he traveled to Vitebsk to study among the hidden tzaddikim there. Became a close friend of R' Baruch, the father of the Alter Rebbe, and a key witness to the Alter Rebbe's childhood greatness."
+    "bio": "An outstanding disciple of the Baal Shem Tov, despite being the son of Rabbi Shlomo Yochanan, one of the great Torah geniuses of Vilna. After his father was visited by R' Shimon Zundel of Trisk on a mission from the Baal Shem Tov, he traveled to Vitebsk to study among the hidden tzaddikim there. Became a close friend of R' Baruch, the father of the Alter Rebbe, and a key witness to the Alter Rebbe's childhood greatness.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "rabbi-reuven-baal-shem",
@@ -106,7 +140,11 @@
     "birth_place_id": null,
     "death_place_id": "liozna",
     "role": "Pre-Chabad Teacher",
-    "bio": "A prominent and highly respected member of his community who earned the title 'Baal Shem' (Master of the Name) because he engaged in providing spiritual remedies and healing incantations. Featured in a frightening, prophetic dream experienced by the Alter Rebbe at age ten in the synagogue of Liozna."
+    "bio": "A prominent and highly respected member of his community who earned the title 'Baal Shem' (Master of the Name) because he engaged in providing spiritual remedies and healing incantations. Featured in a frightening, prophetic dream experienced by the Alter Rebbe at age ten in the synagogue of Liozna.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "alter-rebbe",
@@ -119,7 +157,11 @@
     "birth_place_id": "liozna",
     "death_place_id": "piena",
     "role": "Rebbe",
-    "bio": "Founder of Chabad chassidus. Author of Tanya and the Shulchan Aruch HaRav. Disciple of the Maggid of Mezeritch. Established Chabad as a distinct intellectual stream of chassidus. Imprisoned by the Czarist government in 1798 and 1800; his release on Yud-Tes Kislev is celebrated as the 'Rosh Hashanah of Chassidus.' Died in 1812 while fleeing Napoleon's advance."
+    "bio": "Founder of Chabad chassidus. Author of Tanya and the Shulchan Aruch HaRav. Disciple of the Maggid of Mezeritch. Established Chabad as a distinct intellectual stream of chassidus. Imprisoned by the Czarist government in 1798 and 1800; his release on Yud-Tes Kislev is celebrated as the 'Rosh Hashanah of Chassidus.' Died in 1812 while fleeing Napoleon's advance.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "rabbi-moshe-vilenker",
@@ -134,7 +176,9 @@
     "role": "Chossid",
     "bio": "A chassid of the Alter Rebbe and older brother of Rabbi Zev Vilenker (his senior by twenty years). Was assigned by the Alter Rebbe, together with R' Moshe Meizlish, to a covert mission to edit and compile intelligence on the antisemitic writings of the Russian statesman Derzhavin, ultimately securing the safety of the Jewish community in Russia by influencing the Tsar to burn the hateful report.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/משה_וילנקר",
-    "photo_url": null
+    "photo_url": null,
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-zev-vilenker",
@@ -149,7 +193,9 @@
     "role": "Chossid",
     "bio": "Younger brother of R' Moshe Vilenker by twenty years; a chassid of the Alter Rebbe. Drawn to chassidus in the poor districts of Vilna by observing chassidim celebrating joyously over the persecution of a colleague. Famous for telling his older brother who asked for stories of miracles: 'I am giving you the marrow of the oil, and you are asking me for the toenails.' His home in Vitebsk continued to be a center for chassidic gatherings for generations.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/זאב_וילנקר",
-    "photo_url": null
+    "photo_url": null,
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-binyamin-kletzker",
@@ -164,7 +210,9 @@
     "role": "Chossid",
     "bio": "One of the foremost intellectual thinkers among the students of the Alter Rebbe. A tremendous scholar in revealed Torah and chassidic philosophy. Earned his livelihood as a lumber merchant, famously found standing motionless in the middle of a busy lumber fair, deep in meditation on the greatness of the Creator. The Alter Rebbe declared that when he prayed 'Sim Shalom,' the Yechidah of his soul shone within him, higher than the Revelation of Elijah.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/בנימין_קלצקר",
-    "photo_url": null
+    "photo_url": null,
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-zalman-zezmer",
@@ -179,7 +227,9 @@
     "role": "Chossid",
     "bio": "A prominent and highly respected chassid of the Alter Rebbe and the Mitteler Rebbe, who served as the Rabbi of Krāslava. Famous for his fiery passion during the Torah reading of Parshas Zachor—a sight that drew R' Binyamin Kletzker to the Alter Rebbe's movement. Traveled extensively to spread chassidus, sometimes ascending the synagogue bimah disguised as a traveling maggid.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/זלמן_זזמר",
-    "photo_url": null
+    "photo_url": null,
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-menachem-zecharia",
@@ -192,7 +242,11 @@
     "birth_place_id": null,
     "death_place_id": "dribin",
     "role": "Chossid",
-    "bio": "A devoted chassid of the Alter Rebbe credited with sparking a historic spiritual revolution in the town of Dribin, successfully transforming its leading, staunchly opposed Torah scholars—including Rabbi Zerach Meir and his students—into devoted chassidim of the Alter Rebbe."
+    "bio": "A devoted chassid of the Alter Rebbe credited with sparking a historic spiritual revolution in the town of Dribin, successfully transforming its leading, staunchly opposed Torah scholars—including Rabbi Zerach Meir and his students—into devoted chassidim of the Alter Rebbe.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "rabbi-zerach-meir-dribin",
@@ -205,7 +259,11 @@
     "birth_place_id": "dribin",
     "death_place_id": "dribin",
     "role": "Chossid",
-    "bio": "A tremendous Torah scholar (Talmid Chacham Atzum) who lived in Dribin during the era of the Alter Rebbe. A sixty-year-old sage who never ceased his Torah study for even a moment. Through the influence of R' Menachem Zecharia, he and his students transformed into devoted chassidim of the Alter Rebbe."
+    "bio": "A tremendous Torah scholar (Talmid Chacham Atzum) who lived in Dribin during the era of the Alter Rebbe. A sixty-year-old sage who never ceased his Torah study for even a moment. Through the influence of R' Menachem Zecharia, he and his students transformed into devoted chassidim of the Alter Rebbe.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "reb-pinchas-reizes",
@@ -220,7 +278,9 @@
     "role": "Chossid",
     "bio": "One of the greatest and most prominent chassidim of the Alter Rebbe and the Mitteler Rebbe, both of whom held him in great affection. A recognized Torah genius and serious intellectual who served as a chozer—responsible for memorizing, reviewing, and repeating the Alter Rebbe's chassidic discourses. Witness to the Alter Rebbe's extraordinary state of deveikus during the Torah reading of Bereishis.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/פנחס_רייזעס",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/1/14/%D7%94%D7%A0%D7%97%D7%95%D7%AA_%D7%94%D7%A8%D7%A4.jpg/250px-%D7%94%D7%A0%D7%97%D7%95%D7%AA_%D7%94%D7%A8%D7%A4.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/1/14/%D7%94%D7%A0%D7%97%D7%95%D7%AA_%D7%94%D7%A8%D7%A4.jpg/250px-%D7%94%D7%A0%D7%97%D7%95%D7%AA_%D7%94%D7%A8%D7%A4.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-mordechai-lepler",
@@ -234,7 +294,10 @@
     "death_place_id": null,
     "role": "Chossid",
     "bio": "A prominent and wealthy chassid of the Alter Rebbe and the Mitteler Rebbe, regarded as a true 'Baal Madrega' and considered to have achieved the spiritual rank of a Beinoni as defined in Tanya. Used his connections within the Russian royal court to assist the Rebbes and the Jewish community. Played a crucial role in locating the Alter Rebbe during his 1798 imprisonment in the St. Petersburg fortress by hiding a note in a plate of fruit preserve. The Alter Rebbe stayed at his spacious Petersburg home after his release.",
-    "chabadpedia_url": "https://chabadpedia.co.il/index.php/מרדכי_פייטלסון"
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/מרדכי_פייטלסון",
+    "primary_place_id": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "rabbi-yekutiel-lepler",
@@ -249,7 +312,15 @@
     "role": "Chossid",
     "bio": "A renowned chassid known for his extraordinary devotion, intense prayer, and total immersion in chassidic philosophy. Lived in Lepli, Belarus, earning a modest living as a salt merchant. Famously refused the Alter Rebbe's offer of a blessing for wealth, fearing it would distract him from divine service; accepted a blessing for longevity only on condition his life would be spiritually meaningful. Continued as a devoted follower of the Tzemach Tzedek.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/יקותיאל_מליעפלי",
-    "photo_url": null
+    "photo_url": null,
+    "primary_place_id": "lepli",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "lepli",
+        "event": "Lived"
+      }
+    ]
   },
   {
     "id": "rabbi-shlomo-raphael",
@@ -264,7 +335,9 @@
     "role": "Chossid",
     "bio": "A prominent historical figure who lived in Shvintzian (also associated with Vilna). A highly respected gaon, wealthy merchant, and initially one of the fiercest opponents of the chassidic movement before becoming connected to the Alter Rebbe.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שלמה_רפאל'ס",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/9/9c/%D7%97%D7%95%D7%AA%D7%9E%D7%AA_%D7%A9%D7%9C%D7%9E%D7%94_%D7%A8%D7%A4%D7%90%D7%9C%27%D7%A1.jpg/220px-%D7%97%D7%95%D7%AA%D7%9E%D7%AA_%D7%A9%D7%9C%D7%9E%D7%94_%D7%A8%D7%A4%D7%90%D7%9C%27%D7%A1.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/9/9c/%D7%97%D7%95%D7%AA%D7%9E%D7%AA_%D7%A9%D7%9C%D7%9E%D7%94_%D7%A8%D7%A4%D7%90%D7%9C%27%D7%A1.jpg/220px-%D7%97%D7%95%D7%AA%D7%9E%D7%AA_%D7%A9%D7%9C%D7%9E%D7%94_%D7%A8%D7%A4%D7%90%D7%9C%27%D7%A1.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "mitteler-rebbe",
@@ -277,7 +350,11 @@
     "birth_place_id": "liozna",
     "death_place_id": "niezhin",
     "role": "Rebbe",
-    "bio": "Second Lubavitcher Rebbe. Son and successor of the Alter Rebbe. Established his court in Lubavitch in 1813. His chassidic discourses are considered 'pure chassidus'—the most expansive and detailed chassidic philosophy. Sent Reb Hillel Paritcher to spread chassidus through towns and villages. Arrested and released on Yud Kislev 1826, an event celebrated annually."
+    "bio": "Second Lubavitcher Rebbe. Son and successor of the Alter Rebbe. Established his court in Lubavitch in 1813. His chassidic discourses are considered 'pure chassidus'—the most expansive and detailed chassidic philosophy. Sent Reb Hillel Paritcher to spread chassidus through towns and villages. Arrested and released on Yud Kislev 1826, an event celebrated annually.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "reb-hillel-paritcher",
@@ -292,7 +369,20 @@
     "role": "Chossid",
     "bio": "A towering Chabad chassid, profound Torah scholar, and exemplary 'Oved' (one whose divine service focuses on emotional refinement and prayer). Served as Rabbi of Paritch and later Bobruisk. Originally a follower of Rabbi Mordechai of Chernobyl before joining the Mitteler Rebbe's court. The Tzemach Tzedek categorized him as an 'Oved' in contrast to R' Yitzchak Isaac of Homel ('Maskil'). Famously said that after studying Tanya, he realized he was not even a Beinoni. Passed away in Kherson in 1864.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/הלל_מפאריטש",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/a/a0/%D7%A4%D7%9C%D7%97_%D7%94%D7%A8%D7%9E%D7%95%D7%9F_%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA_%D7%A9%D7%A2%D7%A8_%D7%9B%D7%9C%D7%9C.jpg/250px-%D7%A4%D7%9C%D7%97_%D7%94%D7%A8%D7%9E%D7%95%D7%9F_%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA_%D7%A9%D7%A2%D7%A8_%D7%9B%D7%9C%D7%9C.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/a/a0/%D7%A4%D7%9C%D7%97_%D7%94%D7%A8%D7%9E%D7%95%D7%9F_%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA_%D7%A9%D7%A2%D7%A8_%D7%9B%D7%9C%D7%9C.jpg/250px-%D7%A4%D7%9C%D7%97_%D7%94%D7%A8%D7%9E%D7%95%D7%9F_%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA_%D7%A9%D7%A2%D7%A8_%D7%9B%D7%9C%D7%9C.jpg",
+    "primary_place_id": "paritch",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "paritch",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1864,
+        "place_id": "kherson",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "rabbi-yitzchak-isaac-homel",
@@ -307,7 +397,20 @@
     "role": "Chossid",
     "bio": "A towering intellectual and one of the most prominent chassidim of the Alter Rebbe, the Mitteler Rebbe, and the Tzemach Tzedek. The Tzemach Tzedek categorized him as a 'Maskil' (intellectual), in contrast to his peer R' Hillel of Paritch ('Oved'). Served as Rabbi of Vitebsk. In his youth served as a badchan at weddings, dedicating earnings to support Jews in the Holy Land. Sent by the Tzemach Tzedek as emissary to Rabbi Yisrael of Ruzhin.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/יצחק_אייזיק_אפשטיין",
-    "photo_url": null
+    "photo_url": null,
+    "primary_place_id": "homel",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "homel",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1857,
+        "place_id": "homel",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "rabbi-yitzchak-isaac-vitebsk-elder",
@@ -322,7 +425,15 @@
     "role": "Chossid",
     "bio": "An elder chassidic master prominent during the leadership of the Tzemach Tzedek. Traveled to Lubavitch for Shavuot 1857, among a massive gathering of over 120 rabbis and prominent elder chassidim, including R' Yitzchak Isaac of Homel and R' Hillel of Paritch.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/יצחק_אייזיק_מויטבסק",
-    "photo_url": null
+    "photo_url": null,
+    "primary_place_id": "vitebsk",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "vitebsk",
+        "event": "Served as a prominent Chassid and scholar"
+      }
+    ]
   },
   {
     "id": "tzemach-tzedek",
@@ -335,7 +446,11 @@
     "birth_place_id": "liozna",
     "death_place_id": "lubavitch",
     "role": "Rebbe",
-    "bio": "Third Lubavitcher Rebbe. Grandson of the Alter Rebbe; son of Rabbi Shalom Shachna. Author of the responsa Tzemach Tzedek and numerous chassidic works. His sons established multiple Chabad dynasties including Lubavitch, Kapust, Niezhin, and Avritch. Established the surname 'Schneersohn' for his descendants."
+    "bio": "Third Lubavitcher Rebbe. Grandson of the Alter Rebbe; son of Rabbi Shalom Shachna. Author of the responsa Tzemach Tzedek and numerous chassidic works. His sons established multiple Chabad dynasties including Lubavitch, Kapust, Niezhin, and Avritch. Established the surname 'Schneersohn' for his descendants.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "rabbi-baruch-shalom",
@@ -350,7 +465,20 @@
     "role": "Son of Rebbe",
     "bio": "Eldest son of the Tzemach Tzedek. A prominent and devoted figure who served his father faithfully until passing after a short illness, predeceasing his father. Father of Rabbi Zalman who was assigned 'weekly mitzvot' by the Tzemach Tzedek and was noted for his self-sacrifice.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/ברוך_שלום_שניאורסון",
-    "photo_url": "https://chabadpedia.co.il/images/1/17/%D7%A6%D7%99%D7%95%D7%9F_%D7%A8%27_%D7%91%D7%A8%D7%95%D7%9A_%D7%A9%D7%9C%D7%95%D7%9D_%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8%D7%A1%D7%95%D7%9F.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/1/17/%D7%A6%D7%99%D7%95%D7%9F_%D7%A8%27_%D7%91%D7%A8%D7%95%D7%9A_%D7%A9%D7%9C%D7%95%D7%9D_%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8%D7%A1%D7%95%D7%9F.jpg",
+    "primary_place_id": "lubavitch",
+    "journey": [
+      {
+        "year": 1805,
+        "place_id": "liozna",
+        "event": "Born"
+      },
+      {
+        "year": 1869,
+        "place_id": "lubavitch",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "rabbi-yehuda-leib-kapust",
@@ -363,7 +491,27 @@
     "birth_place_id": "lubavitch",
     "death_place_id": "kapust",
     "role": "Son of Rebbe",
-    "bio": "Son of the Tzemach Tzedek. Established the Kapust branch of Chabad. Father of Rabbi Chaim Shlomo Zalman Yosef Schneersohn. The family surname 'Schneersohn' officially began with the Tzemach Tzedek's sons; the Maharil originally used the surname 'Schneuri'."
+    "bio": "Son of the Tzemach Tzedek. Established the Kapust branch of Chabad. Father of Rabbi Chaim Shlomo Zalman Yosef Schneersohn. The family surname 'Schneersohn' officially began with the Tzemach Tzedek's sons; the Maharil originally used the surname 'Schneuri'.",
+    "primary_place_id": "kapust",
+    "journey": [
+      {
+        "year": 1808,
+        "place_id": "liozna",
+        "event": "Born"
+      },
+      {
+        "year": 1866,
+        "place_id": "kapust",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1866,
+        "place_id": "kapust",
+        "event": "Passed away"
+      }
+    ],
+    "chabadpedia_url": null,
+    "photo_url": null
   },
   {
     "id": "rabbi-shlomo-zalman-schneersohn",
@@ -378,7 +526,9 @@
     "role": "Family",
     "bio": "Son of the Maharil of Kapust (Rabbi Yehuda Leib), grandson of the Tzemach Tzedek. Recognized from a young age for extraordinary spiritual level and intellectual depth. His grandfather, the Tzemach Tzedek, would assign him 'weekly mitzvot' along with his cousins.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שלמה_שניאור_זלמן_שניאורסון",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/a/aa/Magen.jpg/220px-Magen.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/a/aa/Magen.jpg/220px-Magen.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-avraham-dovber-bobruisk",
@@ -393,7 +543,9 @@
     "role": "Chossid",
     "bio": "A chassid recorded as having described his very first visit to the Tzemach Tzedek. Recalled the majestic moments of awe and glory he experienced when entering his first yechidus with the Rebbe alongside his father.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/אברהם_בערל_מבוברויסק",
-    "photo_url": null
+    "photo_url": null,
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-shneur-zalman-fradkin",
@@ -408,7 +560,9 @@
     "role": "Chossid",
     "bio": "Renowned as the Gaon of Lublin and the author of the halachic work Torat Chesed. A vast genius famous for his extraordinary memory—he could see a book briefly and know its contents by heart. A devoted chassid of the Tzemach Tzedek. The Tzemach Tzedek once asked him a Mishnah he could not remember, explaining the Gaon was in such a state of bittul that his ego had vanished. In his later years moved to Jerusalem and merited to teach the future Rebbe Rayatz.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שניאור_זלמן_פרדקין",
-    "photo_url": "https://chabadpedia.co.il/images/a/ac/Grave_of_Rabbi_Shneur_Zalman_Fradkin.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/a/ac/Grave_of_Rabbi_Shneur_Zalman_Fradkin.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "maharash",
@@ -421,7 +575,11 @@
     "birth_place_id": "lubavitch",
     "death_place_id": "lubavitch",
     "role": "Rebbe",
-    "bio": "Fourth Lubavitcher Rebbe. Youngest son of the Tzemach Tzedek and successor in Lubavitch. Famous for the motto 'L'chatchila Ariber'—leaping over obstacles from the start. Honored with writing the final words of a secret Torah scroll completed in Lubavitch in 1881."
+    "bio": "Fourth Lubavitcher Rebbe. Youngest son of the Tzemach Tzedek and successor in Lubavitch. Famous for the motto 'L'chatchila Ariber'—leaping over obstacles from the start. Honored with writing the final words of a secret Torah scroll completed in Lubavitch in 1881.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "reb-shmuel-gronem-esterman",
@@ -436,7 +594,15 @@
     "role": "Mashpia",
     "bio": "A revered chassid and elder mashpia known for his profound insight and his extreme care in choosing his words. Worked in the timber trade. A meticulous transmitter of chassidic history, preserving accounts of the secret 1881 Torah scroll completion in Lubavitch and the Tzemach Tzedek's altering of the order of yechidus. Whispered at the funeral of R' Shilem Kuratin: 'For sixteen years he served the Holy One, blessed be He.'",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שמואל_גרונם_אסתרמן",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/8/80/%D7%9E%D7%A9%D7%A4%D7%97%D7%AA_%D7%90%D7%A1%D7%AA%D7%A8%D7%9E%D7%9F.jpg/250px-%D7%9E%D7%A9%D7%A4%D7%97%D7%AA_%D7%90%D7%A1%D7%AA%D7%A8%D7%9E%D7%9F.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/8/80/%D7%9E%D7%A9%D7%A4%D7%97%D7%AA_%D7%90%D7%A1%D7%AA%D7%A8%D7%9E%D7%9F.jpg/250px-%D7%9E%D7%A9%D7%A4%D7%97%D7%AA_%D7%90%D7%A1%D7%AA%D7%A8%D7%9E%D7%9F.jpg",
+    "primary_place_id": "lubavitch",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Appointed Mashpia of Tomchei Temimim"
+      }
+    ]
   },
   {
     "id": "rashab",
@@ -449,7 +615,11 @@
     "birth_place_id": "lubavitch",
     "death_place_id": "rostov",
     "role": "Rebbe",
-    "bio": "Fifth Lubavitcher Rebbe. Founded the Tomchei Temimim yeshiva network in 1897, considered one of his greatest legacies. Fled Lubavitch in 1915 during WWI to Rostov-on-Don. His chassidic discourses, especially the Hemshech Tarsav (1906) and Toras Shalom, are foundational. Sometimes called 'the Maimonides of Chassidus' for his systematic treatment of chassidic philosophy."
+    "bio": "Fifth Lubavitcher Rebbe. Founded the Tomchei Temimim yeshiva network in 1897, considered one of his greatest legacies. Fled Lubavitch in 1915 during WWI to Rostov-on-Don. His chassidic discourses, especially the Hemshech Tarsav (1906) and Toras Shalom, are foundational. Sometimes called 'the Maimonides of Chassidus' for his systematic treatment of chassidic philosophy.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "rebbetzin-shterna-sarah",
@@ -459,10 +629,30 @@
     "generation": 5,
     "birth_year": 1859,
     "death_year": 1942,
-    "birth_place_id": null,
+    "birth_place_id": "vitebsk",
     "death_place_id": "leningrad",
     "role": "Rebbetzin",
-    "bio": "Wife of the Rashab and mother of the Rayatz. Active in the Rebbe Rashab's court. Asked about specific family relationships and traditions, including why the Rashab referred to her father in letters as 'my son-in-law' and another relative as 'my grandson.' Was present when chassidim came for yechidus and noted that whenever the Rashab received people, 'the floor is left wet with tears.'"
+    "bio": "Wife of the Rashab and mother of the Rayatz. Active in the Rebbe Rashab's court. Asked about specific family relationships and traditions, including why the Rashab referred to her father in letters as 'my son-in-law' and another relative as 'my grandson.' Was present when chassidim came for yechidus and noted that whenever the Rashab received people, 'the floor is left wet with tears.'",
+    "primary_place_id": "vitebsk",
+    "journey": [
+      {
+        "year": 1760,
+        "place_id": "vitebsk",
+        "event": "Married"
+      },
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "liadi",
+        "event": "Lived"
+      }
+    ],
+    "chabadpedia_url": null,
+    "photo_url": null
   },
   {
     "id": "reb-shilem-kuratin",
@@ -477,7 +667,9 @@
     "role": "Mashpia",
     "bio": "A highly revered mashpia in the Tomchei Temimim yeshiva in Lubavitch. Renowned for absolute, uncompromising inner authenticity (pnimiyus), intense focus on the service of prayer, and profound dedication to G-d. The Rashab said of him after his passing: 'There is no one like Shilem,' and rejected proposed successors as not being 'pnimiyim like Shilem.' R' Alter Shimchovitz testified that he served G-d to the absolute maximum capacity that a created being could possibly reach.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שילם_קוראטין",
-    "photo_url": null
+    "photo_url": null,
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-itche-masmid",
@@ -492,7 +684,9 @@
     "role": "Chossid",
     "bio": "A legendary chassid of the Rashab and the Rayatz, universally known as 'the diligent one' for his unparalleled diligence in Torah study. Served as a wandering emissary (Shadar) for the Rebbe Rayatz across Russia, Europe, and the United States to raise funds for Chabad institutions. Lived a life almost entirely detached from worldly matters—fasted frequently, ate one casual meal a day, barely slept. Murdered Al Kiddush Hashem in Riga in 1941/1942.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/יצחק_הורביץ",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/d/d0/%D7%90%D7%99%D7%A6%27%D7%94.jpg/250px-%D7%90%D7%99%D7%A6%27%D7%94.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/d/d0/%D7%90%D7%99%D7%A6%27%D7%94.jpg/250px-%D7%90%D7%99%D7%A6%27%D7%94.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-michoel-dvorkin",
@@ -507,7 +701,9 @@
     "role": "Chossid",
     "bio": "A highly revered and beloved chassid of the Rashab, the Rayatz, and the Lubavitcher Rebbe. Renowned for profound inner emotional service (pnimiyus), exactness in transmitting chassidic traditions, and fiery dedication to truth. Lost his wife and sons during the Communist Revolution and arrived in the Holy Land lonely and destitute. The Rashab called him an 'angel' and said his niggun 'comes from the forest.' Traveled to the Rebbe's court in New York in Adar 1947 and remained there until his passing on Erev Shavuos 1949.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/מיכאל_דבורקין",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/f/fe/%D7%9E%D7%99%D7%9B%D7%90%D7%9C.jpg/220px-%D7%9E%D7%99%D7%9B%D7%90%D7%9C.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/f/fe/%D7%9E%D7%99%D7%9B%D7%90%D7%9C.jpg/220px-%D7%9E%D7%99%D7%9B%D7%90%D7%9C.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-yaakov-landau",
@@ -522,7 +718,25 @@
     "role": "Chossid",
     "bio": "Chief Rabbi of Bnei Brak in Israel. In his younger years served as the 'Rav of the Court' (Rav HaChatzer) for the Rashab, gaining unparalleled firsthand knowledge of the Rebbe's halachic rulings and personal customs. The Lubavitcher Rebbe frequently consulted him on the exact practices of the Rashab, including specifications for constructing a mikvah. Witnessed the only known photograph of the Rashab being taken in Rostov 1919/1920.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/יעקב_לנדא",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/f/f4/%D7%A8%D7%91%D7%99-%D7%99%D7%A2%D7%A7%D7%91-%D7%9C%D7%A0%D7%93%D7%90-%D7%96%D7%A6%D7%9C-%D7%92%D7%90%D7%91%D7%93-%D7%91%D7%A0%D7%99-%D7%91%D7%A8%D7%A7.jpg/220px-%D7%A8%D7%91%D7%99-%D7%99%D7%A2%D7%A7%D7%91-%D7%9C%D7%A0%D7%93%D7%90-%D7%96%D7%A6%D7%9C-%D7%92%D7%90%D7%91%D7%93-%D7%91%D7%A0%D7%99-%D7%91%D7%A8%D7%A7.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/f/f4/%D7%A8%D7%91%D7%99-%D7%99%D7%A2%D7%A7%D7%91-%D7%9C%D7%A0%D7%93%D7%90-%D7%96%D7%A6%D7%9C-%D7%92%D7%90%D7%91%D7%93-%D7%91%D7%A0%D7%99-%D7%91%D7%A8%D7%A7.jpg/220px-%D7%A8%D7%91%D7%99-%D7%99%D7%A2%D7%A7%D7%91-%D7%9C%D7%A0%D7%93%D7%90-%D7%96%D7%A6%D7%9C-%D7%92%D7%90%D7%91%D7%93-%D7%91%D7%A0%D7%99-%D7%91%D7%A8%D7%A7.jpg",
+    "primary_place_id": "bnei-brak",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": null,
+        "place_id": "bnei-brak",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1986,
+        "place_id": "bnei-brak",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "rabbi-alter-simchovitch",
@@ -537,7 +751,9 @@
     "role": "Mashpia",
     "bio": "A legendary mashpia and scholar who served as a primary model for chassidic avoda. In 1912 selected by the Rashab among an elite group sent to Hebron to establish Yeshiva Torat Emet; later a central figure at the Jerusalem branch. Served as mashpia of the Chabad yeshiva in Warsaw during the interwar period; one of his prominent students was Rabbi Moshe Ashkenazi. A chozer of the Rashab's discourses. Refused a prestigious burial plot, insisting on being buried 'in the ground like everyone else.'",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/אלתר_שימחוביץ",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/1/11/%D7%90%D7%9C%D7%98%D7%A8_%D7%A9%D7%99%D7%9E%D7%97%D7%95%D7%91%D7%99%D7%A5.png/220px-%D7%90%D7%9C%D7%98%D7%A8_%D7%A9%D7%99%D7%9E%D7%97%D7%95%D7%91%D7%99%D7%A5.png"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/1/11/%D7%90%D7%9C%D7%98%D7%A8_%D7%A9%D7%99%D7%9E%D7%97%D7%95%D7%91%D7%99%D7%A5.png/220px-%D7%90%D7%9C%D7%98%D7%A8_%D7%A9%D7%99%D7%9E%D7%97%D7%95%D7%91%D7%99%D7%A5.png",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-zalman-moshe-hayitzchaki",
@@ -552,7 +768,9 @@
     "role": "Mashpia",
     "bio": "A towering chassidic figure known for profound emotional service, sharp and uncompromising truthfulness, and absolute devotion to the Rebbes of Chabad. Lived in Russia (including Nevel) and later in Tel Aviv and Kfar Chabad. Coined the phrase, 'Whoever does not have the current Rebbe, did not have the previous Rebbe either.' Major chassidic mentors of the next generation including R' Mendel Futerfas and R' Nissan Nemenov attributed their chassidic vitality directly to his influence. Passed away on 3 Shvat 1952.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/זלמן_משה_היצחקי",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/d/d4/%D7%96%D7%9C%D7%9E%D7%9F_%D7%9E%D7%A9%D7%94_%D7%94%D7%99%D7%A6%D7%97%D7%A7%D7%99.jpg/205px-%D7%96%D7%9C%D7%9E%D7%9F_%D7%9E%D7%A9%D7%94_%D7%94%D7%99%D7%A6%D7%97%D7%A7%D7%99.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/d/d4/%D7%96%D7%9C%D7%9E%D7%9F_%D7%9E%D7%A9%D7%94_%D7%94%D7%99%D7%A6%D7%97%D7%A7%D7%99.jpg/205px-%D7%96%D7%9C%D7%9E%D7%9F_%D7%9E%D7%A9%D7%94_%D7%94%D7%99%D7%A6%D7%97%D7%A7%D7%99.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rayatz",
@@ -565,7 +783,11 @@
     "birth_place_id": "lubavitch",
     "death_place_id": "new-york",
     "role": "Rebbe",
-    "bio": "Sixth Lubavitcher Rebbe. Son and successor of the Rashab. Led Chabad through the Soviet persecution; arrested by the OGPU in 1927 and sentenced to death, his release on Yud-Beis Tammuz is celebrated annually. Escaped through Riga, Warsaw, and Otwock; arrived in the United States in 1940 and established the Lubavitch headquarters at 770 Eastern Parkway in Brooklyn. Built underground networks across Soviet Russia through emissaries like R' Chonya Morozov, R' Simcha Gorodetsky, and R' Itche Masmid."
+    "bio": "Sixth Lubavitcher Rebbe. Son and successor of the Rashab. Led Chabad through the Soviet persecution; arrested by the OGPU in 1927 and sentenced to death, his release on Yud-Beis Tammuz is celebrated annually. Escaped through Riga, Warsaw, and Otwock; arrived in the United States in 1940 and established the Lubavitch headquarters at 770 Eastern Parkway in Brooklyn. Built underground networks across Soviet Russia through emissaries like R' Chonya Morozov, R' Simcha Gorodetsky, and R' Itche Masmid.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "rabbi-levi-yitzchak-schneerson",
@@ -580,7 +802,20 @@
     "role": "Family",
     "bio": "Father of the Lubavitcher Rebbe. A renowned Torah scholar, master of Kabbalah, and Chief Rabbi of Yekaterinoslav (Dnepropetrovsk) in Ukraine. His rabbinic ordination was granted by Rabbi Chaim of Brisk. The Rashab listed him among three specific chassidim about whom he said, 'When one of these three asks something, you have to know what to answer.' Courageously declared at a Soviet rabbinical conference that he would not sign a false document even if it meant giving up his life. Ultimately gave his life in actual mesiras nefesh under Soviet persecution.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/לוי_יצחק_שניאורסון",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/a/a6/%D7%9C%D7%95%D7%99_%D7%99%D7%A6%D7%97%D7%A7_%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8%D7%A1%D7%95%D7%9F.jpg/220px-%D7%9C%D7%95%D7%99_%D7%99%D7%A6%D7%97%D7%A7_%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8%D7%A1%D7%95%D7%9F.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/a/a6/%D7%9C%D7%95%D7%99_%D7%99%D7%A6%D7%97%D7%A7_%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8%D7%A1%D7%95%D7%9F.jpg/220px-%D7%9C%D7%95%D7%99_%D7%99%D7%A6%D7%97%D7%A7_%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8%D7%A1%D7%95%D7%9F.jpg",
+    "primary_place_id": "yekaterinoslav",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "yekaterinoslav",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1944,
+        "place_id": "alma-ata",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "rebbetzin-chana",
@@ -590,10 +825,40 @@
     "generation": 6,
     "birth_year": 1880,
     "death_year": 1964,
-    "birth_place_id": null,
+    "birth_place_id": "nikolaev",
     "death_place_id": "new-york",
     "role": "Family",
-    "bio": "Mother of the Lubavitcher Rebbe. Wife of Rabbi Levi Yitzchak Schneerson. Stood by her husband through exile and persecution under the Soviet regime. After his passing, she eventually was brought to Brooklyn where she lived near her son."
+    "bio": "Mother of the Lubavitcher Rebbe. Wife of Rabbi Levi Yitzchak Schneerson. Stood by her husband through exile and persecution under the Soviet regime. After his passing, she eventually was brought to Brooklyn where she lived near her son.",
+    "primary_place_id": "yekaterinoslav",
+    "journey": [
+      {
+        "year": 1898,
+        "place_id": "nikolaev",
+        "event": "Married Rabbi Levi Yitzchak"
+      },
+      {
+        "year": 1909,
+        "place_id": "yekaterinoslav",
+        "event": "Moved with her husband for his Rabbinic post"
+      },
+      {
+        "year": 1947,
+        "place_id": "paris",
+        "event": "Reunited with her son"
+      },
+      {
+        "year": 1947,
+        "place_id": "new-york",
+        "event": "Emigrated to the United States"
+      },
+      {
+        "year": 1964,
+        "place_id": "new-york",
+        "event": "Passed away"
+      }
+    ],
+    "chabadpedia_url": null,
+    "photo_url": null
   },
   {
     "id": "rabbi-yisrael-aryeh-leib",
@@ -606,7 +871,27 @@
     "birth_place_id": "yekaterinoslav",
     "death_place_id": "liverpool",
     "role": "Family",
-    "bio": "Brother of the Lubavitcher Rebbe; son of Rabbi Levi Yitzchak Schneerson. R' Simcha Gorodetsky witnessed him and his father completing an entire Talmudic tractate every single night during a visit to Yekaterinoslav. Later in life he frequently farbrenged with R' Nachum Goldschmid in Tel Aviv."
+    "bio": "Brother of the Lubavitcher Rebbe; son of Rabbi Levi Yitzchak Schneerson. R' Simcha Gorodetsky witnessed him and his father completing an entire Talmudic tractate every single night during a visit to Yekaterinoslav. Later in life he frequently farbrenged with R' Nachum Goldschmid in Tel Aviv.",
+    "primary_place_id": "liverpool",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "nikolaev",
+        "event": "Born"
+      },
+      {
+        "year": null,
+        "place_id": "tel-aviv",
+        "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "liverpool",
+        "event": "Passed away"
+      }
+    ],
+    "chabadpedia_url": null,
+    "photo_url": null
   },
   {
     "id": "reb-elchonon-dov-morozov",
@@ -621,7 +906,9 @@
     "role": "Chossid",
     "bio": "Personal secretary to the Rebbe Rayatz and manager of the entire underground Jewish network throughout the Soviet Union. A brilliant maskil in chassidus and a highly elevated servant of G-d. The Rashab gifted him with profound love and fear of G-d. On Tisha B'Av he would weep over the destruction of the Temple as if it were happening then; on Purim distributed Mishloach Manos all day with boundless joy. Martyred for his holy work under the Soviets (Hy\"d).",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/אלחנן_דב_מרוזוב",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/1/1f/%D7%90%D7%9C%D7%97%D7%A0%D7%9F_%D7%93%D7%95%D7%91_%D7%9E%D7%A8%D7%95%D7%96%D7%95%D7%91.jpg/220px-%D7%90%D7%9C%D7%97%D7%A0%D7%9F_%D7%93%D7%95%D7%91_%D7%9E%D7%A8%D7%95%D7%96%D7%95%D7%91.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/1/1f/%D7%90%D7%9C%D7%97%D7%A0%D7%9F_%D7%93%D7%95%D7%91_%D7%9E%D7%A8%D7%95%D7%96%D7%95%D7%91.jpg/220px-%D7%90%D7%9C%D7%97%D7%A0%D7%9F_%D7%93%D7%95%D7%91_%D7%9E%D7%A8%D7%95%D7%96%D7%95%D7%91.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-chaim-shaul-brook",
@@ -636,7 +923,9 @@
     "role": "Mashpia",
     "bio": "A towering Chabad figure who served as Rosh Yeshiva and mashpia of the Chabad yeshivas in Tel Aviv and Rishon LeZion, where he also served as rabbi of the chassidic community. Renowned for profound Torah knowledge, sharpness, pedagogical mastery, and fierce dedication to authentic chassidic life. A smile never left his face, even during the most difficult times. Often told his students: 'We are all chassidim of the Rebbe, and I am merely the match that lights the fire.'",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/חיים_שאול_ברוק",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/3/35/%D7%97%D7%99%D7%99%D7%9D_%D7%A9%D7%90%D7%95%D7%9C_%D7%91%D7%A8%D7%95%D7%A7.jpg/250px-%D7%97%D7%99%D7%99%D7%9D_%D7%A9%D7%90%D7%95%D7%9C_%D7%91%D7%A8%D7%95%D7%A7.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/3/35/%D7%97%D7%99%D7%99%D7%9D_%D7%A9%D7%90%D7%95%D7%9C_%D7%91%D7%A8%D7%95%D7%A7.jpg/250px-%D7%97%D7%99%D7%99%D7%9D_%D7%A9%D7%90%D7%95%D7%9C_%D7%91%D7%A8%D7%95%D7%A7.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-shlomo-chaim-kesselman",
@@ -651,7 +940,20 @@
     "role": "Mashpia",
     "bio": "Legendary mashpia of the Tomchei Temimim yeshivas in Russia, Tel Aviv, Lod, and ultimately Kfar Chabad. The Rayatz appointed him mashpia in Rostov at age 25, telling him, 'This is a time of war. We take soldiers and make them officers.' The worst label he could give a person was 'Chitzon' (superficial). The Rebbe attested to his unmatched impact: 'The only place where one receives true chassidic grounding is by R' Shlomo Chaim.' Passed away 19 Iyar 5731 (1971).",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שלמה_חיים_קסלמן",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/7/77/%D7%94%D7%9E%D7%A9%D7%A4%D7%99%D7%A2_%D7%A9%D7%9C%D7%9E%D7%94_%D7%97%D7%99%D7%99%D7%9D.jpg/220px-%D7%94%D7%9E%D7%A9%D7%A4%D7%99%D7%A2_%D7%94%D7%9E%D7%A9%D7%A4%D7%99%D7%A2_%D7%A9%D7%9C%D7%9E%D7%94_%D7%97%D7%99%D7%99%D7%9D.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/7/77/%D7%94%D7%9E%D7%A9%D7%A4%D7%99%D7%A2_%D7%A9%D7%9C%D7%9E%D7%94_%D7%97%D7%99%D7%99%D7%9D.jpg/220px-%D7%94%D7%9E%D7%A9%D7%A4%D7%99%D7%A2_%D7%94%D7%9E%D7%A9%D7%A4%D7%99%D7%A2_%D7%A9%D7%9C%D7%9E%D7%94_%D7%97%D7%99%D7%99%D7%9D.jpg",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1971,
+        "place_id": "kfar-chabad",
+        "event": "Passed away"
+      }
+    ],
+    "primary_place_id": null
   },
   {
     "id": "rabbi-eliezer-karasik",
@@ -666,7 +968,9 @@
     "role": "Chossid",
     "bio": "A foundational figure in establishing the Chabad-Lubavitch community and its institutions in the Holy Land. Subdued his natural inclination toward private Torah study to fulfill the Rebbe's directives in public activism. Established a yeshiva and cheder in Tel Aviv per the Rayatz's directives. Succeeded R' Shlomo Yosef Zevin as rabbi of the Chabad synagogue on Montefiore Street. His Tel Aviv home (corner of Rothschild and Mazeh) was the nerve center of Chabad activities in Israel, called by R' Zusha Wilimovsky 'an institution of the Rebbe.'",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/אליעזר_קרסיק",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/6/60/%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8_%D7%A7%D7%A8%D7%A1%D7%99%D7%A7.jpg/220px-%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8_%D7%A7%D7%A8%D7%A1%D7%99%D7%A7.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/6/60/%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8_%D7%A7%D7%A8%D7%A1%D7%99%D7%A7.jpg/220px-%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8_%D7%A7%D7%A8%D7%A1%D7%99%D7%A7.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-mendel-futerfas",
@@ -681,7 +985,15 @@
     "role": "Mashpia",
     "bio": "A legendary mashpia and living symbol of mesiras nefesh. Chief organizer of the 1946 underground 'Exodus from Egypt' that smuggled hundreds of chassidic families out of the Soviet Union via Lviv. Captured and sentenced to eight years in a Siberian labor camp. Maintained strict kashrus and spiritual integrity throughout. Later served as primary mashpia in Kfar Chabad, shaping a generation of students through profound, raw, authentic chassidic teachings.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/מנחם_מענדל_פוטרפס",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/6/64/%D7%9E%D7%A2%D7%A0%D7%93%D7%9C_%D7%A4%D7%95%D7%98%D7%A2%D7%A8%D7%A4%D7%90%D7%A1_%D7%94%D7%AA%D7%95%D7%95%D7%A2%D7%93%D7%95%D7%AA.jpg/220px-%D7%9E%D7%A2%D7%A0%D7%93%D7%9C_%D7%A4%D7%95%D7%98%D7%A2%D7%A8%D7%A4%D7%90%D7%A1_%D7%94%D7%AA%D7%95%D7%95%D7%A2%D7%93%D7%95%D7%AA.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/6/64/%D7%9E%D7%A2%D7%A0%D7%93%D7%9C_%D7%A4%D7%95%D7%98%D7%A2%D7%A8%D7%A4%D7%90%D7%A1_%D7%94%D7%AA%D7%95%D7%95%D7%A2%D7%93%D7%95%D7%AA.jpg/220px-%D7%9E%D7%A2%D7%A0%D7%93%D7%9C_%D7%A4%D7%95%D7%98%D7%A2%D7%A8%D7%A4%D7%90%D7%A1_%D7%94%D7%AA%D7%95%D7%95%D7%A2%D7%93%D7%95%D7%AA.jpg",
+    "primary_place_id": "kfar-chabad",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "kfar-chabad",
+        "event": "Appointed Mashpia"
+      }
+    ]
   },
   {
     "id": "rabbi-yechezkel-feigin",
@@ -696,7 +1008,15 @@
     "role": "Mashpia",
     "bio": "A towering chassidic figure, profound thinker, and devoted soldier of Chabad. Served as a primary mashpia in the Tomchei Temimim yeshiva and as personal secretary to the Rebbe Rayatz. Led the underground yeshiva network in Soviet Russia. Taught that the entirety of chassidic philosophy boiled down to one point: 'The world is not a reality at all.' Hy\"d.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/יחזקאל_פייגין",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/2/24/%D7%A8%27_%D7%97%D7%90%D7%98%D7%A9%D7%A2_%D7%A4%D7%99%D7%99%D7%92%D7%99%D7%9F.png/220px-%D7%A8%27_%D7%97%D7%90%D7%98%D7%A9%D7%A2_%D7%A4%D7%99%D7%99%D7%92%D7%99%D7%9F.png"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/2/24/%D7%A8%27_%D7%97%D7%90%D7%98%D7%A9%D7%A2_%D7%A4%D7%99%D7%99%D7%92%D7%99%D7%9F.png/220px-%D7%A8%27_%D7%97%D7%90%D7%98%D7%A9%D7%A2_%D7%A4%D7%99%D7%99%D7%92%D7%99%D7%9F.png",
+    "primary_place_id": "riga",
+    "journey": [
+      {
+        "year": 1941,
+        "place_id": "riga",
+        "event": "Perished in the Holocaust"
+      }
+    ]
   },
   {
     "id": "reb-pinye-althaus",
@@ -711,7 +1031,9 @@
     "role": "Chossid",
     "bio": "A central pillar of the Chabad community in Tel Aviv, a devoted emissary of the Rayatz in the Holy Land. Categorized by the Rebbe as one of the key figures who took part in the Rayatz's historic liberation. Passed away on 9 Iyar 1963 and was buried in Tzfat.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/פנחס_אלטהויז",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/1/1f/%D7%A4%D7%99%D7%A0%D7%99%D7%99%D7%A2.jpg/220px-%D7%A4%D7%99%D7%A0%D7%99%D7%99%D7%A2.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/1/1f/%D7%A4%D7%99%D7%A0%D7%99%D7%99%D7%A2.jpg/220px-%D7%A4%D7%99%D7%A0%D7%99%D7%99%D7%A2.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-nachum-goldschmid",
@@ -726,7 +1048,9 @@
     "role": "Mashpia",
     "bio": "A prominent mashpia, central pillar of the Chabad community in Tel Aviv, and legendary expositor of chassidic philosophy. The Rayatz remarked that establishing the entire Tomchei Temimim yeshiva network would have been worthwhile even if only to produce Reb Nachum. Known as 'the explainer of chassidus to the masses'—his Tanya classes were broadcast on radio. Israel's President Zalman Shazar and author S.Y. Agnon attended his farbrengens. Dubbed 'Peh Mefik Margaliyot' (a mouth producing pearls) by Reb Itche Masmid.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/נחום_גולדשמיד",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/a/a1/%D7%A0%D7%97%D7%95%D7%9D_%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%9E%D7%99%D7%93.png/220px-%D7%A0%D7%97%D7%95%D7%9D_%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%9E%D7%99%D7%93.png"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/a/a1/%D7%A0%D7%97%D7%95%D7%9D_%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%9E%D7%99%D7%93.png/220px-%D7%A0%D7%97%D7%95%D7%9D_%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%9E%D7%99%D7%93.png",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-moshe-gurary",
@@ -741,7 +1065,9 @@
     "role": "Chossid",
     "bio": "A prominent chassid, profound intellectual in chassidus, and dedicated communal activist in the Holy Land. The Rayatz held him in extremely high regard, saying activists in the Holy Land must be 'ours—like Leizer [Karasik] and Meishke.' His home on Feierberg Street in Tel Aviv was the ultimate destination for anyone seeking to clarify difficult concepts in chassidus.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/משה_גוראריה",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/3/37/%D7%9E%D7%A9%D7%94_%D7%92%D7%95%D7%A8%D7%90%D7%A8%D7%99%D7%942.png/220px-%D7%9E%D7%A9%D7%94_%D7%92%D7%95%D7%A8%D7%90%D7%A8%D7%99%D7%942.png"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/3/37/%D7%9E%D7%A9%D7%94_%D7%92%D7%95%D7%A8%D7%90%D7%A8%D7%99%D7%942.png/220px-%D7%9E%D7%A9%D7%94_%D7%92%D7%95%D7%A8%D7%90%D7%A8%D7%99%D7%942.png",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-alexander-sender-yudasin",
@@ -756,7 +1082,9 @@
     "role": "Chossid",
     "bio": "A prominent Chabad rabbi and author who immigrated to the Holy Land. Served as rabbi of the Neve Tzedek neighborhood in Jaffa, succeeding the veteran Chabad rabbi Rabbi Shneur Zalman Slonim. Remembered for deep wisdom, level-headed judgment, and profound dedication to teaching chassidic philosophy.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/אלכסנדר_סנדר_יודאסין",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/d/d5/%D7%90%D7%9C%D7%9B%D7%A1%D7%A0%D7%93%D7%A8_%D7%A1%D7%A0%D7%93%D7%A8_%D7%99%D7%95%D7%93%D7%A1%D7%99%D7%9F.jpg/220px-%D7%90%D7%9C%D7%9B%D7%A1%D7%A0%D7%93%D7%A8_%D7%A1%D7%A0%D7%93%D7%A8_%D7%99%D7%95%D7%93%D7%A1%D7%99%D7%9F.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/d/d5/%D7%90%D7%9C%D7%9B%D7%A1%D7%A0%D7%93%D7%A8_%D7%A1%D7%A0%D7%93%D7%A8_%D7%99%D7%95%D7%93%D7%A1%D7%99%D7%9F.jpg/220px-%D7%90%D7%9C%D7%9B%D7%A1%D7%A0%D7%93%D7%A8_%D7%A1%D7%A0%D7%93%D7%A8_%D7%99%D7%95%D7%93%D7%A1%D7%99%D7%9F.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-folleh-kahn",
@@ -771,7 +1099,9 @@
     "role": "Chossid",
     "bio": "A prominent and deeply emotional chassid renowned for phenomenal memory, intense spiritual passion, and a foundational role in preserving and transmitting chassidic history. Father of R' Yoel Kahn, the Rebbe's chief chozer. Immigrated to the Holy Land in the 1930s, residing in Ramat Gan, Tel Aviv, and eventually Kfar Chabad. Suffered three years of exile in Siberia for studying Torah and spreading Judaism, maintaining a deep correspondence with R' Yankel Zurovitzer during that time.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/רפאל_נחמן_כהן",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/5/56/%D7%A8%D7%A4%D7%90%D7%9C_%D7%A0%D7%97%D7%9E%D7%9F_%D7%9B%D7%94%D7%9F.jpg/220px-%D7%A8%D7%A4%D7%90%D7%9C_%D7%A0%D7%97%D7%9E%D7%9F_%D7%9B%D7%94%D7%9F.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/5/56/%D7%A8%D7%A4%D7%90%D7%9C_%D7%A0%D7%97%D7%9E%D7%9F_%D7%9B%D7%94%D7%9F.jpg/220px-%D7%A8%D7%A4%D7%90%D7%9C_%D7%A0%D7%97%D7%9E%D7%9F_%D7%9B%D7%94%D7%9F.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-avraham-pariz",
@@ -786,7 +1116,9 @@
     "role": "Chossid",
     "bio": "A legendary and fiery chassid celebrated for his profound, uncompromising hiskashrus to the Rebbes of Chabad. As a Tomchei Temimim student around 1898 in Lubavitch, he secretly copied the Rashab's unreleased marginal notes on Torah Or—when discovered, the Rashab praised him saying, 'A blessing upon him, and I wish others would steal too!' Played a central role corresponding with the seventh Rebbe to plead with him to accept the leadership in 1951.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/אברהם_פריז",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/8/8c/%D7%A4%D7%90%D7%A8%D7%99%D7%96.jpg/220px-%D7%A4%D7%90%D7%A8%D7%99%D7%96.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/8/8c/%D7%A4%D7%90%D7%A8%D7%99%D7%96.jpg/220px-%D7%A4%D7%90%D7%A8%D7%99%D7%96.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-yankel-zurovitzer",
@@ -801,7 +1133,9 @@
     "role": "Chossid",
     "bio": "A highly revered and authentic chassid who embodied the core educational values of Tomchei Temimim—serving G-d and showing immense love for his fellow Jews in every situation, always out of joy and a good heart. Maintained close correspondence with R' Folleh Kahn during the latter's Siberian exile, sending him deep chassidic insights regarding prayer and the holidays. Martyred Al Kiddush Hashem under the Soviets; the Rebbe established his yahrzeit as the 24th of Teves.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/יעקב_זכריה_מסקליק",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/d/d2/%D7%A8%27_%D7%99%D7%A2%D7%A0%D7%A7%D7%9C_%D7%9E%D7%90%D7%A1%D7%A7%D7%90%D7%9C%D7%99%D7%A7.png/220px-%D7%A8%27_%D7%99%D7%A2%D7%A0%D7%A7%D7%9C_%D7%9E%D7%90%D7%A1%D7%A7%D7%90%D7%9C%D7%99%D7%A7.png"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/d/d2/%D7%A8%27_%D7%99%D7%A2%D7%A0%D7%A7%D7%9C_%D7%9E%D7%90%D7%A1%D7%A7%D7%90%D7%9C%D7%99%D7%A7.png/220px-%D7%A8%27_%D7%99%D7%A2%D7%A0%D7%A7%D7%9C_%D7%9E%D7%90%D7%A1%D7%A7%D7%90%D7%9C%D7%99%D7%A7.png",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-simcha-gorodetsky",
@@ -816,7 +1150,9 @@
     "role": "Chossid",
     "bio": "A legendary chassid, devoted Shadar of the Rayatz, and towering symbol of mesiras nefesh who survived decades of communist persecution. In 1923 sent by the Rayatz to establish a network of underground Torah schools in the Bukhara region, gathering over 800 students under 45 teachers in Samarkand within three months. Endured 10 years of imprisonment and exile. Finally permitted to leave Russia in 1964 and moved to Israel, establishing a Talmud Torah for Bukharan immigrants in Kfar Chabad.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שמחה_גורודצקי",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/4/41/%D7%A9%D7%9E%D7%97%D7%94_%D7%92%D7%95%D7%A8%D7%93%D7%95%D7%A6%D7%A7%D7%99.jpg/250px-%D7%A9%D7%9E%D7%97%D7%94_%D7%92%D7%95%D7%A8%D7%93%D7%95%D7%A6%D7%A7%D7%99.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/4/41/%D7%A9%D7%9E%D7%97%D7%94_%D7%92%D7%95%D7%A8%D7%93%D7%95%D7%A6%D7%A7%D7%99.jpg/250px-%D7%A9%D7%9E%D7%97%D7%94_%D7%92%D7%95%D7%A8%D7%93%D7%95%D7%A6%D7%A7%D7%99.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-zalman-leib-estulin",
@@ -831,7 +1167,9 @@
     "role": "Chossid",
     "bio": "A scholarly and deeply devoted chassid whose life bridged Soviet Russia and the rebuilding of Chabad in Bnei Brak, Israel. Disabled by a leg wound from WWII military service, he used his condition as cover to teach Jewish children in an underground cheder in Tashkent (organized by R' Aharon Chazan). Known for immense Torah genius, fiery chassidic spirit, sharp wit, and self-sacrifice. After immigrating, became a primary speaker and spiritual pillar of the Chabad synagogue in Bnei Brak.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/זלמן_לייב_אסטולין",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/7/78/%D7%97%D7%99%D7%99.jpg/220px-%D7%97%D7%99%D7%99.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/7/78/%D7%97%D7%99%D7%99.jpg/220px-%D7%97%D7%99%D7%99.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-motel-kozliner",
@@ -846,7 +1184,9 @@
     "role": "Mashpia",
     "bio": "A prominent mashpia known for sharp intellect, profound connection to the Rebbe, and absolute precision in transmitting chassidic history. Initially served as mashpia in the Chabad Yeshiva in Kiryat Gat. In 1972 the Rebbe instructed him to establish a Yeshiva for Russian immigrants in Nachlat Har Chabad (Kiryat Malachi). A student of R' Mendel Futerfas. Provided profound chassidic guidance to the community following 3 Tammuz 1994.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/מרדכי_קוזלינר",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/0/06/%D7%A7%D7%95%D7%96%D7%9C%D7%99%D7%A0%D7%A8_%D7%9E%D7%95%D7%98%27%D7%9C.jpg/250px-%D7%A7%D7%95%D7%96%D7%9C%D7%99%D7%A0%D7%A8_%D7%9E%D7%95%D7%98%27%D7%9C.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/0/06/%D7%A7%D7%95%D7%96%D7%9C%D7%99%D7%A0%D7%A8_%D7%9E%D7%95%D7%98%27%D7%9C.jpg/250px-%D7%A7%D7%95%D7%96%D7%9C%D7%99%D7%A0%D7%A8_%D7%9E%D7%95%D7%98%27%D7%9C.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-chaim-moshe-alperovitz",
@@ -861,7 +1201,9 @@
     "role": "Chossid",
     "bio": "A towering, legendary chassid considered by his peers from the original Lubavitch yeshiva to have reached the rare spiritual level of a Beinoni. Immigrated to the Holy Land in 1935, living in Jerusalem, Ramat Gan, and ultimately Bnei Brak. Despite his brilliant mind, chose to work as a simple construction worker so his mind would be free for Torah and chassidus. The Rebbe approved the inscription on his tombstone: 'He was careful in thought, speech, and action all the days of his life.'",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/חיים_משה_אלפרוביץ",
-    "photo_url": "https://chabadpedia.co.il/images/3/31/%D7%97%D7%99%D7%99%D7%9D_%D7%9E%D7%A9%D7%94_%D7%90%D7%9C%D7%A4%D7%A8%D7%95%D7%91%D7%99%D7%A5.JPG"
+    "photo_url": "https://chabadpedia.co.il/images/3/31/%D7%97%D7%99%D7%99%D7%9D_%D7%9E%D7%A9%D7%94_%D7%90%D7%9C%D7%A4%D7%A8%D7%95%D7%91%D7%99%D7%A5.JPG",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-meir-blizinsky",
@@ -876,7 +1218,9 @@
     "role": "Mashpia",
     "bio": "A profound mashpia and influential figure who led a small but vibrant Chabad community in Ramat Gan. Known for immense success in translating deep chassidic concepts into accessible, modern language. Transmitted teachings from his Warsaw mashpia, Rabbi Alter Simchovitz, regarding the inner perfection of R' Shilem Kuratin.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/מאיר_בליזינסקי",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/6/63/%D7%9E%D7%90%D7%99%D7%A8_%D7%91%D7%9C%D7%99%D7%96%D7%99%D7%A0%D7%A1%D7%A7%D7%992.jpg/220px-%D7%9E%D7%90%D7%99%D7%A8_%D7%91%D7%9C%D7%99%D7%96%D7%99%D7%A0%D7%A1%D7%A7%D7%992.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/6/63/%D7%9E%D7%90%D7%99%D7%A8_%D7%91%D7%9C%D7%99%D7%96%D7%99%D7%A0%D7%A1%D7%A7%D7%992.jpg/220px-%D7%9E%D7%90%D7%99%D7%A8_%D7%91%D7%9C%D7%99%D7%96%D7%99%D7%A0%D7%A1%D7%A7%D7%992.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-azriel-zelig-slonim",
@@ -891,7 +1235,25 @@
     "role": "Chossid",
     "bio": "A towering chassidic figure, devoted emissary, and central pillar of the Chabad community in Jerusalem. Born in the Holy Land, traveled to Lubavitch in his youth where he studied in Tomchei Temimim and received rare close attention from the Rebbes. A disciple of Reb Leizer Chechersker. During his youth regularly ate at the home of Rebbetzin Rivkah and on Shabbos and holidays at the table of the Rashab.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/עזריאל_זעליג_סלונים",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/c/c9/%D7%94%D7%A8%D7%91_%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C_%D7%96%D7%9C%D7%99%D7%92_%D7%A1%D7%9C%D7%95%D7%A0%D7%99%D7%9D.jpg/220px-%D7%94%D7%A8%D7%91_%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C_%D7%96%D7%9C%D7%99%D7%92_%D7%A1%D7%9C%D7%95%D7%A0%D7%99%D7%9D.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/c/c9/%D7%94%D7%A8%D7%91_%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C_%D7%96%D7%9C%D7%99%D7%92_%D7%A1%D7%9C%D7%95%D7%A0%D7%99%D7%9D.jpg/220px-%D7%94%D7%A8%D7%91_%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C_%D7%96%D7%9C%D7%99%D7%92_%D7%A1%D7%9C%D7%95%D7%A0%D7%99%D7%9D.jpg",
+    "primary_place_id": "jerusalem",
+    "journey": [
+      {
+        "year": 1897,
+        "place_id": "hebron",
+        "event": "Born"
+      },
+      {
+        "year": null,
+        "place_id": "jerusalem",
+        "event": "Lived"
+      },
+      {
+        "year": 1972,
+        "place_id": "jerusalem",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "rabbi-nissan-nemenov",
@@ -906,7 +1268,15 @@
     "role": "Mashpia",
     "bio": "A legendary mashpia and principal of the Tomchei Temimim yeshiva in Brunoy, France. Universally revered for unparalleled, uncompromising kabbalas ol (acceptance of the Heavenly yoke) and intense daily practice of iskafya (subduing physical desires). His chassidic vitality was attributed to the profound influence of R' Zalman Moshe HaYitzchaki.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/ניסן_נמנוב",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/8/8d/%D7%A8_%D7%A0%D7%99%D7%A1%D7%9F.jpg/220px-%D7%A8_%D7%A0%D7%99%D7%A1%D7%9F.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/8/8d/%D7%A8_%D7%A0%D7%99%D7%A1%D7%9F.jpg/220px-%D7%A8_%D7%A0%D7%99%D7%A1%D7%9F.jpg",
+    "primary_place_id": "brunoy",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "brunoy",
+        "event": "Served as Mashpia"
+      }
+    ]
   },
   {
     "id": "reb-yisrael-neveler",
@@ -921,7 +1291,9 @@
     "role": "Chossid",
     "bio": "A deeply devoted chassid known for uncompromising dedication to Judaism and Jewish education under the oppressive Soviet regime. Managed an underground cheder in Russia; arrested in Elul 1937, imprisoned and tortured for over a year, miraculously released the day after Yom Kippur 1938. Upon learning his daughter had been sent to a Soviet school as a condition of his release, he declared he would return to prison immediately rather than subject her to communist secular education.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/ישראל_לוין",
-    "photo_url": "https://chabadpedia.co.il/images/9/95/%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%9C%D7%95%D7%99%D7%9F_%28%D7%A0%D7%A2%D7%95%D7%95%D7%A2%D7%9C%29.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/9/95/%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%9C%D7%95%D7%99%D7%9F_%28%D7%A0%D7%A2%D7%95%D7%95%D7%A2%D7%9C%29.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "reb-avraham-mayor-drizin",
@@ -936,7 +1308,25 @@
     "role": "Mashpia",
     "bio": "A central and highly influential figure in the early years of Kfar Chabad. Served as spiritual director (Menahel Ruchani) of the Tomchei Temimim yeshiva in Lod, credited with successfully raising a chassidic generation among Sephardic youth. Married to the daughter of R' Zalman Moshe HaYitzchaki. Moved to New York in 1959. Renowned as both a profound maskil and a dedicated oved.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/אברהם_דריזין_(מאיור)",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/8/87/Drizin_%28Mayor%29%2C_Avraham_04.jpg/220px-Drizin_%28Mayor%29%2C_Avraham_04.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/8/87/Drizin_%28Mayor%29%2C_Avraham_04.jpg/220px-Drizin_%28Mayor%29%2C_Avraham_04.jpg",
+    "primary_place_id": "new-york",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "nevel",
+        "event": "Appointed Mashpia"
+      },
+      {
+        "year": 1946,
+        "place_id": "lviv",
+        "event": "Escaped"
+      },
+      {
+        "year": null,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      }
+    ]
   },
   {
     "id": "rabbi-shaul-dovber-zislin",
@@ -951,7 +1341,9 @@
     "role": "Chossid",
     "bio": "A towering figure in Chabad history who seamlessly combined strict rabbinic authority with pure, authentic chassidishkeit. Eulogized by Rabbi Yaakov Landau as the 'Peri Etz Hadar' of Lubavitch. Before moving to the Holy Land served as rabbi in several Soviet cities and as director and mashpia in the Tomchei Temimim yeshiva in Shchedrin. Later served as rabbi of the Mea Shearim neighborhood in Jerusalem and as prominent Chabad rabbi and dayyan in Tel Aviv-Jaffa. Profoundly shaped the next generation of Chabad mentors including R' Chaim Shaul Brook and R' Shlomo Chaim Kesselman.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שאול_דוב_זיסלין",
-    "photo_url": "https://chabadpedia.co.il/images/b/bc/Zislin%2C_Shaiel_Ber_03.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/b/bc/Zislin%2C_Shaiel_Ber_03.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-shashonkin",
@@ -966,7 +1358,9 @@
     "role": "Chossid",
     "bio": "A prominent chassid and scholar who played a central role in establishing and nurturing the Chabad community in Jerusalem during the mid-20th century. Arrived in Israel in 1950 and served as rabbi for the Chabad community in Jerusalem, deepening chassidic life by encouraging study of chassidus, revitalizing the avoda of prayer, and connecting many to the Chabad Rebbes. After the passing of the Rayatz, boldly testified to the holiness of the seventh Rebbe: 'The Rebbe is a Rebbe!'",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/נחום_שמריהו_ששונקין",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/a/ad/%D7%94%D7%A8%D7%91_%D7%A9%D7%A9%D7%95%D7%A0%D7%A7%D7%99%D7%9F.jpg/220px-%D7%94%D7%A8%D7%91_%D7%A9%D7%A9%D7%95%D7%A0%D7%A7%D7%99%D7%9F.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/a/ad/%D7%94%D7%A8%D7%91_%D7%A9%D7%A9%D7%95%D7%A0%D7%A7%D7%99%D7%9F.jpg/220px-%D7%94%D7%A8%D7%91_%D7%A9%D7%A9%D7%95%D7%A0%D7%A7%D7%99%D7%9F.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-asher-sasonkin",
@@ -981,7 +1375,9 @@
     "role": "Chossid",
     "bio": "Son of Rabbi Nachum Shmaryahu Sasonkin; a legendary chassid remembered for fierce devotion, unyielding mesiras nefesh in Soviet Russia, and profound connection to the Lubavitcher Rebbe. Famously inspired teshuvah in a Jewish prisoner named Rozman by stepping forward and claiming to be him to spare him forced Shabbos work, then accepting solitary confinement under inhumane conditions. After miraculous release from Russia, moved to Jerusalem.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/אשר_ששונקין",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/a/ad/Yeh45wuw_large.jpg/220px-Yeh45wuw_large.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/a/ad/Yeh45wuw_large.jpg/220px-Yeh45wuw_large.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-moshe-ashkenazi",
@@ -996,7 +1392,9 @@
     "role": "Chossid",
     "bio": "Served as rabbi of the Chabad community in Tel Aviv. Father of Rabbi Mordechai Shmuel Ashkenazi and son-in-law and successor of Rabbi Eliezer Karasik. Lived in his late father-in-law's home at the corner of Rothschild Boulevard and Maze Street in Tel Aviv. Educated by his great mashpia Rabbi Alter Shimchovitz. Acquired a special small Torah scroll that had a rich history in a Russian prison, which he brought as a gift to the Lubavitcher Rebbe, who used to dance with it during Hakafot of Simchat Torah.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/משה_אשכנזי",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/c/ca/%D7%9E%D7%A9%D7%94_%D7%90%D7%A8%D7%A4%D7%99%D7%9C%D7%95%D7%92%D7%99_%D7%A9%D7%9C_%D7%9E%D7%A9%D7%94_%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99.jpg/220px-%D7%9E%D7%A9%D7%94_%D7%90%D7%A8%D7%A4%D7%99%D7%9C%D7%95%D7%92%D7%99_%D7%A9%D7%9C_%D7%9E%D7%A9%D7%94_%D7%90%D7%A8%D7%A4%D7%99%D7%9C%D7%95%D7%92%D7%99.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/c/ca/%D7%9E%D7%A9%D7%94_%D7%90%D7%A8%D7%A4%D7%99%D7%9C%D7%95%D7%92%D7%99_%D7%A9%D7%9C_%D7%9E%D7%A9%D7%94_%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99.jpg/220px-%D7%9E%D7%A9%D7%94_%D7%90%D7%A8%D7%A4%D7%99%D7%9C%D7%95%D7%92%D7%99_%D7%A9%D7%9C_%D7%9E%D7%A9%D7%94_%D7%90%D7%A8%D7%A4%D7%99%D7%9C%D7%95%D7%92%D7%99.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-yerucham-gorelik",
@@ -1011,7 +1409,9 @@
     "role": "Chossid",
     "bio": "A distinguished chassid and 'Tamim' at the Tomchei Temimim yeshiva in Lubavitch during the era of the Rashab and the Rayatz. Rabbi Yaakov Landau counted him among the most wondrous and spiritually abstracted students, calling him an 'outstanding Tamim.' During a yechidus the Rashab told him, 'From your question, I see that you have elevated yourself more than I thought.'",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/ירוחם_גרליק",
-    "photo_url": null
+    "photo_url": null,
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-yoel-kahn",
@@ -1026,7 +1426,9 @@
     "role": "Chossid",
     "bio": "Widely known as 'the Chozer'—the individual responsible for memorizing, reviewing, and transcribing the Rebbe's discourses. Son of R' Folleh Kahn. A preserver of the Rebbe's teachings and transmitter of remarkable stories about the Rebbe's personal care for individuals. Regularly sent transcripts (hanachos) of the Rebbe's discourses to his father in Israel. A trusted guide for other chassidim.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/יואל_כהן",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/5/54/%D7%A8%27_%D7%99%D7%95%D7%90%D7%9C_%D7%94%D7%9B%D7%94%D7%9F_%D7%9B%D7%94%D7%9F.jpg/220px-%D7%A8%27_%D7%99%D7%95%D7%90%D7%9C_%D7%94%D7%9B%D7%94%D7%9F_%D7%9B%D7%94%D7%9F.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/5/54/%D7%A8%27_%D7%99%D7%95%D7%90%D7%9C_%D7%94%D7%9B%D7%94%D7%9F_%D7%9B%D7%94%D7%9F.jpg/220px-%D7%A8%27_%D7%99%D7%95%D7%90%D7%9C_%D7%94%D7%9B%D7%94%D7%9F_%D7%9B%D7%94%D7%9F.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-shlomo-yosef-zevin",
@@ -1041,7 +1443,20 @@
     "role": "Chossid",
     "bio": "A prominent 'man of Halacha' and the author of the well-known book Sipurei Chassidim (Chassidic Tales). Served as rabbi of the Chabad synagogue in Tel Aviv before R' Eliezer Karasik succeeded him. Famously used a chassidic story to block a Tel Aviv municipal law banning beggars. In an article commemorating the 150th anniversary of the Alter Rebbe's passing, described him as 'a wondrous figure who generated entire eras and revolutionized Jewish worldview, lifestyle, and feeling.'",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שלמה_יוסף_זוין",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/e/e5/%D7%94%D7%A8%D7%91_%D7%96%D7%95%D7%95%D7%99%D7%9F.jpg/220px-%D7%94%D7%A8%D7%91_%D7%96%D7%95%D7%95%D7%99%D7%9F.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/e/e5/%D7%94%D7%A8%D7%91_%D7%96%D7%95%D7%95%D7%99%D7%9F.jpg/220px-%D7%94%D7%A8%D7%91_%D7%96%D7%95%D7%95%D7%99%D7%9F.jpg",
+    "primary_place_id": "jerusalem",
+    "journey": [
+      {
+        "year": 1934,
+        "place_id": "jerusalem",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1978,
+        "place_id": "jerusalem",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "rabbi-shmuel-zalmanov",
@@ -1056,7 +1471,15 @@
     "role": "Chossid",
     "bio": "A prominent chassid best known for significant contributions to chassidic literature and his role in preserving the oral traditions of the movement. Authored two influential collections: Shmuot VeSippurim (Hearings and Stories) and Lubavitch VeChayaleha (Lubavitch and Its Soldiers). The Rebbe personally encouraged him to write and publish these stories, emphasizing that chassidic stories can sometimes awaken fear of Heaven more effectively than other teachings.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שמואל_זלמנוב",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/6/64/%D7%A9%D7%96.jpg/250px-%D7%A9%D7%96.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/6/64/%D7%A9%D7%96.jpg/250px-%D7%A9%D7%96.jpg",
+    "primary_place_id": "new-york",
+    "journey": [
+      {
+        "year": 1940,
+        "place_id": "vilna",
+        "event": "Fled the outbreak of World War II"
+      }
+    ]
   },
   {
     "id": "rabbi-avraham-chaim-naeh",
@@ -1071,7 +1494,9 @@
     "role": "Chossid",
     "bio": "A towering halachic authority and devoted chassid; author of Ketzot HaShulchan, Piskei HaSiddur, and Shiurei Tziyon. Established that an Amah is 48 centimeters and a Revi'it is 86.25 grams—standard halachic measurements in much of the Jewish world. Engaged in a famous dispute with the Chazon Ish over measurements, defending the Alter Rebbe's precision. Edited the Luach Kolel Chabad. Immediately after the Rayatz's passing, declared at a Jerusalem gathering: 'The golden chain will not break; the Ramash Shlita will continue it!'",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/אברהם_חיים_נאה",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/2/27/%D7%97%D7%99%D7%99%D7%9D_%D7%A0%D7%90%D7%94.jpg/220px-%D7%97%D7%99%D7%99%D7%9D_%D7%A0%D7%90%D7%94.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/2/27/%D7%97%D7%99%D7%99%D7%9D_%D7%A0%D7%90%D7%94.jpg/220px-%D7%97%D7%99%D7%99%D7%9D_%D7%A0%D7%90%D7%94.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-shneur-zalman-garlick",
@@ -1086,7 +1511,9 @@
     "role": "Chossid",
     "bio": "Esteemed Mara D'asra (Chief Rabbi) of Kfar Chabad for twenty-five years, guiding the community with brilliance, firm authority, and absolute devotion to the Rebbe. Tragically killed on the night of 8 Sivan 1974 at age 94 when his vehicle overturned returning from Jerusalem to Kfar Chabad. The Rebbe dedicated an entire Sicha to this heartbreaking event. Succeeded as Mara D'asra by his son-in-law Rabbi Nachum Trebnik.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שניאור_זלמן_גרליק",
-    "photo_url": "https://chabadpedia.co.il/images/5/58/%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8_%D7%96%D7%9C%D7%9E%D7%9F_%D7%92%D7%A8%D7%9C%D7%99%D7%A7.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/5/58/%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8_%D7%96%D7%9C%D7%9E%D7%9F_%D7%92%D7%A8%D7%9C%D7%99%D7%A7.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-shraga-melech-kaplan",
@@ -1101,7 +1528,9 @@
     "role": "Chossid",
     "bio": "Arrived in the Holy Land in 1949 and was appointed Rabbi of the Chabad community in Lod and Rosh Yeshiva of the local Tomchei Temimim yeshiva. Despite severe financial hardship, rejected tempting offers for other rabbinic positions conditional upon joining 'Hapoel HaMizrachi.' Accepted the Lod position only after a direct written command from the Rayatz in Tishrei 5710.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שרגא_מלך_קפלן",
-    "photo_url": "https://chabadpedia.co.il/images/4/45/%D7%9E%D7%9C%D7%9A_%D7%A7%D7%A4%D7%9C%D7%9F.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/4/45/%D7%9E%D7%9C%D7%9A_%D7%A7%D7%A4%D7%9C%D7%9F.jpg",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-david-horodoker",
@@ -1116,7 +1545,9 @@
     "role": "Chossid",
     "bio": "A highly distinguished chassid and prominent student of the Tomchei Temimim yeshiva. The Rashab famously declared that the entire establishment of Tomchei Temimim was worthwhile just for the sake of producing two specific individuals: Rabbi David Horodoker and Rabbi Itche Masmid. A student of the elder chassid R' Michoel Bliner.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/דוד_הורודוקר",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/1/16/%D7%93%D7%95%D7%93_%D7%94%D7%90%D7%A8%D7%90%D7%93%D7%90%D7%A7%D7%A2%D7%A8.png/250px-%D7%93%D7%95%D7%93_%D7%94%D7%90%D7%A8%D7%90%D7%93%D7%90%D7%A7%D7%A2%D7%A8.png"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/1/16/%D7%93%D7%95%D7%93_%D7%94%D7%90%D7%A8%D7%90%D7%93%D7%90%D7%A7%D7%A2%D7%A8.png/250px-%D7%93%D7%95%D7%93_%D7%94%D7%90%D7%A8%D7%90%D7%93%D7%90%D7%A7%D7%A2%D7%A8.png",
+    "primary_place_id": null,
+    "journey": []
   },
   {
     "id": "rabbi-moshe-yehuda-reichman",
@@ -1129,7 +1560,11 @@
     "birth_place_id": null,
     "death_place_id": "jerusalem",
     "role": "Mashpia",
-    "bio": "A prominent chassid who served as one of the great mashpiyim at the Toras Emes yeshiva in Jerusalem. Contributed to establishing and building the Chabad community in Jerusalem, alongside Rabbi David Goldberg and Rabbi Moshe Weber. Student and brother-in-law of R' Alter Shimchovitz; preserved and relayed many stories and teachings from his great mentor."
+    "bio": "A prominent chassid who served as one of the great mashpiyim at the Toras Emes yeshiva in Jerusalem. Contributed to establishing and building the Chabad community in Jerusalem, alongside Rabbi David Goldberg and Rabbi Moshe Weber. Student and brother-in-law of R' Alter Shimchovitz; preserved and relayed many stories and teachings from his great mentor.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "rabbi-shlomo-aharon-kazarnovsky",
@@ -1144,7 +1579,30 @@
     "role": "Chossid",
     "bio": "Served as a member of Agudas Chasidei Chabad in the United States. The designated figure responsible for handling complex and sensitive communal matters; in 1945 his expertise was required to deal with a severe problem in the Chicago Chabad community. A highly experienced fundraiser; Rabbi Shlomo Cunin accompanied him at the start of his shlichus specifically to learn the art of fundraising.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שלמה_אהרן_קזרנובסקי",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/f/f3/Kazaranovsky%2C_Shlomo_Aharon_02.jpg/250px-Kazaranovsky%2C_Shlomo_Aharon_02.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/f/f3/Kazaranovsky%2C_Shlomo_Aharon_02.jpg/250px-Kazaranovsky%2C_Shlomo_Aharon_02.jpg",
+    "primary_place_id": "new-york",
+    "journey": [
+      {
+        "year": 1897,
+        "place_id": "mohilev",
+        "event": "Born"
+      },
+      {
+        "year": 1911,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1927,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      },
+      {
+        "year": 1982,
+        "place_id": "new-york",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "the-rebbe",
@@ -1157,7 +1615,11 @@
     "birth_place_id": "nikolaev",
     "death_place_id": "new-york",
     "role": "Rebbe",
-    "bio": "Seventh Lubavitcher Rebbe. Son of Rabbi Levi Yitzchak Schneerson and Rebbetzin Chana. Son-in-law of the Rayatz. Accepted the leadership of Chabad on 10 Shvat 1951. Built a global network of shluchim transforming Chabad into a worldwide movement. Edited and published the chassidic discourses and letters of the previous Rebbes. Suffered a heart attack in 1977 on Shemini Atzeret. Delivered the dramatic address of 28 Nissan 1991 calling on chassidim to 'do all you can to bring Moshiach.' Passed on 3 Tammuz 1994."
+    "bio": "Seventh Lubavitcher Rebbe. Son of Rabbi Levi Yitzchak Schneerson and Rebbetzin Chana. Son-in-law of the Rayatz. Accepted the leadership of Chabad on 10 Shvat 1951. Built a global network of shluchim transforming Chabad into a worldwide movement. Edited and published the chassidic discourses and letters of the previous Rebbes. Suffered a heart attack in 1977 on Shemini Atzeret. Delivered the dramatic address of 28 Nissan 1991 calling on chassidim to 'do all you can to bring Moshiach.' Passed on 3 Tammuz 1994.",
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null,
+    "journey": []
   },
   {
     "id": "rebbetzin-chaya-mushka",
@@ -1170,7 +1632,32 @@
     "birth_place_id": "babinovich",
     "death_place_id": "new-york",
     "role": "Rebbetzin",
-    "bio": "Wife of the Lubavitcher Rebbe and middle daughter of the Rayatz. Married the future Rebbe in Warsaw in 1928, an event the Rayatz officiated together with the leaders of the chassidic world. Together with her husband she fled Europe through Paris and Marseilles to New York. Known for her modesty, sharp intellect, and devotion to the Rebbe."
+    "bio": "Wife of the Lubavitcher Rebbe and middle daughter of the Rayatz. Married the future Rebbe in Warsaw in 1928, an event the Rayatz officiated together with the leaders of the chassidic world. Together with her husband she fled Europe through Paris and Marseilles to New York. Known for her modesty, sharp intellect, and devotion to the Rebbe.",
+    "primary_place_id": "new-york",
+    "journey": [
+      {
+        "year": 1901,
+        "place_id": "babinovich",
+        "event": "Born"
+      },
+      {
+        "year": 1928,
+        "place_id": "warsaw",
+        "event": "Married"
+      },
+      {
+        "year": 1941,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      },
+      {
+        "year": 1988,
+        "place_id": "new-york",
+        "event": "Passed away"
+      }
+    ],
+    "chabadpedia_url": null,
+    "photo_url": null
   },
   {
     "id": "reb-berke-chein",
@@ -1185,6 +1672,1943 @@
     "role": "Chossid",
     "bio": "Arrived in the Holy Land in 1961 and became a central, inspiring figure in Kfar Chabad, where he worked as a melamed. Known for unceasing prayer and study, strict adherence to even the lightest customs, and ability to transmit the mesiras nefesh of Russian Jewry to younger generations. The Lubavitcher Rebbe instructed him to lay four pairs of Tefillin daily. Distinguished by his thick beard and Russian 'kasket' cap—the Rebbe instructed him not to replace it with a fedora as it reminded heaven of the self-sacrifice of Russian Jewry.",
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/בערקה_חן",
-    "photo_url": "https://chabadpedia.co.il/images/thumb/7/7d/%D7%9E%D7%95%D7%98%D7%9C_%D7%97%D7%9F_%D7%A2%D7%9D_%D7%90%D7%91%D7%99%D7%95.jpg/220px-%D7%9E%D7%95%D7%98%D7%9C_%D7%97%D7%9F_%D7%A2%D7%9D_%D7%90%D7%91%D7%99%D7%95.jpg"
+    "photo_url": "https://chabadpedia.co.il/images/thumb/7/7d/%D7%9E%D7%95%D7%98%D7%9C_%D7%97%D7%9F_%D7%A2%D7%9D_%D7%90%D7%91%D7%99%D7%95.jpg/220px-%D7%9E%D7%95%D7%98%D7%9C_%D7%97%D7%9F_%D7%A2%D7%9D_%D7%90%D7%91%D7%99%D7%95.jpg",
+    "primary_place_id": null,
+    "journey": []
+  },
+  {
+    "id": "rebbetzin-rivka",
+    "name_en": "Rebbetzin Rivka",
+    "name_he": "הרבנית רבקה",
+    "common_name": "Rebbetzin Rivka",
+    "generation": 0,
+    "death_place_id": "liozna",
+    "primary_place_id": "liozna",
+    "role": "Family",
+    "bio": "Rebbetzin Rivka was the mother of the Alter Rebbe and a deeply righteous woman. She traveled to the Baal Shem Tov in Mezhibuzh with her young son to have his hair cut and to receive a blessing.",
+    "journey": [
+      {
+        "year": 1748,
+        "place_id": "mezhibuzh",
+        "event": "Traveled to the Baal Shem Tov for her son's haircut and blessing"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "maharil-of-yanovitch",
+    "name_en": "Rabbi Yehuda Leib",
+    "name_he": "ר' יהודה ליב",
+    "common_name": "Maharil of Yanovitch",
+    "generation": 1,
+    "birth_place_id": "liozna",
+    "role": "Family",
+    "bio": "Rabbi Yehuda Leib was the brother of the Alter Rebbe and served as the rabbi of Yanovitch. He traveled with his brother to the Maggid of Mezritch and became a prominent Chassidic scholar. He authored the halachic work She'erit Yehuda.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Born"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rabbi-mordechai-brother-of-alter-rebbe",
+    "name_en": "Rabbi Mordechai",
+    "name_he": "ר' מרדכי",
+    "common_name": "Rabbi Mordechai (brother of Alter Rebbe)",
+    "generation": 1,
+    "birth_place_id": "liozna",
+    "primary_place_id": "vilna",
+    "role": "Family",
+    "bio": "Rabbi Mordechai was a brother of the Alter Rebbe. He was a recognized scholar who interacted with the Alter Rebbe's chassidim.",
+    "journey": [
+      {
+        "year": 1781,
+        "place_id": "vilna",
+        "event": "Met the Alter Rebbe during a visit"
+      },
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Fled home to study in the Alter Rebbe's 'Cheder Aleph'"
+      },
+      {
+        "year": null,
+        "place_id": "vitebsk",
+        "event": "Relocated to the Vitebsk area to follow the Chassidic path"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "death_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rebbetzin-devorah-leah",
+    "name_en": "Rebbetzin Devorah Leah",
+    "name_he": "הרבנית דבורה לאה",
+    "common_name": "Rebbetzin Devorah Leah",
+    "generation": 1,
+    "death_year": 1792,
+    "birth_place_id": "liozna",
+    "death_place_id": "liozna",
+    "primary_place_id": "liozna",
+    "role": "Family",
+    "bio": "Rebbetzin Devorah Leah was the daughter of the Alter Rebbe and mother of the Tzemach Tzedek. In 1792, she heroically swore before the Torah scrolls to sacrifice her own life in exchange for her father's continued life and leadership. She passed away shortly after and is buried in Liozna.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Born to the Alter Rebbe"
+      },
+      {
+        "year": 1792,
+        "place_id": "liozna",
+        "event": "Publicly vowed to exchange her life for her father's"
+      },
+      {
+        "year": 1792,
+        "place_id": "liozna",
+        "event": "Passed away"
+      }
+    ],
+    "birth_year": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rebbetzin-freida",
+    "name_en": "Rebbetzin Freida",
+    "name_he": "הרבנית פריידא",
+    "common_name": "Rebbetzin Freida",
+    "generation": 1,
+    "death_year": 1813,
+    "birth_place_id": "liozna",
+    "death_place_id": "hadiach",
+    "primary_place_id": "liozna",
+    "role": "Family",
+    "bio": "Rebbetzin Freida was a deeply Chassidic daughter of the Alter Rebbe. Her father held her in high esteem and would deliver profound Chassidic discourses directly to her, which her brother the Mitteler Rebbe would secretly listen to. The Tzemach Tzedek described her spiritual gifts as a direct revelation from above.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Born"
+      },
+      {
+        "year": 1813,
+        "place_id": "hadiach",
+        "event": "Passed away"
+      }
+    ],
+    "birth_year": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rabbi-chaim-avraham",
+    "name_en": "Rabbi Chaim Avraham",
+    "name_he": "ר' חיים אברהם",
+    "common_name": "Rabbi Chaim Avraham",
+    "generation": 1,
+    "birth_place_id": "liozna",
+    "death_place_id": "lubavitch",
+    "primary_place_id": "lubavitch",
+    "role": "Son of Rebbe",
+    "bio": "Rabbi Chaim Avraham was the son of the Alter Rebbe and was known for his striking physical resemblance to his father. He was a man of few words with an aura of spiritual grace. After the Mitteler Rebbe's passing, he refused the leadership and insisted his nephew the Tzemach Tzedek take the mantle.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Born to the Alter Rebbe"
+      },
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Supported the Tzemach Tzedek's leadership"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rabbi-moshe-son-of-alter-rebbe",
+    "name_en": "Rabbi Moshe",
+    "name_he": "ר' משה",
+    "common_name": "Rabbi Moshe (son of Alter Rebbe)",
+    "generation": 1,
+    "birth_year": 1779,
+    "birth_place_id": "liozna",
+    "role": "Son of Rebbe",
+    "bio": "Rabbi Moshe was the youngest son of the Alter Rebbe, born in 1779. He was remarkably brilliant, and his father closely guided his studies in both revealed and esoteric Torah. He accompanied his father to Petersburg to assist with communal affairs and advocacy.",
+    "journey": [
+      {
+        "year": 1779,
+        "place_id": "liozna",
+        "event": "Born"
+      },
+      {
+        "year": null,
+        "place_id": "petersburg",
+        "event": "Traveled on communal missions"
+      }
+    ],
+    "death_year": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rebbetzin-sheina",
+    "name_en": "Rebbetzin Sheina",
+    "name_he": "הרבנית שיינא",
+    "common_name": "Rebbetzin Sheina",
+    "generation": 2,
+    "primary_place_id": "lubavitch",
+    "role": "Rebbetzin",
+    "bio": "Rebbetzin Sheina was the wife of the Mitteler Rebbe and the daughter of a Chassidic melamed. She was intimately involved in the inner life of the Rebbe's household and witnessed many spiritual events. She raised her orphaned granddaughter, who later married the Rebbe Maharash.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Married the Mitteler Rebbe"
+      },
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Raised her granddaughter Rivka"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rabbi-shalom-shachna",
+    "name_en": "Rabbi Shalom Shachna",
+    "name_he": "ר' שלום שכנא",
+    "common_name": "Rabbi Shalom Shachna",
+    "generation": 1,
+    "primary_place_id": "liozna",
+    "role": "Family",
+    "bio": "Rabbi Shalom Shachna was the father of the Tzemach Tzedek and son of Rabbi Noach. He was chosen by the Alter Rebbe to marry his daughter Devorah Leah. Following his wife's tragic passing, their son was raised by the Alter Rebbe.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Married Devorah Leah"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rebbetzin-chaya-mushka-wife-of-tzemach-tzedek",
+    "name_en": "Rebbetzin Chaya Mushka",
+    "name_he": "הרבנית חיה מושקא",
+    "common_name": "Rebbetzin Chaya Mushka (wife of Tzemach Tzedek)",
+    "generation": 3,
+    "birth_place_id": "liozna",
+    "death_place_id": "lubavitch",
+    "primary_place_id": "lubavitch",
+    "role": "Rebbetzin",
+    "bio": "Rebbetzin Chaya Mushka was the daughter of the Mitteler Rebbe and wife of the Tzemach Tzedek. She gave birth to the Rebbe Maharash in 1834, on the 100th anniversary of the Baal Shem Tov's revelation.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Born"
+      },
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Lived"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rebbe-of-liadi",
+    "name_en": "Rabbi Chaim Shneur Zalman",
+    "name_he": "ר' חיים שניאור זלמן",
+    "common_name": "Rebbe of Liadi",
+    "generation": 4,
+    "death_year": 1879,
+    "birth_place_id": "lubavitch",
+    "death_place_id": "liadi",
+    "primary_place_id": "liadi",
+    "role": "Son of Rebbe",
+    "bio": "Rabbi Chaim Shneur Zalman was a son of the Tzemach Tzedek who led Chassidim as the Rebbe of Liadi. He was a man of frail health but great wisdom, and thousands sought his counsel. He passed away in 1879.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "liadi",
+        "event": "Established his Chassidic court"
+      },
+      {
+        "year": 1879,
+        "place_id": "liadi",
+        "event": "Passed away"
+      }
+    ],
+    "birth_year": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rebbe-of-nezhin",
+    "name_en": "Rabbi Yisrael Noach",
+    "name_he": "ר' ישראל נח",
+    "common_name": "Rebbe of Nezhin",
+    "generation": 4,
+    "birth_year": 1815,
+    "death_year": 1883,
+    "birth_place_id": "lubavitch",
+    "death_place_id": "niezhin",
+    "primary_place_id": "niezhin",
+    "role": "Son of Rebbe",
+    "bio": "Rabbi Yisrael Noach was a son of the Tzemach Tzedek known for his exceptional scholarship. Following his father's passing, he led a Chassidic court in Nezhin.",
+    "journey": [
+      {
+        "year": 1815,
+        "place_id": "lubavitch",
+        "event": "Born"
+      },
+      {
+        "year": null,
+        "place_id": "niezhin",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1883,
+        "place_id": "niezhin",
+        "event": "Passed away"
+      }
+    ],
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rebbe-of-ovruch",
+    "name_en": "Rabbi Yosef Yitzchak",
+    "name_he": "ר' יוסף יצחק",
+    "common_name": "Rebbe of Ovruch",
+    "generation": 4,
+    "birth_year": 1822,
+    "death_year": 1876,
+    "birth_place_id": "lubavitch",
+    "death_place_id": "avritch",
+    "primary_place_id": "avritch",
+    "role": "Son of Rebbe",
+    "bio": "Rabbi Yosef Yitzchak was a son of the Tzemach Tzedek who became the Rebbe in Ovruch. He was the father of Rebbetzin Shterna Sara. He served as a spiritual guide to the Chassidim in the Volhynia region.",
+    "journey": [
+      {
+        "year": 1822,
+        "place_id": "lubavitch",
+        "event": "Born"
+      },
+      {
+        "year": null,
+        "place_id": "avritch",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1876,
+        "place_id": "avritch",
+        "event": "Passed away"
+      }
+    ],
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rabbi-yaakov-son-of-tzemach-tzedek",
+    "name_en": "Rabbi Yaakov",
+    "name_he": "ר' יעקב",
+    "common_name": "Rabbi Yaakov (son of Tzemach Tzedek)",
+    "generation": 4,
+    "birth_year": 1808,
+    "death_year": 1876,
+    "role": "Son of Rebbe",
+    "bio": "Rabbi Yaakov was a son of the Tzemach Tzedek. He is mentioned in historical records alongside his brothers in the lineage of the Chabad Rebbes.",
+    "journey": [],
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rebbetzin-rivka-wife-of-maharash",
+    "name_en": "Rebbetzin Rivka",
+    "name_he": "הרבנית רבקה",
+    "common_name": "Rebbetzin Rivka (wife of Maharash)",
+    "generation": 4,
+    "birth_year": 1833,
+    "death_year": 1914,
+    "birth_place_id": "lubavitch",
+    "death_place_id": "lubavitch",
+    "primary_place_id": "lubavitch",
+    "role": "Rebbetzin",
+    "bio": "Rebbetzin Rivka was the wife of the Rebbe Maharash and daughter of R. Aharon of Shklov. Orphaned at a young age, she was raised by her grandmother Rebbetzin Sheina. She was known for her immense charity and passed away on 10 Shevat 1914.",
+    "journey": [
+      {
+        "year": 1833,
+        "place_id": "lubavitch",
+        "event": "Born"
+      },
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Married"
+      },
+      {
+        "year": 1914,
+        "place_id": "lubavitch",
+        "event": "Passed away"
+      }
+    ],
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "raza",
+    "name_en": "Rabbi Zalman Aharon",
+    "name_he": "ר' זלמן אהרן",
+    "common_name": "Raza",
+    "generation": 5,
+    "birth_place_id": "lubavitch",
+    "death_place_id": "vitebsk",
+    "primary_place_id": "lubavitch",
+    "role": "Son of Rebbe",
+    "bio": "Rabbi Zalman Aharon, known as Raza, was the elder son of the Rebbe Maharash. Although highly gifted in Chassidic thought, he declined to assume the mantle of leadership, allowing his younger brother to become Rebbe. He engaged in business to support his family.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Declined the leadership position"
+      },
+      {
+        "year": null,
+        "place_id": "vitebsk",
+        "event": "Passed away"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rabbi-menachem-mendel-son-of-maharash",
+    "name_en": "Rabbi Menachem Mendel",
+    "name_he": "ר' מנחם מענדל",
+    "common_name": "Rabbi Menachem Mendel (son of Maharash)",
+    "generation": 5,
+    "birth_place_id": "lubavitch",
+    "primary_place_id": "paris",
+    "role": "Son of Rebbe",
+    "bio": "Rabbi Menachem Mendel was the youngest son of the Rebbe Maharash. He later moved to Paris and then to Corsica, where he lived out his life. The Rebbe visited him in Paris to bring him closer to the Chabad leadership.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Born and raised"
+      },
+      {
+        "year": null,
+        "place_id": "paris",
+        "event": "Moved to France"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "death_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rebbetzin-nechama-dina",
+    "name_en": "Rebbetzin Nechama Dina",
+    "name_he": "הרבנית נחמה דינה",
+    "common_name": "Rebbetzin Nechama Dina",
+    "generation": 6,
+    "birth_year": 1881,
+    "death_year": 1971,
+    "death_place_id": "new-york",
+    "primary_place_id": "new-york",
+    "role": "Rebbetzin",
+    "bio": "Rebbetzin Nechama Dina was the wife of the Rebbe Rayatz and daughter of R. Avraham Schneerson of Kishinev. She was deeply devoted to her husband and shared in the hardships of his leadership during Soviet persecution and their subsequent exiles.",
+    "journey": [
+      {
+        "year": 1927,
+        "place_id": "leningrad",
+        "event": "Lived"
+      },
+      {
+        "year": 1940,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      },
+      {
+        "year": 1971,
+        "place_id": "new-york",
+        "event": "Passed away"
+      }
+    ],
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "sheina-horenshtein",
+    "name_en": "Rebbetzin Sheina Horenshtein",
+    "name_he": "שיינא הארנשטיין",
+    "common_name": "Sheina Horenshtein",
+    "generation": 6,
+    "birth_year": 1904,
+    "death_year": 1942,
+    "birth_place_id": "lubavitch",
+    "primary_place_id": "otwock",
+    "role": "Family",
+    "bio": "Sheina Horenshtein was the youngest daughter of the Rebbe Rayatz. She was born in 1904. She and her husband remained in Poland and perished in Treblinka during the Holocaust in 1942.",
+    "journey": [
+      {
+        "year": 1904,
+        "place_id": "lubavitch",
+        "event": "Born"
+      },
+      {
+        "year": null,
+        "place_id": "otwock",
+        "event": "Lived with her husband"
+      }
+    ],
+    "death_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "chana-gurary",
+    "name_en": "Rebbetzin Chana Gurary",
+    "name_he": "חנה גורארי'",
+    "common_name": "Chana Gurary",
+    "generation": 6,
+    "birth_year": 1899,
+    "death_year": 1991,
+    "birth_place_id": "lubavitch",
+    "death_place_id": "new-york",
+    "primary_place_id": "new-york",
+    "role": "Family",
+    "bio": "Chana Gurary was the eldest daughter of the Rebbe Rayatz.",
+    "journey": [
+      {
+        "year": 1899,
+        "place_id": "lubavitch",
+        "event": "Born"
+      },
+      {
+        "year": 1940,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      },
+      {
+        "year": 1991,
+        "place_id": "new-york",
+        "event": "Passed away"
+      }
+    ],
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rashag",
+    "name_en": "Rabbi Shmaryahu Gurary",
+    "name_he": "שמריהו גורארי'",
+    "common_name": "Rashag",
+    "generation": 6,
+    "birth_year": 1897,
+    "death_year": 1989,
+    "death_place_id": "new-york",
+    "primary_place_id": "new-york",
+    "role": "Family",
+    "bio": "Rabbi Shmaryahu Gurary, known as Rashag, was the son-in-law of the Rebbe Rayatz. He served as the executive director of the Tomchei Temimim yeshiva network and directed its fundraising and administration in America.",
+    "journey": [
+      {
+        "year": 1940,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      },
+      {
+        "year": 1989,
+        "place_id": "new-york",
+        "event": "Passed away"
+      }
+    ],
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "menachem-mendel-horenshtein",
+    "name_en": "Rabbi Menachem Mendel Horenshtein",
+    "name_he": "מנחם מענדל הארנשטיין",
+    "common_name": "Menachem Mendel Horenshtein",
+    "generation": 6,
+    "death_year": 1942,
+    "primary_place_id": "otwock",
+    "role": "Family",
+    "bio": "Rabbi Menachem Mendel Horenshtein was the son-in-law of the Rebbe Rayatz, married to his youngest daughter Sheina. He was trapped in Otwock, Poland during World War II. He tragically perished in Treblinka in 1942.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "otwock",
+        "event": "Trapped in Poland during WWII"
+      }
+    ],
+    "birth_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "menachem-mendel-of-vitebsk",
+    "name_en": "Rabbi Menachem Mendel of Vitebsk",
+    "name_he": "מנחם מענדל מוויטעבסק",
+    "common_name": "Menachem Mendel of Vitebsk",
+    "generation": 1,
+    "birth_year": 1730,
+    "death_year": 1788,
+    "primary_place_id": "vitebsk",
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Menachem Mendel of Vitebsk was a senior disciple of the Maggid of Mezritch. He led the first major Chassidic Aliyah to the Holy Land. After his departure, he instructed his followers to accept the Alter Rebbe's leadership.",
+    "journey": [],
+    "birth_place_id": null,
+    "death_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "avraham-of-kalisk",
+    "name_en": "Rabbi Avraham of Kalisk",
+    "name_he": "אברהם מקאליסק",
+    "common_name": "Avraham of Kalisk",
+    "generation": 1,
+    "birth_year": 1741,
+    "death_year": 1810,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Avraham of Kalisk was a leading Chassidic master and colleague of the Alter Rebbe. He traveled to the Maggid of Mezritch for guidance and later immigrated to the Holy Land. He maintained correspondence with the Alter Rebbe regarding the spiritual and financial needs of the Holy Land settlers.",
+    "journey": [],
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "levi-yitzchak-of-berditchev",
+    "name_en": "Rabbi Levi Yitzchak of Berditchev",
+    "name_he": "לוי יצחק מבארדיטשוב",
+    "common_name": "Levi Yitzchak of Berditchev",
+    "generation": 1,
+    "birth_year": 1740,
+    "death_year": 1809,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Levi Yitzchak of Berditchev was a famous Chassidic master and close colleague of the Alter Rebbe. He constantly advocated for the Jewish people before the Heavenly Court. He married into the Alter Rebbe's family at the 'Great Wedding' in Zhlobin.",
+    "journey": [],
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "yisrael-of-ruzhin",
+    "name_en": "Rabbi Yisrael of Ruzhin",
+    "name_he": "ישראל מרוזין",
+    "common_name": "Yisrael of Ruzhin",
+    "generation": 3,
+    "birth_year": 1796,
+    "death_year": 1850,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Yisrael of Ruzhin was a prominent Chassidic Rebbe who maintained close ties with Chabad leaders. After being imprisoned in Russia, he relocated to Sadigura in the Austrian Empire. He lived a life of royal bearing while remaining profoundly holy.",
+    "journey": [],
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "shlomo-of-karlin",
+    "name_en": "Rabbi Shlomo of Karlin",
+    "name_he": "שלמה מקארלין",
+    "common_name": "Shlomo of Karlin",
+    "generation": 1,
+    "birth_year": 1738,
+    "death_year": 1792,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Shlomo of Karlin was a major Chassidic leader and a colleague of the Alter Rebbe. Once, when he visited Liozna, the Alter Rebbe sent his sons to welcome him outside the city, remarking on his exceptional spiritual stature.",
+    "journey": [],
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "shmuel-munkes",
+    "name_en": "Rabbi Shmuel Munkes",
+    "name_he": "שמואל מונקעס",
+    "common_name": "Shmuel Munkes",
+    "generation": 1,
+    "role": "Chossid",
+    "bio": "Rabbi Shmuel Munkes was a legendary elder Chassid known for his fervent devotion to the Alter Rebbe. He masked his deep piety with sharp humor and unconventional antics. He was a beloved fixture in the Rebbe's court and frequently interacted with the young Mitteler Rebbe.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Became a devoted Chassid of the Alter Rebbe"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "baruch-mordechai-of-bobruisk",
+    "name_en": "Rabbi Baruch Mordechai",
+    "name_he": "ברוך מרדכי מבאברויסק",
+    "common_name": "Baruch Mordechai of Bobruisk",
+    "generation": 1,
+    "death_year": 1852,
+    "death_place_id": "jerusalem",
+    "primary_place_id": "bobruisk",
+    "role": "Chossid",
+    "bio": "Rabbi Baruch Mordechai of Bobruisk was an eminent Chassid and Torah scholar. He faced significant opposition in Vilna before becoming a central figure in the Alter Rebbe's court. After serving as Rabbi in Bobruisk for fifty years, he immigrated to Jerusalem.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "vilna",
+        "event": "Suffered persecution for his Chassidic leanings"
+      },
+      {
+        "year": null,
+        "place_id": "bobruisk",
+        "event": "Served as Rabbi for 50 years"
+      },
+      {
+        "year": 1851,
+        "place_id": "jerusalem",
+        "event": "Immigrated to the Holy Land"
+      },
+      {
+        "year": 1852,
+        "place_id": "jerusalem",
+        "event": "Passed away"
+      }
+    ],
+    "birth_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "radatz",
+    "name_en": "Rabbi David Tzvi Chen",
+    "name_he": "דוד צבי חן",
+    "common_name": "Radatz",
+    "generation": 5,
+    "death_place_id": "jerusalem",
+    "role": "Chossid",
+    "bio": "Rabbi David Tzvi Chen, known as Radatz, was a prominent Chabad Rabbi and halachic authority in Chernigov. He was a deeply respected elder Chassid who frequently consulted with the Rebbe Rashab.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "jerusalem",
+        "event": "Passed away"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "peretz-chen",
+    "name_en": "Rabbi Peretz Chen",
+    "name_he": "פרץ חן",
+    "common_name": "Peretz Chen",
+    "generation": 3,
+    "role": "Chossid",
+    "bio": "Rabbi Peretz Chen was a major Chabad figure and Rabbi in Chernigov. He was a descendant of a prominent Chassidic family and maintained close connections with the Chabad Rebbes.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "meir-simcha-chen",
+    "name_en": "Rabbi Meir Simcha Chen",
+    "name_he": "מאיר שמחה חן",
+    "common_name": "Meir Simcha Chen",
+    "generation": 6,
+    "primary_place_id": "nevel",
+    "role": "Chossid",
+    "bio": "Rabbi Meir Simcha Chen was a renowned Chassid and scholar. He lived in Nevel and his daughter married a prominent Chabad Rabbi.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "nevel",
+        "event": "Lived and taught as a Chassid"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "menachem-mendel-chen",
+    "name_en": "Rabbi Menachem Mendel Chen",
+    "name_he": "מנחם מענדל חן",
+    "common_name": "Menachem Mendel Chen",
+    "generation": 5,
+    "death_place_id": "niezhin",
+    "primary_place_id": "niezhin",
+    "role": "Chossid",
+    "bio": "Rabbi Menachem Mendel Chen served as a Rabbi in Nezhin. He was an active and respected figure within the Chabad community.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "niezhin",
+        "event": "Served as Rabbi"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rashbatz",
+    "name_en": "Rabbi Shmuel Betzalel Sheftel",
+    "name_he": "שמואל בצלאל שעפטיל",
+    "common_name": "Rashbatz",
+    "generation": 5,
+    "death_year": 1905,
+    "death_place_id": "lubavitch",
+    "primary_place_id": "lubavitch",
+    "role": "Mashpia",
+    "bio": "Rabbi Shmuel Betzalel Sheftel, known as Rashbatz, was a revered teacher and mentor to the Rebbe Rayatz. He began teaching the Rayatz in 1893 and guided him in his early studies of Chassidus. He later served as a leading educator in Tomchei Temimim.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "nikolaev",
+        "event": "Lived and taught"
+      },
+      {
+        "year": 1893,
+        "place_id": "lubavitch",
+        "event": "Appointed tutor for the young Rebbe Rayatz"
+      }
+    ],
+    "birth_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "chanoch-hendel",
+    "name_en": "Rabbi Chanoch Hendel Kugel",
+    "name_he": "חנוך הענדל קוגל",
+    "common_name": "Chanoch Hendel",
+    "generation": 5,
+    "death_place_id": "lubavitch",
+    "primary_place_id": "lubavitch",
+    "role": "Mashpia",
+    "bio": "Rabbi Chanoch Hendel Kugel was an essential mashpia and mentor in Lubavitch. The Rebbe Rashab valued his Chassidic stories and his ability to transmit the traditions of elder Chassidim.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Served as a Mashpia"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "aba-from-chashnik",
+    "name_en": "Rabbi Aba Person",
+    "name_he": "אבא פרסון",
+    "common_name": "Aba from Chashnik",
+    "generation": 5,
+    "role": "Chossid",
+    "bio": "Rabbi Aba Person of Chashnik was a notable Chassid and storyteller. His recollections were highly valued by the Rebbe Rashab, who enjoyed hearing his authentic Chabad traditions.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "meir-simcha-chen-2",
+    "name_en": "Rabbi Meir Simcha Chen",
+    "name_he": "ר' מאיר שמחה חן",
+    "common_name": "Meir Simcha Chen",
+    "generation": 5,
+    "primary_place_id": "nevel",
+    "role": "Chossid",
+    "bio": "Rabbi Meir Simcha Chen was a renowned Chassid and scholar. He lived in Nevel, and his family was deeply connected to the Chabad leadership.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "nevel",
+        "event": "Lived and taught as a Chassid"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "aba-of-chashnik",
+    "name_en": "Rabbi Aba Person",
+    "name_he": "ר' אבא פרסון",
+    "common_name": "Aba of Chashnik",
+    "generation": 5,
+    "role": "Chossid",
+    "bio": "Rabbi Aba Person of Chashnik was a notable Chassid and storyteller. His precise recollections of early Chabad history were highly valued by the Rebbe Rashab.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "rashdam",
+    "name_en": "Rabbi Shmuel Dovber Lipkin",
+    "name_he": "ר' שמואל דובער מבאריסאוו",
+    "common_name": "Rashdam",
+    "generation": 4,
+    "role": "Chossid",
+    "bio": "Rabbi Shmuel Dovber Lipkin of Borisov, known as Rashdam, was an intellectual Chassid and prominent figure. He was deeply respected by the Rebbes and frequently engaged in profound Chassidic discussions with the Rebbe Rashab.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "yaakov-mordechai-bezpalov",
+    "name_en": "Rabbi Yaakov Mordechai Bezpalov",
+    "name_he": "ר' יעקב מרדכי בעזפאלאוו",
+    "common_name": "Yaakov Mordechai Bezpalov",
+    "generation": 5,
+    "role": "Chossid",
+    "bio": "Rabbi Yaakov Mordechai Bezpalov served as the Rabbi of Poltava and was a deeply respected Chassid. He was a leading figure during the eras of the Rebbe Maharash and Rebbe Rashab.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "yosef-tumarkin",
+    "name_en": "Rabbi Yosef Tumarkin",
+    "name_he": "ר' יוסף תומארקין",
+    "common_name": "Yosef Tumarkin",
+    "generation": 3,
+    "role": "Chossid",
+    "bio": "Rabbi Yosef Tumarkin was a distinguished Rabbi of Kremenchug. He was an eminent Chabad chassid who maintained a close connection with the Tzemach Tzedek.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "aharon-tumarkin",
+    "name_en": "Rabbi Aharon Tumarkin",
+    "name_he": "ר' אהרן תומארקין",
+    "common_name": "Aharon Tumarkin",
+    "generation": 6,
+    "role": "Chossid",
+    "bio": "Rabbi Aharon Tumarkin was a prominent Chabad Rabbi who served in Kharkov. He profoundly influenced the spiritual life of the city and was known for his erudition and hospitality.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "yitzchak-dubov",
+    "name_en": "Rabbi Yitzchak Dubov",
+    "name_he": "ר' יצחק דובאוו",
+    "common_name": "Yitzchak Dubov",
+    "generation": 6,
+    "role": "Mashpia",
+    "bio": "Rabbi Yitzchak Dubov was a respected Chassid and mashpia. He was actively involved in guiding students in the ways of Chassidus.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "riga",
+        "event": "Appointed Rav"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "shmuel-levitin",
+    "name_en": "Rabbi Shmuel Levitin",
+    "name_he": "ר' שמואל לויטין",
+    "common_name": "Shmuel Levitin",
+    "generation": 6,
+    "birth_year": 1883,
+    "death_year": 1974,
+    "death_place_id": "new-york",
+    "role": "Chossid",
+    "bio": "Rabbi Shmuel Levitin was a leading Chabad Rabbi who initially served in Rakshik, Lithuania. He was sent by the Rebbe Rayatz as an emissary to the United States, where he became a major figure in spreading Chassidus.",
+    "journey": [
+      {
+        "year": 1938,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      },
+      {
+        "year": 1974,
+        "place_id": "new-york",
+        "event": "Passed away"
+      }
+    ],
+    "birth_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "eliyahu-simpson",
+    "name_en": "Rabbi Eliyahu Simpson",
+    "name_he": "ר' אליהו סימפסאן",
+    "common_name": "Eliyahu Simpson",
+    "generation": 6,
+    "birth_year": 1889,
+    "death_year": 1976,
+    "birth_place_id": "bobruisk",
+    "death_place_id": "new-york",
+    "primary_place_id": "new-york",
+    "role": "Chossid",
+    "bio": "Rabbi Eliyahu Simpson was a trusted Chassid and member of the Rebbe Rayatz's administration. He served as a Rabbi in New York from 1923 and was a founding member of Agudas HaTemimim and an active leader in Agudas Chasidei Chabad.",
+    "journey": [
+      {
+        "year": 1889,
+        "place_id": "bobruisk",
+        "event": "Born"
+      },
+      {
+        "year": 1923,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      },
+      {
+        "year": 1976,
+        "place_id": "new-york",
+        "event": "Passed away"
+      }
+    ],
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "yisrael-jacobson",
+    "name_en": "Rabbi Yisrael Jacobson",
+    "name_he": "ר' ישראל דזייקאבסאן",
+    "common_name": "Yisrael Jacobson",
+    "generation": 6,
+    "birth_year": 1895,
+    "death_year": 1975,
+    "death_place_id": "new-york",
+    "role": "Chossid",
+    "bio": "Rabbi Yisrael Jacobson was a central figure in establishing Chabad in the United States. After emigrating from Russia in 1926, he founded Agudas HaTemimim, served as an administrator for Agudas Chasidei Chabad, and helped establish the Beis Rivkah school network.",
+    "journey": [],
+    "birth_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "mordechai-dubin",
+    "name_en": "Rabbi Mordechai Dubin",
+    "name_he": "ר' מרדכי דובין",
+    "common_name": "Mordechai Dubin",
+    "generation": 6,
+    "birth_year": 1889,
+    "death_year": 1956,
+    "birth_place_id": "riga",
+    "primary_place_id": "riga",
+    "role": "Chossid",
+    "bio": "Rabbi Mordechai Dubin was a Latvian politician and parliament member who worked tirelessly for the Jewish community. He was deeply devoted to the Rebbe Rayatz, playing a crucial role in securing his release from Soviet imprisonment, and accompanied the Rebbe to the United States in 1930.",
+    "journey": [
+      {
+        "year": 1889,
+        "place_id": "riga",
+        "event": "Born"
+      },
+      {
+        "year": null,
+        "place_id": "riga",
+        "event": "Lived"
+      }
+    ],
+    "death_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "levi-yitzchak-slonim",
+    "name_en": "Rabbi Levi Yitzchak Slonim",
+    "name_he": "ר' לוי יצחק סלונים",
+    "common_name": "Levi Yitzchak Slonim",
+    "generation": 4,
+    "death_place_id": "hebron",
+    "primary_place_id": "hebron",
+    "role": "Chossid",
+    "bio": "Rabbi Levi Yitzchak Slonim was a leading figure of the Chabad community in Hebron. He served as a community leader and managed the affairs of Kollel Chabad in the Holy City.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "hebron",
+        "event": "Served as a community leader"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "yaakov-kuli-slonim",
+    "name_en": "Rabbi Yaakov Kuli Slonim",
+    "name_he": "ר' יעקב כולי סלונים",
+    "common_name": "Yaakov Kuli Slonim",
+    "generation": 2,
+    "primary_place_id": "hebron",
+    "role": "Chossid",
+    "bio": "Rabbi Yaakov Kuli Slonim was a significant member of the Slonim family in Hebron. He was the esteemed son-in-law of the Mitteler Rebbe.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "hebron",
+        "event": "Lived as a prominent Chassid"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "mordechai-dovber-slonim",
+    "name_en": "Rabbi Mordechai Dovber Slonim",
+    "name_he": "ר' מרדכי דובער סלונים",
+    "common_name": "Mordechai Dovber Slonim",
+    "generation": 3,
+    "death_place_id": "hebron",
+    "primary_place_id": "hebron",
+    "role": "Chossid",
+    "bio": "Rabbi Mordechai Dovber Slonim served as a community leader for Chabad in Hebron. He was a grandson of the Mitteler Rebbe and an important figure in the local community.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "hebron",
+        "event": "Served as a community leader"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "shimon-menashe-chaikin",
+    "name_en": "Rabbi Shimon Menashe Chaikin",
+    "name_he": "ר' שמעון מנשה חייקין",
+    "common_name": "Shimon Menashe Chaikin",
+    "generation": 3,
+    "birth_place_id": "shklov",
+    "death_place_id": "hebron",
+    "primary_place_id": "hebron",
+    "role": "Chossid",
+    "bio": "Rabbi Shimon Menashe Chaikin was a venerated Rabbi and leader of the Chabad community in Hebron. Originally from Shklov, he settled in Hebron and served as a prominent halachic authority and administrator for Kollel Chabad.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "shklov",
+        "event": "Born"
+      },
+      {
+        "year": null,
+        "place_id": "hebron",
+        "event": "Served as Rabbi and halachic authority"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "chaim-eliezer-bichovsky",
+    "name_en": "Rabbi Chaim Eliezer Bichovsky",
+    "name_he": "ר' חיים אליעזר ביחאווסקי",
+    "common_name": "Chaim Eliezer Bichovsky",
+    "generation": 5,
+    "role": "Chossid",
+    "bio": "Rabbi Chaim Eliezer Bichovsky was a leading Chassid who published many foundational Chabad texts. He was a dedicated publisher and helped preserve important Chassidic manuscripts for future generations.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "shlomo-zalman-havlin",
+    "name_en": "Rabbi Shlomo Zalman Havlin",
+    "name_he": "ר' שלמה זלמן האוולין",
+    "common_name": "Shlomo Zalman Havlin",
+    "generation": 5,
+    "death_place_id": "jerusalem",
+    "primary_place_id": "jerusalem",
+    "role": "Mashpia",
+    "bio": "Rabbi Shlomo Zalman Havlin founded and led the Toras Emes yeshiva in Hebron and Jerusalem. He was sent by the Rebbe Rashab to the Holy Land to establish the yeshiva and served as its primary mashpia and administrator.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "hebron",
+        "event": "Founded Toras Emes yeshiva"
+      },
+      {
+        "year": null,
+        "place_id": "jerusalem",
+        "event": "Led the yeshiva"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "chanoch-hendel-havlin",
+    "name_en": "Rabbi Chanoch Hendel Havlin",
+    "name_he": "ר' חנוך הענדל האוולין",
+    "common_name": "Chanoch Hendel Havlin",
+    "generation": 6,
+    "death_place_id": "jerusalem",
+    "primary_place_id": "jerusalem",
+    "role": "Chossid",
+    "bio": "Rabbi Chanoch Hendel Havlin was instrumental in the Chabad community's efforts in the Holy Land. He was heavily involved in community activism and supporting the Chabad institutions in Jerusalem.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "jerusalem",
+        "event": "Served as a community activist"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "chaim-futerfas",
+    "name_en": "Rabbi Chaim Futerfas",
+    "name_he": "ר' חיים פוטרפס",
+    "common_name": "Chaim Futerfas",
+    "generation": 6,
+    "role": "Chossid",
+    "bio": "Rabbi Chaim Futerfas was a dedicated member of the Chabad underground in Russia. He worked tirelessly to preserve and sustain Jewish practice under the oppressive Soviet regime.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "itche-der-masmid",
+    "name_en": "Rabbi Yitzchak Horowitz",
+    "name_he": "ר' יצחק הורוויץ",
+    "common_name": "Itche Der Masmid",
+    "generation": 6,
+    "death_year": 1941,
+    "death_place_id": "kherson",
+    "role": "Chossid",
+    "bio": "Rabbi Yitzchak Horowitz, famously known as Itche Der Masmid, was an exceptionally devoted Chassid. He traveled widely as an emissary to strengthen Judaism before being tragically murdered in the Holocaust.",
+    "journey": [
+      {
+        "year": 1933,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      },
+      {
+        "year": 1941,
+        "place_id": "kherson",
+        "event": "Passed away"
+      }
+    ],
+    "birth_year": null,
+    "birth_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "moshe-leib-rodstein",
+    "name_en": "Rabbi Moshe Leib Rodstein",
+    "name_he": "ר' משה ליב ראדשטיין",
+    "common_name": "Moshe Leib Rodstein",
+    "generation": 6,
+    "death_year": 1968,
+    "death_place_id": "new-york",
+    "primary_place_id": "new-york",
+    "role": "Chossid",
+    "bio": "Rabbi Moshe Leib Rodstein, originally named Zusia Shifrin, served as a secretary to the Rebbe in Poland. Upon arriving in the United States in late 1940, he was sent to direct the Agudas Chasidei Chabad in Chicago before returning in 1946 to serve as a secretary for the Rebbe.",
+    "journey": [
+      {
+        "year": 1940,
+        "place_id": "chicago",
+        "event": "Directed Agudas Chasidei Chabad"
+      },
+      {
+        "year": 1946,
+        "place_id": "new-york",
+        "event": "Returned to serve as the Rebbe's secretary"
+      }
+    ],
+    "birth_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "nissan-telushkin",
+    "name_en": "Rabbi Nissan Telushkin",
+    "name_he": "ר' ניסן טעלושקין",
+    "common_name": "Nissan Telushkin",
+    "generation": 6,
+    "death_place_id": "new-york",
+    "primary_place_id": "new-york",
+    "role": "Chossid",
+    "bio": "Rabbi Nissan Telushkin was a distinguished Rabbi and a prominent halachic authority in the United States. He was an active and respected figure in the rabbinic leadership of the American Chabad community.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "new-york",
+        "event": "Served as a distinguished Rabbi and halachic authority"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "avraham-eliyahu-axelrod",
+    "name_en": "Rabbi Avraham Eliyahu Axelrod",
+    "name_he": "ר' אברהם אלי' אקסלראד",
+    "common_name": "Avraham Eliyahu Axelrod",
+    "generation": 6,
+    "death_year": 1952,
+    "role": "Chossid",
+    "bio": "Rabbi Avraham Eliyahu Axelrod was a leading Rabbi in Baltimore and a dedicated supporter of the Rebbe Rayatz. After arriving in the United States in 1924, he played a crucial role in establishing and maintaining the Chabad community in his city.",
+    "journey": [],
+    "birth_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "moshe-axelrod",
+    "name_en": "Rabbi Moshe Axelrod",
+    "name_he": "ר' משה אקסלראד",
+    "common_name": "Moshe Axelrod",
+    "generation": 6,
+    "role": "Chossid",
+    "bio": "Rabbi Moshe Axelrod was a dedicated Rabbi in Russia who valiantly maintained his religious activities under oppressive Soviet rule. He served as the Rabbi of Surazh and repeatedly sought ways to obtain exit visas for himself and his family.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "shraga-feivish-zalmanov",
+    "name_en": "Rabbi Shraga Feivish Zalmanov",
+    "name_he": "ר' שרגא פייוויש זלמנוב",
+    "common_name": "Shraga Feivish Zalmanov",
+    "generation": 6,
+    "primary_place_id": "warsaw",
+    "role": "Chossid",
+    "bio": "Rabbi Shraga Feivish Zalmanov was a notable activist in the Chabad community who operated out of Warsaw. He served as a crucial conduit for transferring relief funds sent from the United States to support Chabad institutions in Soviet Russia.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "warsaw",
+        "event": "Facilitated relief funds for Russian Jewry"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "chaim-hodakov",
+    "name_en": "Rabbi Chaim Mordechai Aizik Hodakov",
+    "name_he": "ר' חיים מרדכי אייזיק חדקוב",
+    "common_name": "Chaim Hodakov",
+    "generation": 7,
+    "birth_year": 1902,
+    "death_year": 1993,
+    "death_place_id": "new-york",
+    "primary_place_id": "new-york",
+    "role": "Chossid",
+    "bio": "Rabbi Chaim Mordechai Aizik Hodakov was the chief of staff and head of the secretariat for the Rebbe. Arriving in the United States with the Rebbe Rayatz in the winter of 1940, he was appointed director of the Merkos L'Inyonei Chinuch and Machne Israel.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "riga",
+        "event": "Lived"
+      },
+      {
+        "year": 1940,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      },
+      {
+        "year": 1993,
+        "place_id": "new-york",
+        "event": "Passed away"
+      }
+    ],
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "chaim-liberman",
+    "name_en": "Rabbi Chaim Liberman",
+    "name_he": "ר' חיים ליברמן",
+    "common_name": "Chaim Liberman",
+    "generation": 6,
+    "death_place_id": "new-york",
+    "primary_place_id": "new-york",
+    "role": "Chossid",
+    "bio": "Rabbi Chaim Liberman served as the personal secretary and dedicated librarian for the Rebbe Rayatz. Due to his steadfast involvement with the Rebbe's underground network, he was arrested by the Soviets and exiled to Tambov.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "menachem-mendel-feldman",
+    "name_en": "Rabbi Menachem Mendel Feldman",
+    "name_he": "ר' מנחם מענדל פלדמן",
+    "common_name": "Menachem Mendel Feldman",
+    "generation": 6,
+    "role": "Chossid",
+    "bio": "Rabbi Menachem Mendel Feldman was a dedicated Chassid and a prominent Torah scholar who assisted the Rebbe Rayatz's efforts. Known for his exceptional brilliance, he served as a respected Rabbi in Baltimore.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "shlomo-palmer",
+    "name_en": "Mr. Chaim Shlomo Palmer",
+    "name_he": "ר' חיים שלמה פלמר",
+    "common_name": "Shlomo Palmer",
+    "generation": 6,
+    "death_place_id": "chicago",
+    "primary_place_id": "chicago",
+    "role": "Chossid",
+    "bio": "Mr. Chaim Shlomo Palmer was a dedicated philanthropist and activist based in Chicago. He consistently supported Chabad institutions and was highly active in the Agudas Chasidei Chabad.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "chicago",
+        "event": "Supported Chabad institutions as a community leader"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "yosef-weinberg",
+    "name_en": "Rabbi Yosef Weinberg",
+    "name_he": "ר' יוסף וויינבערג",
+    "common_name": "Yosef Weinberg",
+    "generation": 7,
+    "death_place_id": "new-york",
+    "primary_place_id": "new-york",
+    "role": "Chossid",
+    "bio": "Rabbi Yosef Weinberg was a prominent activist who played an essential role in building Chabad in America. He is famously known for broadcasting Chassidic teachings on the radio, greatly expanding the reach of the movement.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "yaakov-yosef-of-polonne",
+    "name_en": "Rabbi Yaakov Yosef",
+    "name_he": "ר' יעקב יוסף מפולנאה",
+    "common_name": "Yaakov Yosef of Polonne",
+    "generation": 0,
+    "death_year": 1784,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Yaakov Yosef of Polonne was a leading disciple of the Baal Shem Tov and the author of the foundational text Toldot Yaakov Yosef. He was the very first to publish Chassidic teachings in print, extensively citing and explaining the words of his master.",
+    "journey": [],
+    "birth_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "pinchas-of-koretz",
+    "name_en": "Rabbi Pinchas",
+    "name_he": "ר' פנחס מקארעץ",
+    "common_name": "Pinchas of Koretz",
+    "generation": 0,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Pinchas of Koretz was a prominent early Chassidic master and a close colleague of the Baal Shem Tov. He was highly revered for his immense piety, his focus on the attribute of truth, and his central role in the early spread of the movement.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "yechiel-michel-of-zlotchov",
+    "name_en": "Rabbi Yechiel Michel",
+    "name_he": "ר' יחיאל מיכל מזלאטשוב",
+    "common_name": "Yechiel Michel of Zlotchov",
+    "generation": 0,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Yechiel Michel of Zlotchov was a major disciple of both the Baal Shem Tov and the Maggid of Mezritch. He was an influential early master who guided many of the subsequent leaders of the Chassidic movement through his fiery devotion and teachings.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "reb-zusha-of-anipoli",
+    "name_en": "Rabbi Meshulam Zusia",
+    "name_he": "ר' משולם זושא מאניפאלי",
+    "common_name": "Reb Zusha of Anipoli",
+    "generation": 0,
+    "death_place_id": "anipoli",
+    "primary_place_id": "anipoli",
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Meshulam Zusia of Anipoli was a famous, deeply pious Chassidic master and a beloved disciple of the Maggid of Mezritch. Known for his profound humility and simple devotion, he remains one of the most endearing and legendary figures in Chassidic history.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "anipoli",
+        "event": "Lived"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "elimelech-of-lizhensk",
+    "name_en": "Rabbi Elimelech",
+    "name_he": "ר' אלימלך מליז'נסק",
+    "common_name": "Elimelech of Lizhensk",
+    "generation": 0,
+    "birth_year": 1717,
+    "death_year": 1787,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Elimelech of Lizhensk was a leading disciple of the Maggid of Mezritch and the author of the classic text Noam Elimelech. He was the primary architect of the Chassidic movement in Poland, establishing the archetype of the Chassidic Tzaddik.",
+    "journey": [],
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "shmelke-of-nikolsburg",
+    "name_en": "Rabbi Shmuel Shmelke",
+    "name_he": "ר' שמעלקא מניקלשבורג",
+    "common_name": "Shmelke of Nikolsburg",
+    "generation": 0,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Shmuel Shmelke of Nikolsburg was a prominent disciple of the Maggid of Mezritch and an influential leader who served as the Chief Rabbi of Moravia. Together with his brother, Rabbi Pinchas Horowitz, he brought the fervor of Chassidism to the mainstream rabbinic world.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "baal-haflaa",
+    "name_en": "Rabbi Pinchas Horowitz",
+    "name_he": "ר' פנחס הורוויץ",
+    "common_name": "Baal Haflaa",
+    "generation": 0,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Pinchas Horowitz was a devoted disciple of the Maggid of Mezritch and the author of the monumental Talmudic work Haflaa. Serving as the Chief Rabbi of Frankfurt, he was a staunch defender of traditional Judaism and an early pioneer of Chassidic thought in Western Europe.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "ze-ev-wolf-of-zhitomir",
+    "name_en": "Rabbi Ze'ev Wolf",
+    "name_he": "ר' זאב וואלף מזיטאמיר",
+    "common_name": "Ze'ev Wolf of Zhitomir",
+    "generation": 0,
+    "death_year": 1797,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Ze'ev Wolf of Zhitomir was a leading disciple of the Maggid of Mezritch and the revered author of the Or HaMeir. His teachings helped shape the spiritual and intellectual foundations of early Chassidism.",
+    "journey": [],
+    "birth_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "aharon-the-great",
+    "name_en": "Rabbi Aharon",
+    "name_he": "ר' אהרן הגדול מקארלין",
+    "common_name": "Aharon the Great",
+    "generation": 0,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Aharon the Great of Karlin was an early, passionate Chassidic master and a disciple of the Maggid of Mezritch. He was instrumental in spreading the Chassidic movement throughout Lithuania before his untimely passing.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "nachum-of-chernobyl",
+    "name_en": "Rabbi Menachem Nachum",
+    "name_he": "ר' מנחם נחום מטשערנאביל",
+    "common_name": "Nachum of Chernobyl",
+    "generation": 0,
+    "birth_year": 1730,
+    "death_year": 1798,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Menachem Nachum of Chernobyl was a disciple of both the Baal Shem Tov and the Maggid of Mezritch. He was the author of the classic Chassidic work Meor Einayim and established the foundation for the Chernobyl Chassidic dynasty.",
+    "journey": [],
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "mordechai-of-chernobyl",
+    "name_en": "Rabbi Mordechai",
+    "name_he": "ר' מרדכי מטשערנאביל",
+    "common_name": "Mordechai of Chernobyl",
+    "generation": 1,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Mordechai of Chernobyl was a prominent Chassidic Rebbe and the son of Rabbi Menachem Nachum. He significantly expanded the Chernobyl dynasty, becoming a highly influential figure who maintained ties with the leaders of Chabad.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "baruch-of-medzhybizh",
+    "name_en": "Rabbi Baruch",
+    "name_he": "ר' ברוך ממזיבוז",
+    "common_name": "Baruch of Medzhybizh",
+    "generation": 1,
+    "death_place_id": "mezhibuzh",
+    "primary_place_id": "mezhibuzh",
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Baruch of Medzhybizh was the grandson of the Baal Shem Tov and an early, assertive Chassidic leader. He held court with regal bearing in Medzhybizh and was a major, sometimes controversial, authority in the emerging Chassidic world.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "mezhibuzh",
+        "event": "Lived"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "chaim-of-krasna",
+    "name_en": "Rabbi Chaim",
+    "name_he": "ר' חיים קראסנער",
+    "common_name": "Chaim of Krasna",
+    "generation": 0,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Chaim of Krasna was an esteemed early disciple of the Baal Shem Tov. He was an influential figure in the very first generation of the Chassidic movement's spread.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "leib-sarah-s",
+    "name_en": "Rabbi Leib Sarah's",
+    "name_he": "ר' לייב שרה'ס",
+    "common_name": "Leib Sarah's",
+    "generation": 1,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Leib Sarah's was a renowned hidden tzaddik and a contemporary of the early Chabad Rebbes. Wandering across Eastern Europe, he devoted his life to mystical intercession, ransoming Jewish captives, and supporting hidden scholars.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "yissachar-dov-of-lubavitch",
+    "name_en": "Rabbi Yissachar Dov",
+    "name_he": "ר' ישכר דוב מליובאוויטש",
+    "common_name": "Yissachar Dov of Lubavitch",
+    "generation": 0,
+    "death_place_id": "lubavitch",
+    "primary_place_id": "lubavitch",
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Yissachar Dov of Lubavitch was an early disciple of the Maggid of Mezritch. He established a Chassidic presence in the town of Lubavitch years before the Alter Rebbe's successors made it the movement's capital.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Lived"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "shlomo-of-usha",
+    "name_en": "Rabbi Shlomo",
+    "name_he": "ר' שלמה אושאווער",
+    "common_name": "Shlomo of Usha",
+    "generation": 1,
+    "role": "Chossid",
+    "bio": "Rabbi Shlomo of Usha was a prominent Chassid in the early generations of the Chabad movement. He was deeply devoted to the teachings of the Alter Rebbe and served as a spiritual guide in his region.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "avraham-the-malach",
+    "name_en": "Rabbi Avraham",
+    "name_he": "ר' אברהם המלאך",
+    "common_name": "Avraham the Malach",
+    "generation": 0,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Avraham, known as the \"Malach\" (Angel), was the son of the Maggid of Mezritch. He was celebrated for his extreme asceticism and otherworldly piety, completely detaching himself from physical desires.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "shalom-shachna-of-prohovitch",
+    "name_en": "Rabbi Shalom Shachna",
+    "name_he": "ר' שלום שכנא מפראהביטש",
+    "common_name": "Shalom Shachna of Prohovitch",
+    "generation": 1,
+    "role": "Pre-Chabad Teacher",
+    "bio": "Rabbi Shalom Shachna of Prohovitch was the son of Rabbi Avraham the Malach and the father of the majestic Rabbi Yisrael of Ruzhin. He served as a bridge between the intense asceticism of his father and the regal Chassidic courts established by his son.",
+    "journey": [],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "aharon-of-strashelye",
+    "name_en": "Rabbi Aharon",
+    "name_he": "ר' אהרן מסטראשעלע",
+    "common_name": "Aharon of Strashelye",
+    "generation": 1,
+    "role": "Mashpia",
+    "bio": "Rabbi Aharon of Strashelye was the brilliant and most prominent disciple of the Alter Rebbe. After his master's passing, he emphasized explosive emotional ecstasy in prayer, eventually forming his own independent Chassidic following in Strashelye in ideological contrast to the Mitteler Rebbe.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Studied"
+      }
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "chabadpedia_url": null,
+    "photo_url": null
   }
 ]

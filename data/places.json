@@ -12,8 +12,8 @@
     "id": "okopy",
     "name_en": "Okopy",
     "name_he": "אוקופ",
-    "lat": 48.6500,
-    "lng": 26.4500,
+    "lat": 48.65,
+    "lng": 26.45,
     "modern_country": "Ukraine",
     "significance": "Birthplace of the Baal Shem Tov."
   },
@@ -31,7 +31,7 @@
     "name_en": "Trisk (Turiisk)",
     "name_he": "טריסק",
     "lat": 51.0892,
-    "lng": 24.5310,
+    "lng": 24.531,
     "modern_country": "Ukraine",
     "significance": "Home of Rabbi Shimon Zundel, an early disciple of the Baal Shem Tov."
   },
@@ -57,8 +57,8 @@
     "id": "shvintzian",
     "name_en": "Shvintzian (Švenčionys)",
     "name_he": "שווינציאן",
-    "lat": 55.1340,
-    "lng": 26.1590,
+    "lat": 55.134,
+    "lng": 26.159,
     "modern_country": "Lithuania",
     "significance": "Home of Rabbi Shlomo Raphael."
   },
@@ -84,8 +84,8 @@
     "id": "piena",
     "name_en": "Piena",
     "name_he": "פיענא",
-    "lat": 52.0500,
-    "lng": 35.7500,
+    "lat": 52.05,
+    "lng": 35.75,
     "modern_country": "Russia",
     "significance": "Place of the Alter Rebbe's passing on 24 Tevet 1812 while fleeing Napoleon's advance."
   },
@@ -129,8 +129,8 @@
     "id": "lepli",
     "name_en": "Lepli (Lepel)",
     "name_he": "לעפלי",
-    "lat": 54.8810,
-    "lng": 28.7050,
+    "lat": 54.881,
+    "lng": 28.705,
     "modern_country": "Belarus",
     "significance": "Home of Rabbi Yekutiel Lepler and Reb Mordechai Lepler."
   },
@@ -255,7 +255,7 @@
     "id": "nikolaev",
     "name_en": "Nikolaev (Mykolaiv)",
     "name_he": "ניקאלאיעוו",
-    "lat": 46.9750,
+    "lat": 46.975,
     "lng": 31.9946,
     "modern_country": "Ukraine",
     "significance": "Birthplace of the Lubavitcher Rebbe in 1902."
@@ -264,8 +264,8 @@
     "id": "babinovich",
     "name_en": "Babinovich",
     "name_he": "באבינאוויטש",
-    "lat": 54.7000,
-    "lng": 30.5500,
+    "lat": 54.7,
+    "lng": 30.55,
     "modern_country": "Belarus",
     "significance": "Birthplace of Rebbetzin Chaya Mushka, wife of the Lubavitcher Rebbe."
   },
@@ -273,7 +273,7 @@
     "id": "alma-ata",
     "name_en": "Alma-Ata (Almaty)",
     "name_he": "אלמא אטא",
-    "lat": 43.2220,
+    "lat": 43.222,
     "lng": 76.8512,
     "modern_country": "Kazakhstan",
     "significance": "Place of exile and passing of Rabbi Levi Yitzchak Schneerson, the Lubavitcher Rebbe's father, in 1944."
@@ -291,8 +291,8 @@
     "id": "samarkand",
     "name_en": "Samarkand",
     "name_he": "סמרקנד",
-    "lat": 39.6270,
-    "lng": 66.9750,
+    "lat": 39.627,
+    "lng": 66.975,
     "modern_country": "Uzbekistan",
     "significance": "Center of underground Jewish education established by Reb Simcha Gorodetsky in 1923 under the Rayatz's directives—over 800 students and 45 teachers within three months."
   },
@@ -318,8 +318,8 @@
     "id": "siberia",
     "name_en": "Siberia",
     "name_he": "סיביר",
-    "lat": 60.0000,
-    "lng": 100.0000,
+    "lat": 60.0,
+    "lng": 100.0,
     "modern_country": "Russia",
     "significance": "Region of Soviet labor camps and exile where R' Mendel Futerfas, R' Folleh Kahn, and many other chassidim were imprisoned for their religious activities."
   },
@@ -490,7 +490,7 @@
     "name_en": "Tzfat (Safed)",
     "name_he": "צפת",
     "lat": 32.9646,
-    "lng": 35.4960,
+    "lng": 35.496,
     "modern_country": "Israel",
     "significance": "Holy city; burial place of Reb Pinye Althaus."
   },
@@ -499,7 +499,7 @@
     "name_en": "Nachlat Har Chabad (Kiryat Malachi)",
     "name_he": "נחלת הר חב\"ד",
     "lat": 31.7333,
-    "lng": 34.7500,
+    "lng": 34.75,
     "modern_country": "Israel",
     "significance": "Neighborhood established for Russian-immigrant chassidim. Site of the yeshiva established by Rabbi Motel Kozliner in 1972 at the Rebbe's instruction."
   },

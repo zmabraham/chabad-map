@@ -22,3 +22,12 @@ scripts/enrich_data.json
 scripts/merge_report.md
 scripts/merge_patch.json
 scripts/test_merge_input.json
+scripts/new_entries.json
+scripts/unresolved_places.md
+scripts/geocoding_report.md
+scripts/places_patch.json
+
+# Raw NotebookLM batch inputs — workspace, not source of truth
+scripts/incoming.json
+scripts/incoming_b2.json
+scripts/incoming/
