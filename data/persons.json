@@ -6061,5 +6061,45 @@
     ],
     "chabadpedia_url": null,
     "photo_url": null
+  },
+  {
+    "id": "zalman-schneerson",
+    "name_en": "Rabbi Zalman Schneerson",
+    "name_he": "ר' זלמן שניאורסאהן מוועליז",
+    "common_name": "Zalman Schneerson",
+    "generation": 5,
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": null,
+    "role": "Family",
+    "bio": "Rabbi Zalman Schneerson of Velizh was a respected descendant of the Chabad Rebbes. He maintained the Chassidic legacy of his family as a dedicated Chassid.",
+    "journey": [],
+    "chabadpedia_url": null,
+    "photo_url": null
+  },
+  {
+    "id": "shmuel-gurary",
+    "name_en": "Rabbi Shmuel Gurary",
+    "name_he": "ר' שמואל גורארי מקרעמענטשוק",
+    "common_name": "Shmuel Gurary",
+    "generation": 5,
+    "birth_year": null,
+    "death_year": null,
+    "birth_place_id": null,
+    "death_place_id": null,
+    "primary_place_id": "kremenchug",
+    "role": "Chossid",
+    "bio": "Rabbi Shmuel Gurary of Kremenchug was a major philanthropist and a devoted Chassid. He heavily supported the Tomchei Temimim yeshiva and assisted the Rebbe Rashab in numerous communal affairs.",
+    "journey": [
+      {
+        "year": null,
+        "place_id": "kremenchug",
+        "event": "Supported Tomchei Temimim as a major philanthropist"
+      }
+    ],
+    "chabadpedia_url": null,
+    "photo_url": null
   }
 ]
