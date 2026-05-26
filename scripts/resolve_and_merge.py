@@ -30,12 +30,19 @@ OUTPUT_PATH = ROOT / "scripts" / "new_entries.json"
 UNRESOLVED_PATH = ROOT / "scripts" / "unresolved_places.md"
 
 # Paired batches: (v1, v2). Each is loaded fresh; pair-merge by index.
-BATCHES = [
-    (ROOT / "scripts" / "incoming.json",          ROOT / "scripts" / "incoming_b2.json"),
-    (ROOT / "scripts" / "incoming" / "b2_v1.json", ROOT / "scripts" / "incoming" / "b2_v2.json"),
-    (ROOT / "scripts" / "incoming" / "b3_v1.json", ROOT / "scripts" / "incoming" / "b3_v2.json"),
-    (ROOT / "scripts" / "incoming" / "b4_v1.json", ROOT / "scripts" / "incoming" / "b4_v2.json"),
-]
+# Auto-discover scripts/incoming/b{N}_v1.json + b{N}_v2.json pairs.
+INCOMING = ROOT / "scripts" / "incoming"
+BATCHES = []
+# Legacy paths from before scripts/incoming/ existed
+_legacy_v1 = ROOT / "scripts" / "incoming.json"
+_legacy_v2 = ROOT / "scripts" / "incoming_b2.json"
+if _legacy_v1.exists() and _legacy_v2.exists():
+    BATCHES.append((_legacy_v1, _legacy_v2))
+# Auto-discovered pairs
+for v1 in sorted(INCOMING.glob("b*_v1.json")):
+    v2 = v1.with_name(v1.name.replace("_v1.json", "_v2.json"))
+    if v2.exists():
+        BATCHES.append((v1, v2))
 
 # Manual place-name aliases. Anything not here gets fuzzy-matched against places.json.
 PLACE_ALIASES = {
