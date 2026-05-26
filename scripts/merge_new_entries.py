@@ -254,10 +254,18 @@ def main() -> int:
     report.append(f"## Persons ({len(new_persons)} proposed)")
     if not new_persons:
         report.append("_None._")
+    not_found_count = 0
     for p in new_persons:
         action = p.get("_action", "create")
         pid = p.get("id", "?")
         line_header = f"### `{pid}` — {p.get('common_name') or p.get('name_en', '?')}  _(action: {action})_"
+
+        if action == "not-found":
+            not_found_count += 1
+            report.append(f"### {p.get('common_name') or p.get('name_he') or '?'}  _(action: not-found)_")
+            report.append("- verdict: **SKIPPED** — NotebookLM could not locate this name in the uploaded sources. Try a different source or a different spelling.")
+            report.append("")
+            continue
 
         if action == "patch":
             if pid not in person_by_id:
@@ -314,6 +322,7 @@ def main() -> int:
         "## Summary",
         f"- New persons cleared: {len(cleared_persons)} / {len(new_persons)}",
         f"- Person patches cleared: {len(patches_to_apply)}",
+        f"- Not found in sources: {not_found_count}",
         f"- New places cleared: {len(cleared_places)} / {len(new_places)}",
         "",
         "Run again with `--apply` to splice cleared entries into the dataset.",

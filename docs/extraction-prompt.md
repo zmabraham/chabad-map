@@ -1,27 +1,26 @@
-# NotebookLM Extraction Prompts — Current App Schema
+# NotebookLM Extraction — Name-List Workflow
 
-Prompts for pulling new person and place entries out of Chabad history sources via NotebookLM, formatted to drop directly into `data/persons.json` and `data/places.json`.
+Turn a curated list of names into structured person records that match the live app's schema (`entry-schema.md`).
 
-Targets **today's app schema** (see `entry-schema.md`), not the future v0.1 expansion (`notebooklm-prompts.md`).
+You supply the names. NotebookLM fills in the schema fields from sources uploaded to the notebook. The merge script dedupes against the existing dataset and writes only the cleared entries.
 
-## Workflow at a glance
+## Workflow
 
-1. **Generate the "known IDs" block.** Run `python scripts/known_ids.py > known.txt`. This produces the deduplication context: every existing person and place ID with their canonical names. Paste this into each NotebookLM session so the model reuses existing IDs instead of coining new ones for figures already in the dataset.
-2. **Run the system primer** (Prompt 0) once at the start of each NotebookLM session.
-3. **Run the discovery pass** (Prompt 1) to enumerate everyone mentioned in the uploaded source.
-4. **Run the extraction pass** (Prompt 2) in batches of 3–5 persons.
-5. **Save the JSON output to `scripts/new_entries.json`.**
-6. **Run `python scripts/merge_new_entries.py scripts/new_entries.json`** — fuzzy-matches against the existing dataset, flags duplicates, produces a clean patch.
-7. **Review the patch, then splice the cleared entries into `data/persons.json` and `data/places.json`.**
+1. **Curate a name list.** Whatever criteria — figures featured in a sefer you're working through, a list from a Farbrengen, a roster from a Yahrzeit calendar. One name per line, in the form your sources actually use. English or Hebrew or both.
+2. **Generate the known-IDs context.** `python scripts/known_ids.py > known.txt`. Open that file — you'll paste two blocks from it into the prompt below.
+3. **Open a NotebookLM notebook** with the relevant Chabad source PDFs uploaded.
+4. **Paste Prompt A (system primer) once** at the start of the session. Substitute the two `[PASTE …]` blocks with the contents of `known.txt`.
+5. **Paste Prompt B (batch extraction)** with your name list (5–10 names per batch). Save the JSON output.
+6. **Merge:** `python scripts/merge_new_entries.py path/to/output.json`. Review `scripts/merge_report.md` for any REVIEW flags (duplicates, validation errors). Resolve, then `--apply` to splice in.
 
 ## Output shape
 
-NotebookLM should return a single JSON object with two arrays — one for new persons, one for new places it had to propose along the way:
+Every NotebookLM extraction returns a single JSON object:
 
 ```jsonc
 {
-  "persons": [ /* Person records per entry-schema.md */ ],
-  "places":  [ /* Place records for any place_id used above that doesn't appear in the known places list */ ]
+  "persons": [ /* one Person record per name in the batch */ ],
+  "places":  [ /* any new Place records referenced by the persons above */ ]
 }
 ```
 
@@ -29,168 +28,146 @@ The merge script expects exactly this shape.
 
 ---
 
-## Prompt 0 — System primer (paste once at session start)
+## Prompt A — System primer (paste once at session start)
 
 ```
 You are a research assistant helping extend a structured historical database of
-figures and places connected to the Chabad-Lubavitch chassidic movement.
+Chabad-Lubavitch figures. I will paste a list of names; your job is to produce
+one JSON record per name that matches the schema below, using only facts you
+can verify in the sources uploaded to this notebook.
 
 GROUND RULES:
-1. Only state facts that appear in the sources uploaded to this notebook. Never
-   use prior knowledge to fill gaps. If a fact is not in the sources, the field
-   is null.
-2. When sources disagree, prefer the more chassidic-historical authoritative
-   source (Beis Rebbi, Sefer HaToldos, the Rebbe's sichos, Igros Kodesh) over
-   secondary literature. Note disagreements in the bio if material.
-3. Output is JSON only — no preamble, no explanation, no markdown fences around
-   the JSON. Plain valid JSON, parseable directly.
-4. Years are Gregorian integers. If a source gives only a Hebrew year, convert
-   it to Gregorian using the standard year + 3760/3761 mapping (Tishrei-based);
-   if uncertain across that boundary, prefer the later year. Put a note in the
-   bio if the Hebrew year is the primary source.
-5. NEVER invent an ID for someone already in the KNOWN PERSONS list below. If
-   you find them mentioned in this source, reuse the existing ID and only
-   extract fields that are MISSING or in addition. Same rule for places.
-6. For new persons not in the known list, propose a kebab-case ID following the
-   pattern of existing IDs (e.g., "reb-firstname-lastname" or
-   "rabbi-firstname-place" for figures named after their seat).
-7. For new places, only propose if you have BOTH a coordinate (verified from
-   Wikipedia or a reliable source) AND a modern country. Otherwise, omit the
-   place_id field and describe the location in the bio for human follow-up.
+1. Use only the uploaded sources. If a fact is not in them, the field is null.
+   Never use prior knowledge to fill gaps.
+2. Years are Gregorian integers. If a source gives a Hebrew year, convert to
+   Gregorian (year + 3760/3761 depending on Tishrei boundary). If uncertain
+   which Gregorian year, prefer the later year and note the Hebrew year in bio.
+3. Output is JSON only. No preamble, no explanation, no markdown fences. Plain
+   valid JSON parseable directly by `json.loads`.
+4. If a name I give you matches an existing entry in the KNOWN PERSONS list
+   below, reuse the existing ID and use the action "patch" (see schema). The
+   "patch" record only includes the fields the existing record is missing.
+5. If a name does not match any existing entry, propose a kebab-case id using
+   the pattern of existing ids (e.g., "reb-firstname-lastname",
+   "rabbi-firstname-place" if named after a seat, "rebbe-X" for Rebbes).
+6. For places: if a place_id you reference is in KNOWN PLACES, reuse it. If
+   not, you may add it to the "places" array with verified lat/lng — verify
+   coordinates by searching the historical town on Wikipedia and copying the
+   coordinates from the article infobox. If you cannot verify coordinates, set
+   the place_id to null in the person record and mention the place name in the
+   bio so a human can resolve it later.
+7. If a name on my list does not appear in your uploaded sources, output a
+   record with "_action": "not-found" and the name as `common_name`. Do not
+   guess facts about figures the sources don't cover.
 
-KNOWN PERSONS (use these exact IDs; do not duplicate):
-[PASTE the persons section from `scripts/known_ids.py` output here]
-
-KNOWN PLACES (use these exact IDs; do not duplicate):
-[PASTE the places section from `scripts/known_ids.py` output here]
-
-Reply "Ready" when you have read this and the uploaded sources, then list the
-sources you see.
-```
-
----
-
-## Prompt 1 — Discovery pass
-
-Use to enumerate every named individual in the uploaded source before extracting full records.
-
-```
-DISCOVERY PASS
-
-List every named individual mentioned in the uploaded sources who is connected
-to Chabad history (Rebbes, family, chassidim, mashpi'im, contemporaries,
-opponents, government officials they interacted with).
-
-For each, output ONE row as plain text:
-
-  proposed_id | common_name_en | name_he | generation_guess | one_line_who_they_are
-
-where:
-- proposed_id is kebab-case; if the person is already in the KNOWN PERSONS list,
-  use the existing id verbatim and prefix the row with "[KNOWN]".
-- generation_guess is 0-7 per the schema, or "?" if unclear.
-- one_line_who_they_are is under 15 words.
-
-Process the sources in narrative order. Give me the FIRST 20 rows, then stop and
-wait for "continue" before giving the next 20.
-
-Do NOT include duplicates. If a person appears under multiple spellings, list
-once with all spellings comma-separated under common_name_en.
-```
-
-When the discovery list is complete, manually skim it for obvious duplicates against the known list, then feed the new entries into Prompt 2 in batches.
-
----
-
-## Prompt 2 — Person extraction (batch)
-
-The workhorse prompt. Pulls full structured records ready to merge.
-
-```
-PERSON EXTRACTION — BATCH OF 3-5
-
-For each person listed below, output a JSON object matching this exact schema:
+PERSON SCHEMA (one record per name):
 
 {
-  "id": "kebab-case-slug",
-  "name_en": "Full formal English name with title (Rabbi/Reb/Rebbetzin)",
+  "_action": "create" | "patch" | "not-found",
+  "id": "kebab-case-id",
+  "name_en": "Full formal English name with Rabbi/Reb/Rebbetzin title",
   "name_he": "שם בעברית",
   "common_name": "Short conversational name (1-4 words)",
-  "generation": 0,                       // integer 0-7
-  "birth_year": 1795,                    // integer or null
-  "death_year": 1864,                    // integer or null
-  "birth_place_id": "place-id",          // null if unknown
-  "death_place_id": "place-id",          // null if unknown
+  "generation": 0,                       // integer 0-7; see GENERATIONS table below
+  "birth_year": 1795,                    // Gregorian integer or null
+  "death_year": 1864,                    // Gregorian integer or null
+  "birth_place_id": "place-id",          // must be in KNOWN PLACES or your "places" output; null if unknown
+  "death_place_id": "place-id",
   "role": "Rebbe|Rebbetzin|Son of Rebbe|Family|Mashpia|Chossid|Pre-Chabad Teacher",
-  "bio": "2-5 sentences, faithful to sources, no markdown",
-  "primary_place_id": "place-id",        // optional - the seat they are identified with if NOT same as death_place
+  "bio": "2-5 sentences. Render-faithful prose. No editorializing, no markdown.",
+  "primary_place_id": "place-id",        // optional - the seat they are identified with; set if NOT same as death_place
   "journey": [
     { "year": 1795, "place_id": "...", "event": "Born" },
-    { "year": 1810, "place_id": "...", "event": "Studied" },
-    { "year": 1812, "place_id": "...", "event": "Appointed Rav" },
+    { "year": 1810, "place_id": "...", "event": "Appointed Rav" },
     { "year": 1864, "place_id": "...", "event": "Passed away" }
-  ]
+  ],
+  "chabadpedia_url": null,               // include if the source references it
+  "photo_url": null                      // leave null - photos are sourced separately
 }
 
-EXTRACTION RULES:
-- If a person is in the KNOWN PERSONS list, reuse their id. Output ONLY the
-  fields the source provides that are missing or improving on the known record.
-  Mark this case by adding "_action": "patch" to that object.
-- For new persons, output the full record and "_action": "create".
-- All place_ids must either be in KNOWN PLACES or be defined in your "places"
-  output array with at minimum: id, name_en, name_he, lat, lng, modern_country.
-- Generation: use the figure's PRIMARY era of activity, not their birth date.
-  Hillel Paritcher (1795-1864) is generation 3 (Tzemach Tzedek era), not 1.
-- Role: pick the single best fit from the controlled list. Wives of Rebbes
-  are "Rebbetzin", sons of Rebbes who did not themselves become Rebbe are
-  "Son of Rebbe", recognized chassidic mentors are "Mashpia", general followers
-  are "Chossid", Baal Shem Tov / Maggid / their circle are "Pre-Chabad Teacher".
-- Journey: include 2-10 steps capturing meaningful location changes. Birth and
-  death are always included if known. Events should be short labels from this
-  vocabulary when possible: Born, Studied, Married, Appointed Rav, Appointed
-  Mashpia, Founded yeshiva, Imprisoned, Released, Escaped, Made aliya, Emigrated,
-  Yechidus, Passed away. Use your own short label if none fit.
-- bio: 2-5 sentences. Render-faithful prose. No editorial praise, no markdown.
-  Anything noteworthy about them goes here.
-- For each `place_id` you reference that is NOT in KNOWN PLACES, include the
-  place in the "places" array of your output with verified lat/lng (search
-  Wikipedia for the historical town to confirm). If you cannot verify the
-  coordinates, set the place_id to null in the person record and mention the
-  location name in the bio for manual follow-up.
+For "patch" records (existing id), include ONLY the fields you can supply that
+the existing record is missing. Do not repeat fields the existing record already
+has. Always include the `id` and `_action`.
 
-OUTPUT a single JSON object:
+For "not-found" records, include only `_action`, `common_name`, and (if you
+have it) `name_he`. Skip everything else.
+
+GENERATIONS:
+  0  Pre-Chabad (Baal Shem Tov, Maggid of Mezeritch and circle)
+  1  Alter Rebbe        (1745-1812)
+  2  Mitteler Rebbe     (1773-1827)
+  3  Tzemach Tzedek     (1789-1866)
+  4  Maharash           (1834-1882)
+  5  Rashab             (1860-1920)
+  6  Rayatz             (1880-1950)
+  7  The Rebbe          (1902-1994)
+Use the figure's PRIMARY era of activity, not their birth date. Reb Mendel
+Futerfas (b. 1906 under the Rashab) is generation 7 because his work as a
+mashpia was under the Rebbe.
+
+JOURNEY EVENT LABELS (use these short labels when one fits):
+  Born, Studied, Married, Appointed Rav, Appointed Mashpia, Founded yeshiva,
+  Imprisoned, Released, Escaped, Made aliya, Emigrated, Yechidus, Passed away
+Use your own short label if none fits. Steps should capture meaningful changes
+of location — if a figure stayed in one town for fifty years, the journey is
+short. Include the year for each step when the source supports it.
+
+KNOWN PERSONS (use these exact ids; do not duplicate):
+[PASTE the persons block from `scripts/known_ids.py` output]
+
+KNOWN PLACES (use these exact ids; do not duplicate):
+[PASTE the places block from `scripts/known_ids.py` output]
+
+Reply "Ready" and list the sources you see in this notebook.
+```
+
+---
+
+## Prompt B — Extract from a name list
+
+```
+Extract person records for the following names, using the schema and rules from
+the system primer. One JSON object as final output, matching this shape:
 
 {
-  "persons": [ /* one record per person below */ ],
-  "places":  [ /* any new places referenced */ ]
+  "persons": [ /* one record per name below */ ],
+  "places":  [ /* any new place records referenced */ ]
 }
 
-PERSONS TO EXTRACT (this batch):
+For each name:
+- Match it to a figure in the uploaded sources. Use Hebrew or English spellings;
+  the same person may appear under multiple variants.
+- If the figure exists in KNOWN PERSONS, output a "patch" record.
+- If they are new and in your sources, output a "create" record.
+- If they are not in any uploaded source, output a "not-found" record.
 
-1. (proposed_id from discovery list) — short name — one-line identifier
-2. ...
+NAMES TO EXTRACT:
+
+1. [first name from your list]
+2. [second name]
 3. ...
 
-Output the JSON only.
+Output the JSON only. No preamble.
 ```
 
 ---
 
 ## Practical guidance
 
-**Batch size.** 3–5 persons per Prompt-2 invocation. NotebookLM truncates around 4000 tokens; larger batches return cut-off JSON.
+**Batch size.** 5–10 names per Prompt-B call. NotebookLM truncates around 4000 tokens of output — large batches return cut-off JSON. If you have 50 names, do them as 5–10 batches and merge the outputs into one file before running `merge_new_entries.py`.
 
-**Hebrew names.** Use the spelling that appears in standard Chabad seforim (Beis Rebbi, Sefer HaToldos), not modern Israeli orthography. The dataset's existing entries follow chassidic-traditional spelling.
+**Format of names.** Be specific. "Rabbi Yitzchak Isaac Epstein of Homel" is unambiguous; "R' Yitzchak Isaac" is not (multiple figures by this name). When ambiguity exists, qualify with a place, a generation, or a relationship: "R' Yitzchak Isaac, talmid of the Alter Rebbe."
 
-**Year of activity vs year of life.** Generation is about *when they did their work*, not when they were born or died. Reb Mendel Futerfas was born in 1906 (under the Rashab, generation 5) but his work as a mashpia was under the Rayatz and the Rebbe — that puts him in generation 7 in our dataset.
+**Hebrew names.** NotebookLM handles both languages. If the source is Hebrew, including the Hebrew name on your list improves match rate.
 
-**Spot-check 10% of every batch.** Random-sample three records per batch and verify the cited claims appear in the actual source pages. NotebookLM's biggest failure mode is plausible hallucination from training data when sources are thin. If you find one, tighten the primer with: "If you cannot point to a specific page in the uploaded sources that supports a claim, set the field to null."
+**`patch` records.** These let you re-extract for figures already in the dataset and have NotebookLM fill in only the gaps. Useful when you discover a new source that covers a figure better than the original. The merge script will only fill *null* fields — it never overwrites existing data.
 
-**One source per session.** Run one notebook per major source (or tight source-set). Keeps citations clean and reduces cross-contamination of facts between books.
+**`not-found` records.** Don't silently drop names. If NotebookLM can't find a name in the sources, the record marker tells you which names need a different source. Treat these as a to-do list, not a failure.
 
-**Iteration.** After each merge:
-1. Re-run `python scripts/known_ids.py > known.txt`
-2. Update the primer with the fresh list
-3. Move to the next source
+**Verification.** Random-sample three records per batch and check that the cited claims appear in the actual source pages. If you find a hallucination, tighten the primer with: "If you cannot point to a specific page in the uploaded sources that supports a claim, set the field to null."
 
-**What this won't extract reliably.** Relationship networks, full correspondence lists, story collections — these require the larger v0.1 schema. Use `notebooklm-prompts.md` if/when you decide to graduate the schema.
+**Update known-IDs between batches.** After you `--apply` a batch, re-run `python scripts/known_ids.py > known.txt` so the next batch's primer reflects the larger dataset. This is how you prevent slow ID drift over time.
+
+**One source per session.** Run one notebook per major source. Keeps NotebookLM's citation context tight.
+
+**What this won't extract.** Relationship networks, full correspondence lists, story collections — these need the larger v0.1 schema (`full-spec-future.md` + `notebooklm-prompts.md`). The current schema is intentionally lean.
