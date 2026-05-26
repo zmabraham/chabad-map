@@ -520,5 +520,391 @@
     "lng": 29.9258,
     "modern_country": "Russia",
     "significance": "Soviet city where Reb Zalman Moshe HaYitzchaki lived and farbrenged; major Chabad center in the early Soviet period."
+  },
+  {
+    "id": "chernobyl",
+    "name_en": "Chernobyl",
+    "name_he": "טשערנאביל",
+    "lat": 51.2734,
+    "lng": 30.2245,
+    "modern_country": "Ukraine",
+    "significance": "Seat of the Chernobyl chassidic dynasty founded by Rabbi Menachem Nachum Twersky."
+  },
+  {
+    "id": "chashnik",
+    "name_en": "Chashnik (Chashniki)",
+    "name_he": "טשאשניק",
+    "lat": 54.8478,
+    "lng": 29.1731,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "karlin",
+    "name_en": "Karlin",
+    "name_he": "קארלין",
+    "lat": 52.1135,
+    "lng": 26.1188,
+    "modern_country": "Belarus",
+    "significance": "Suburb of Pinsk; seat of the Karlin chassidic dynasty founded by Rabbi Aharon of Karlin."
+  },
+  {
+    "id": "chernigov",
+    "name_en": "Chernigov (Chernihiv)",
+    "name_he": "טשערניגאוו",
+    "lat": 51.4982,
+    "lng": 31.2893,
+    "modern_country": "Ukraine"
+  },
+  {
+    "id": "baltimore",
+    "name_en": "Baltimore",
+    "name_he": "באלטימאר",
+    "lat": 39.2904,
+    "lng": -76.6122,
+    "modern_country": "United States"
+  },
+  {
+    "id": "yanovitch",
+    "name_en": "Yanovitch (Yanavichy)",
+    "name_he": "יאנאוויטש",
+    "lat": 55.3,
+    "lng": 30.7,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "orsha",
+    "name_en": "Orsha",
+    "name_he": "אורשא",
+    "lat": 54.5081,
+    "lng": 30.4172,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "treblinka",
+    "name_en": "Treblinka",
+    "name_he": "טרעבלינקא",
+    "lat": 52.6311,
+    "lng": 22.0531,
+    "modern_country": "Poland",
+    "significance": "Nazi extermination camp where many chassidim, including R' Alter Simchovitz of Warsaw, were murdered during the Holocaust."
+  },
+  {
+    "id": "tiberias",
+    "name_en": "Tiberias (Teveria)",
+    "name_he": "טבריה",
+    "lat": 32.7959,
+    "lng": 35.5311,
+    "modern_country": "Israel",
+    "significance": "Holy city in the Galilee; site of the early chassidic aliyah of 1777 led by Rabbi Menachem Mendel of Vitebsk."
+  },
+  {
+    "id": "berditchev",
+    "name_en": "Berditchev (Berdychiv)",
+    "name_he": "בארדיטשוב",
+    "lat": 49.898,
+    "lng": 28.5781,
+    "modern_country": "Ukraine",
+    "significance": "Seat of Rabbi Levi Yitzchak of Berditchev, the great defender of Israel."
+  },
+  {
+    "id": "poltava",
+    "name_en": "Poltava",
+    "name_he": "פאלטאווא",
+    "lat": 49.5883,
+    "lng": 34.5514,
+    "modern_country": "Ukraine",
+    "significance": "Ukrainian city where the Rashab spent time and major chassidic figures lived during the early 20th century."
+  },
+  {
+    "id": "polonne",
+    "name_en": "Polonne (Polonnoye)",
+    "name_he": "פולנאה",
+    "lat": 50.1225,
+    "lng": 27.5068,
+    "modern_country": "Ukraine",
+    "significance": "Town in Volhynia where Rabbi Yaakov Yosef of Polnoye, an early disciple of the Baal Shem Tov, served as rabbi."
+  },
+  {
+    "id": "lizhensk",
+    "name_en": "Lizhensk (Leżajsk)",
+    "name_he": "ליזענסק",
+    "lat": 50.2628,
+    "lng": 22.4197,
+    "modern_country": "Poland",
+    "significance": "Seat of Rabbi Elimelech of Lizhensk, the foundational figure of Polish chassidus and author of Noam Elimelech."
+  },
+  {
+    "id": "zhitomir",
+    "name_en": "Zhitomir (Zhytomyr)",
+    "name_he": "זשיטאמיר",
+    "lat": 50.2547,
+    "lng": 28.6587,
+    "modern_country": "Ukraine"
+  },
+  {
+    "id": "kalisk",
+    "name_en": "Kalisk (Kalyshki)",
+    "name_he": "קאליסק",
+    "lat": 55.1664,
+    "lng": 30.9586,
+    "modern_country": "Belarus",
+    "significance": "Birthplace and seat of Rabbi Avraham of Kalisk, a leading disciple of the Maggid of Mezeritch."
+  },
+  {
+    "id": "ruzhin",
+    "name_en": "Ruzhin",
+    "name_he": "רוזין",
+    "lat": 49.715,
+    "lng": 29.2125,
+    "modern_country": "Ukraine",
+    "significance": "Seat of the Ruzhin chassidic dynasty founded by Rabbi Yisrael of Ruzhin."
+  },
+  {
+    "id": "sadigura",
+    "name_en": "Sadigura (Sadhora)",
+    "name_he": "סאדיגורא",
+    "lat": 48.3275,
+    "lng": 25.9367,
+    "modern_country": "Ukraine",
+    "significance": "Later seat of the Ruzhin-Sadigura chassidic dynasty after Rabbi Yisrael of Ruzhin's flight from Russia."
+  },
+  {
+    "id": "kremenchug",
+    "name_en": "Kremenchug (Kremenchuk)",
+    "name_he": "קרעמענטשוג",
+    "lat": 49.0676,
+    "lng": 33.4204,
+    "modern_country": "Ukraine"
+  },
+  {
+    "id": "kharkov",
+    "name_en": "Kharkov (Kharkiv)",
+    "name_he": "כארקאוו",
+    "lat": 49.9935,
+    "lng": 36.2304,
+    "modern_country": "Ukraine"
+  },
+  {
+    "id": "manchester",
+    "name_en": "Manchester",
+    "name_he": "מאנטשעסטער",
+    "lat": 53.4808,
+    "lng": -2.2426,
+    "modern_country": "United Kingdom"
+  },
+  {
+    "id": "petach-tikva",
+    "name_en": "Petach Tikva",
+    "name_he": "פתח תקווה",
+    "lat": 32.0878,
+    "lng": 34.8878,
+    "modern_country": "Israel"
+  },
+  {
+    "id": "koretz",
+    "name_en": "Koretz (Korets)",
+    "name_he": "קארעץ",
+    "lat": 50.6175,
+    "lng": 27.1644,
+    "modern_country": "Ukraine",
+    "significance": "Seat of Rabbi Pinchas of Koretz, a close disciple of the Baal Shem Tov."
+  },
+  {
+    "id": "zlotchov",
+    "name_en": "Zlotchov (Zolochiv)",
+    "name_he": "זלאטשוב",
+    "lat": 49.8086,
+    "lng": 24.8975,
+    "modern_country": "Ukraine",
+    "significance": "Seat of Rabbi Yechiel Michel of Zlotchov, the 'Zlotchover Maggid,' a disciple of the Baal Shem Tov."
+  },
+  {
+    "id": "nikolsburg",
+    "name_en": "Nikolsburg (Mikulov)",
+    "name_he": "ניקלשבורג",
+    "lat": 48.8056,
+    "lng": 16.6386,
+    "modern_country": "Czech Republic",
+    "significance": "Seat of Rabbi Shmelke of Nikolsburg, a disciple of the Maggid of Mezeritch."
+  },
+  {
+    "id": "frankfurt",
+    "name_en": "Frankfurt am Main",
+    "name_he": "פרנקפורט",
+    "lat": 50.1109,
+    "lng": 8.6821,
+    "modern_country": "Germany"
+  },
+  {
+    "id": "fastov",
+    "name_en": "Fastov (Fastiv)",
+    "name_he": "פאסטאוו",
+    "lat": 50.0775,
+    "lng": 29.9189,
+    "modern_country": "Ukraine"
+  },
+  {
+    "id": "kishinev",
+    "name_en": "Kishinev (Chișinău)",
+    "name_he": "קישינוב",
+    "lat": 47.0105,
+    "lng": 28.8638,
+    "modern_country": "Moldova"
+  },
+  {
+    "id": "chiili",
+    "name_en": "Chiili (Shieli)",
+    "name_he": "טשיאילי",
+    "lat": 44.1789,
+    "lng": 66.7328,
+    "modern_country": "Kazakhstan",
+    "significance": "Place of exile of Rabbi Levi Yitzchak Schneerson, the Lubavitcher Rebbe's father, where he was sent in 1939 for anti-Soviet activity."
+  },
+  {
+    "id": "ludmir",
+    "name_en": "Ludmir (Volodymyr-Volynskyi)",
+    "name_he": "לודמיר",
+    "lat": 50.8484,
+    "lng": 24.3239,
+    "modern_country": "Ukraine",
+    "significance": "Volhynian town known in chassidic history as the home of the Maid of Ludmir."
+  },
+  {
+    "id": "kletzk",
+    "name_en": "Kletzk (Kletsk)",
+    "name_he": "קלעצק",
+    "lat": 53.0667,
+    "lng": 26.6333,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "borisov",
+    "name_en": "Borisov (Barysaw)",
+    "name_he": "באריסאוו",
+    "lat": 54.2275,
+    "lng": 28.505,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "pohar",
+    "name_en": "Pohar (Pogar)",
+    "name_he": "פאהאר",
+    "lat": 52.55,
+    "lng": 33.25,
+    "modern_country": "Russia"
+  },
+  {
+    "id": "rakshik",
+    "name_en": "Rakshik (Rokiškis)",
+    "name_he": "ראקשיק",
+    "lat": 55.9555,
+    "lng": 25.5859,
+    "modern_country": "Lithuania"
+  },
+  {
+    "id": "tula",
+    "name_en": "Tula",
+    "name_he": "טולא",
+    "lat": 54.1931,
+    "lng": 37.6175,
+    "modern_country": "Russia"
+  },
+  {
+    "id": "kazimirov",
+    "name_en": "Kazimirov (Kazimirovo)",
+    "name_he": "קאזימיראוו",
+    "lat": 52.905,
+    "lng": 29.832,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "surazh",
+    "name_en": "Surazh",
+    "name_he": "סוראז'",
+    "lat": 55.4086,
+    "lng": 30.7231,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "beshankovich",
+    "name_en": "Beshankovich (Beshankovichy)",
+    "name_he": "בעשענקאוויטש",
+    "lat": 55.0444,
+    "lng": 29.4559,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "mezritch",
+    "name_en": "Mezritch (Mezhirichi)",
+    "name_he": "מעזריטש",
+    "lat": 50.3719,
+    "lng": 26.9442,
+    "modern_country": "Ukraine",
+    "significance": "Seat of the Maggid of Mezeritch, who succeeded the Baal Shem Tov as leader of the chassidic movement."
+  },
+  {
+    "id": "zhlobin",
+    "name_en": "Zhlobin",
+    "name_he": "זשלאבין",
+    "lat": 52.8917,
+    "lng": 30.0333,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "polotsk",
+    "name_en": "Polotsk",
+    "name_he": "פאלאצק",
+    "lat": 55.4858,
+    "lng": 28.7861,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "novozybkov",
+    "name_en": "Novozybkov",
+    "name_he": "נאוואזיבקאוו",
+    "lat": 52.5364,
+    "lng": 31.9314,
+    "modern_country": "Russia"
+  },
+  {
+    "id": "london",
+    "name_en": "London",
+    "name_he": "לאנדאן",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "modern_country": "United Kingdom"
+  },
+  {
+    "id": "kobilnik",
+    "name_en": "Kobilnik (Narach)",
+    "name_he": "קאבילניק",
+    "lat": 54.9336,
+    "lng": 26.6886,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "vladivostok",
+    "name_en": "Vladivostok",
+    "name_he": "וולאדיוואסטאק",
+    "lat": 43.1198,
+    "lng": 131.8869,
+    "modern_country": "Russia"
+  },
+  {
+    "id": "tambov",
+    "name_en": "Tambov",
+    "name_he": "טאמבאוו",
+    "lat": 52.7212,
+    "lng": 41.4523,
+    "modern_country": "Russia"
+  },
+  {
+    "id": "shanghai",
+    "name_en": "Shanghai",
+    "name_he": "שאנגחאי",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "modern_country": "China",
+    "significance": "Refuge for many Jewish refugees including chassidim who escaped Europe via Siberia during WWII."
   }
 ]
