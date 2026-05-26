@@ -40,16 +40,28 @@ def extract_arrays(text: str) -> list:
     return arrays
 
 
+import sys as _sys
 INCOMING = Path("scripts/incoming")
-START = 5  # First new batch number
+# Accept arguments: pairs of (input_filename, start_num) or default to bN_v* with START=5
+ARGS = _sys.argv[1:]
+SOURCES = []
+if ARGS:
+    # arg1 = src filename, arg2 = start number, then pair of next 2
+    i = 0
+    while i < len(ARGS):
+        SOURCES.append((ARGS[i], int(ARGS[i + 1])))
+        i += 2
+else:
+    SOURCES = [("bN_v1.json", 5), ("bN_v2.json", 5)]
+
 removed = []
-for src_name in ("bN_v1.json", "bN_v2.json"):
+for src_name, START in SOURCES:
     src = INCOMING / src_name
     if not src.exists():
         continue
     text = src.read_text(encoding="utf-8")
     arrays = extract_arrays(text)
-    v_label = "v1" if src_name.endswith("v1.json") else "v2"
+    v_label = "v1" if "v1" in src_name else "v2"
     print(f"{src}: {len(arrays)} arrays found")
     for i, arr in enumerate(arrays):
         n = START + i

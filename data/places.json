@@ -906,5 +906,231 @@
     "lng": 121.4737,
     "modern_country": "China",
     "significance": "Refuge for many Jewish refugees including chassidim who escaped Europe via Siberia during WWII."
+  },
+  {
+    "id": "klimovitch",
+    "name_en": "Klimovitch (Klimavichy)",
+    "name_he": "קלימאוויטש",
+    "lat": 53.6167,
+    "lng": 31.95,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "montreal",
+    "name_en": "Montreal",
+    "name_he": "מאנטרעאל",
+    "lat": 45.5019,
+    "lng": -73.5674,
+    "modern_country": "Canada"
+  },
+  {
+    "id": "strashelye",
+    "name_en": "Strashelye (Starasel'lye)",
+    "name_he": "סטראשעליע",
+    "lat": 54.32,
+    "lng": 30.11,
+    "modern_country": "Belarus",
+    "significance": "Seat of Rabbi Aharon HaLevi Horowitz of Strashelye, leading disciple of the Alter Rebbe and founder of the Strashelye branch of chassidus."
+  },
+  {
+    "id": "antwerp",
+    "name_en": "Antwerp",
+    "name_he": "אנטווערפן",
+    "lat": 51.2194,
+    "lng": 4.4025,
+    "modern_country": "Belgium"
+  },
+  {
+    "id": "gzhatsk",
+    "name_en": "Gzhatsk (Gagarin)",
+    "name_he": "גזשאטסק",
+    "lat": 55.55,
+    "lng": 35.017,
+    "modern_country": "Russia"
+  },
+  {
+    "id": "new-haven",
+    "name_en": "New Haven",
+    "name_he": "ניו הייווען",
+    "lat": 41.3083,
+    "lng": -72.9279,
+    "modern_country": "United States"
+  },
+  {
+    "id": "zembin",
+    "name_en": "Zembin",
+    "name_he": "זעמבין",
+    "lat": 54.367,
+    "lng": 28.217,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "kurenets",
+    "name_en": "Kurenets (Kurenyets)",
+    "name_he": "קורעניץ",
+    "lat": 54.55,
+    "lng": 26.95,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "ula",
+    "name_en": "Ula",
+    "name_he": "אולא",
+    "lat": 55.2234,
+    "lng": 29.2417,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "disna",
+    "name_en": "Disna (Dzisna)",
+    "name_he": "דיסנא",
+    "lat": 55.567,
+    "lng": 28.217,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "rogatchov",
+    "name_en": "Rogatchov (Rahachow)",
+    "name_he": "ראגאטשאוו",
+    "lat": 53.1,
+    "lng": 30.05,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "minsk",
+    "name_en": "Minsk",
+    "name_he": "מינסק",
+    "lat": 53.9006,
+    "lng": 27.559,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "smilovitz",
+    "name_en": "Smilovitz (Smilavichy)",
+    "name_he": "סמילאוויטש",
+    "lat": 53.7483,
+    "lng": 28.0092,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "krichev",
+    "name_en": "Krichev (Krychaw)",
+    "name_he": "קריטשאוו",
+    "lat": 53.7194,
+    "lng": 31.7139,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "smilyan",
+    "name_en": "Smilyan (Smila)",
+    "name_he": "סמילאן",
+    "lat": 49.2336,
+    "lng": 31.8822,
+    "modern_country": "Ukraine"
+  },
+  {
+    "id": "corsica",
+    "name_en": "Corsica",
+    "name_he": "קורסיקא",
+    "lat": 42.0396,
+    "lng": 9.0129,
+    "modern_country": "France"
+  },
+  {
+    "id": "yakshitz",
+    "name_en": "Yakshitz (Yakshitsy)",
+    "name_he": "יאקשיץ",
+    "lat": 53.6211,
+    "lng": 28.91,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "zuravitz",
+    "name_en": "Zuravitz (Zhuravichi)",
+    "name_he": "זוראוויטש",
+    "lat": 53.2453,
+    "lng": 30.5444,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "krasnaluki",
+    "name_en": "Krasnaluki (Krasnoluki)",
+    "name_he": "קראסנאלוקי",
+    "lat": 54.6169,
+    "lng": 28.8353,
+    "modern_country": "Belarus"
+  },
+  {
+    "id": "stockholm",
+    "name_en": "Stockholm",
+    "name_he": "סטאקהאלם",
+    "lat": 59.3293,
+    "lng": 18.0686,
+    "modern_country": "Sweden"
+  },
+  {
+    "id": "bukhara",
+    "name_en": "Bukhara",
+    "name_he": "בוכארא",
+    "lat": 39.7681,
+    "lng": 64.4556,
+    "modern_country": "Uzbekistan"
+  },
+  {
+    "id": "repka",
+    "name_en": "Repka (Ripky)",
+    "name_he": "רעפקא",
+    "lat": 51.8036,
+    "lng": 31.0929,
+    "modern_country": "Ukraine"
+  },
+  {
+    "id": "lodz",
+    "name_en": "Lodz",
+    "name_he": "לאדזש",
+    "lat": 51.7592,
+    "lng": 19.456,
+    "modern_country": "Poland"
+  },
+  {
+    "id": "velizh",
+    "name_en": "Velizh",
+    "name_he": "וועליזש",
+    "lat": 55.6,
+    "lng": 31.1833,
+    "modern_country": "Russia"
+  },
+  {
+    "id": "newark",
+    "name_en": "Newark",
+    "name_he": "ניוארק",
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "modern_country": "United States"
+  },
+  {
+    "id": "pittsburgh",
+    "name_en": "Pittsburgh",
+    "name_he": "פיטסבורג",
+    "lat": 40.4406,
+    "lng": -79.9959,
+    "modern_country": "United States"
+  },
+  {
+    "id": "prohovitch",
+    "name_en": "Prohovitch (Pohrebyshche)",
+    "name_he": "פראהאוויטש",
+    "lat": 49.4833,
+    "lng": 29.2667,
+    "modern_country": "Ukraine",
+    "significance": "Town near Kiev where Rabbi Shalom Shachna (father of Rabbi Yisrael of Ruzhin) served as chassidic rebbe."
+  },
+  {
+    "id": "podobranka",
+    "name_en": "Podobranka (Poddobryanka)",
+    "name_he": "פאדאבראנקא",
+    "lat": 52.0833,
+    "lng": 31.1833,
+    "modern_country": "Belarus"
   }
 ]
