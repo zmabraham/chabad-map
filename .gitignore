@@ -17,3 +17,8 @@ dist/
 # Enrichment intermediate state (regenerable)
 scripts/enrich_state.json
 scripts/enrich_data.json
+
+# Merge tool outputs (regenerable)
+scripts/merge_report.md
+scripts/merge_patch.json
+scripts/test_merge_input.json
