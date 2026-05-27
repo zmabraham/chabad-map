@@ -6,9 +6,12 @@ import type { Generation, Person } from '../types';
 const START_YEAR = 1690;
 const END_YEAR = 2030;
 const TOTAL_YEARS = END_YEAR - START_YEAR;
-const PX_PER_YEAR = 5;
 const ROW_HEIGHT = 22;
-const TIMELINE_WIDTH = TOTAL_YEARS * PX_PER_YEAR;
+const LABEL_COL_PX = 144;
+
+function yearToPct(y: number): number {
+  return ((y - START_YEAR) / TOTAL_YEARS) * 100;
+}
 
 interface TimelineViewProps {
   onSelectPerson: (person: Person) => void;
@@ -43,7 +46,7 @@ export function TimelineView({ onSelectPerson }: TimelineViewProps) {
 
   return (
     <div className="flex h-full w-full">
-      <div className="flex-1 overflow-auto bg-white">
+      <div className="flex-1 overflow-y-auto overflow-x-hidden bg-white">
         <div className="sticky top-0 z-20 flex items-center gap-1 border-b border-slate-200 bg-white/95 px-3 py-2 text-xs backdrop-blur">
           <span className="mr-2 text-slate-500">Filter:</span>
           {ALL_GENERATIONS.map((g) => {
@@ -68,17 +71,19 @@ export function TimelineView({ onSelectPerson }: TimelineViewProps) {
           </span>
         </div>
 
-        <div style={{ width: TIMELINE_WIDTH + 200, paddingLeft: 200 }} className="relative">
+        <div className="relative w-full" style={{ paddingLeft: LABEL_COL_PX }}>
           {/* Year axis (sticky under filter row) */}
-          <div className="sticky top-[42px] z-10 h-7 border-b border-slate-200 bg-white" style={{ width: TIMELINE_WIDTH }}>
+          <div className="sticky top-[42px] z-10 h-7 border-b border-slate-200 bg-white">
             {decades.map((y) => {
-              const left = (y - START_YEAR) * PX_PER_YEAR;
               const major = y % 50 === 0;
               return (
                 <div
                   key={y}
                   className="absolute top-0 h-full"
-                  style={{ left, borderLeft: major ? '1px solid #cbd5e1' : '1px dashed #e2e8f0' }}
+                  style={{
+                    left: `${yearToPct(y)}%`,
+                    borderLeft: major ? '1px solid #cbd5e1' : '1px dashed #e2e8f0',
+                  }}
                 >
                   {major && (
                     <span className="absolute left-1 top-1 text-[10px] font-medium text-slate-500">{y}</span>
@@ -89,22 +94,24 @@ export function TimelineView({ onSelectPerson }: TimelineViewProps) {
           </div>
 
           {/* Decade gridlines through the whole list */}
-          <div className="pointer-events-none absolute top-[42px] bottom-0" style={{ left: 200, width: TIMELINE_WIDTH }}>
+          <div className="pointer-events-none absolute top-[42px] bottom-0" style={{ left: LABEL_COL_PX, right: 0 }}>
             {decades.map((y) => {
-              const left = (y - START_YEAR) * PX_PER_YEAR;
               const major = y % 50 === 0;
               return (
                 <div
                   key={y}
                   className="absolute top-0 bottom-0"
-                  style={{ left, borderLeft: major ? '1px solid #e2e8f0' : '1px dashed #f1f5f9' }}
+                  style={{
+                    left: `${yearToPct(y)}%`,
+                    borderLeft: major ? '1px solid #e2e8f0' : '1px dashed #f1f5f9',
+                  }}
                 />
               );
             })}
           </div>
 
           {/* Rows */}
-          <div className="relative" style={{ width: TIMELINE_WIDTH }}>
+          <div className="relative" style={{ height: visible.length * ROW_HEIGHT }}>
             {visible.map((p, i) => (
               <TimelineRow key={p.id} person={p} y={i} onSelect={onSelectPerson} />
             ))}
@@ -130,20 +137,21 @@ function TimelineRow({
   const birth = person.birth_year;
   const death = person.death_year;
 
-  let left: number;
-  let width: number;
+  let leftPct: number;
+  let widthPct: number;
   let isTick = false;
+  const TICK_PCT = 100 / TOTAL_YEARS / 2;
 
   if (birth !== null && death !== null) {
-    left = (birth - START_YEAR) * PX_PER_YEAR;
-    width = (death - birth) * PX_PER_YEAR;
+    leftPct = yearToPct(birth);
+    widthPct = Math.max(((death - birth) / TOTAL_YEARS) * 100, TICK_PCT);
   } else if (birth !== null) {
-    left = (birth - START_YEAR) * PX_PER_YEAR;
-    width = 6;
+    leftPct = yearToPct(birth);
+    widthPct = TICK_PCT;
     isTick = true;
   } else if (death !== null) {
-    left = (death - START_YEAR) * PX_PER_YEAR - 3;
-    width = 6;
+    leftPct = yearToPct(death) - TICK_PCT / 2;
+    widthPct = TICK_PCT;
     isTick = true;
   } else {
     return null;
@@ -157,7 +165,8 @@ function TimelineRow({
       <button
         type="button"
         onClick={() => onSelect(person)}
-        className="absolute -left-[200px] flex h-full w-[196px] items-center justify-end gap-1 truncate pr-2 text-right text-[11px] text-slate-600 hover:text-slate-900"
+        className="absolute flex h-full items-center justify-end gap-1 truncate pr-2 text-right text-[11px] text-slate-600 hover:text-slate-900"
+        style={{ left: -LABEL_COL_PX, width: LABEL_COL_PX - 4 }}
         title={person.common_name}
       >
         <span className="truncate">{person.common_name}</span>
@@ -170,8 +179,9 @@ function TimelineRow({
           isTick ? 'h-3' : 'h-3.5'
         }`}
         style={{
-          left,
-          width: Math.max(width, isTick ? 6 : 4),
+          left: `${leftPct}%`,
+          width: `${widthPct}%`,
+          minWidth: 2,
           backgroundColor: color,
         }}
       />
