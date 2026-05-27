@@ -24,6 +24,12 @@ scripts/event_index.json
 scripts/journey_patch.json
 scripts/journey_extraction_report.md
 
+# Scratch files prefixed with underscore (agents leave these behind)
+scripts/_*.json
+scripts/_*.py
+scripts/photo_patch.json
+scripts/photo_match_report.md
+
 # Merge tool outputs (regenerable)
 scripts/merge_report.md
 scripts/merge_patch.json
