@@ -1,0 +1,358 @@
+# Enrichment Pass 2 Report
+
+## Summary
+
+- Total persons in dataset: 323
+- Records skipped (already enriched in prior pass): 46
+- Records checked this pass: 277
+- Records enriched (at least one field filled): 77
+- Records with no Chabadpedia article found / no new data: 200
+
+## Fields filled (this pass)
+
+- chabadpedia_url: 75
+- death_year: 62
+- photo_url: 55
+- birth_place_id: 46
+- death_place_id: 57
+- birth_year: 59
+
+## Per-person results
+
+- `baal-shem-tov`: filled chabadpedia_url, death_year, photo_url, birth_place_id, death_place_id
+- `rabbi-eliezer-baal-shem-tov-father`: not_found
+- `rabbi-tzvi-baal-shem-tov-son`: not_found
+- `maggid-of-mezeritch`: filled chabadpedia_url, death_year, death_place_id
+- `rabbi-shimon-zundel-trisk`: not_found
+- `rabbi-baruch-alter-rebbe-father`: filled photo_url
+- `rabbi-chaim-eliyahu-vitebsk`: not_found
+- `rabbi-reuven-baal-shem`: not_found
+- `alter-rebbe`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `rabbi-moshe-vilenker`: not_found
+- `rabbi-zev-vilenker`: not_found
+- `reb-binyamin-kletzker`: not_found
+- `rabbi-zalman-zezmer`: not_found
+- `rabbi-menachem-zecharia`: not_found
+- `rabbi-zerach-meir-dribin`: not_found
+- `reb-pinchas-reizes`: not_found
+- `reb-mordechai-lepler`: not_found
+- `rabbi-yekutiel-lepler`: not_found
+- `rabbi-shlomo-raphael`: not_found
+- `mitteler-rebbe`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `rabbi-yitzchak-isaac-homel`: filled birth_year, death_year, photo_url, death_place_id
+- `rabbi-yitzchak-isaac-vitebsk-elder`: not_found
+- `tzemach-tzedek`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `rabbi-yehuda-leib-kapust`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `rabbi-avraham-dovber-bobruisk`: not_found
+- `maharash`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `rashab`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `rebbetzin-shterna-sarah`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `reb-shilem-kuratin`: not_found
+- `rayatz`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `rebbetzin-chana`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `rabbi-yisrael-aryeh-leib`: filled chabadpedia_url, death_year, photo_url, birth_place_id, death_place_id
+- `rabbi-yerucham-gorelik`: not_found
+- `rabbi-moshe-yehuda-reichman`: not_found
+- `the-rebbe`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `rebbetzin-chaya-mushka`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `rebbetzin-rivka`: filled chabadpedia_url, birth_place_id
+- `maharil-of-yanovitch`: not_found
+- `rabbi-mordechai-brother-of-alter-rebbe`: not_found
+- `rebbetzin-devorah-leah`: filled chabadpedia_url, birth_year, birth_place_id, death_place_id
+- `rebbetzin-freida`: filled chabadpedia_url, birth_year, death_year, birth_place_id, death_place_id
+- `rabbi-chaim-avraham`: filled chabadpedia_url, birth_year, death_year, birth_place_id, death_place_id
+- `rabbi-moshe-son-of-alter-rebbe`: filled chabadpedia_url, birth_year, birth_place_id
+- `rebbetzin-sheina`: not_found
+- `rabbi-shalom-shachna`: filled chabadpedia_url, birth_year, death_year
+- `rebbetzin-chaya-mushka-wife-of-tzemach-tzedek`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `rebbe-of-liadi`: filled chabadpedia_url, birth_year, birth_place_id, death_place_id
+- `rebbe-of-nezhin`: not_found
+- `rebbe-of-ovruch`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `rabbi-yaakov-son-of-tzemach-tzedek`: filled chabadpedia_url, death_place_id
+- `rebbetzin-rivka-wife-of-maharash`: filled chabadpedia_url, photo_url
+- `raza`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `rabbi-menachem-mendel-son-of-maharash`: filled chabadpedia_url
+- `rebbetzin-nechama-dina`: filled chabadpedia_url, death_year, photo_url, birth_place_id, death_place_id
+- `sheina-horenshtein`: not_found
+- `chana-gurary`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id
+- `rashag`: filled chabadpedia_url, death_year, photo_url, birth_place_id, death_place_id
+- `menachem-mendel-horenshtein`: not_found
+- `menachem-mendel-of-vitebsk`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `avraham-of-kalisk`: not_found
+- `levi-yitzchak-of-berditchev`: filled chabadpedia_url, birth_year, death_year, photo_url, death_place_id
+- `yisrael-of-ruzhin`: filled chabadpedia_url, photo_url, birth_place_id, death_place_id
+- `shlomo-of-karlin`: filled chabadpedia_url, birth_year, death_year, death_place_id
+- `shmuel-munkes`: filled chabadpedia_url, birth_place_id
+- `baruch-mordechai-of-bobruisk`: filled chabadpedia_url, birth_year, death_year
+- `radatz`: filled chabadpedia_url, birth_year, death_year, photo_url, death_place_id
+- `peretz-chen`: not_found
+- `meir-simcha-chen`: not_found
+- `menachem-mendel-chen`: not_found
+- `rashbatz`: not_found
+- `chanoch-hendel`: not_found
+- `aba-from-chashnik`: not_found
+- `meir-simcha-chen-2`: not_found
+- `aba-of-chashnik`: not_found
+- `rashdam`: not_found
+- `yaakov-mordechai-bezpalov`: not_found
+- `yosef-tumarkin`: not_found
+- `aharon-tumarkin`: not_found
+- `yitzchak-dubov`: not_found
+- `shmuel-levitin`: not_found
+- `eliyahu-simpson`: filled chabadpedia_url, birth_year, photo_url, birth_place_id
+- `yisrael-jacobson`: filled chabadpedia_url, death_year, photo_url, birth_place_id, death_place_id
+- `mordechai-dubin`: filled chabadpedia_url, birth_year, photo_url, death_place_id
+- `levi-yitzchak-slonim`: not_found
+- `yaakov-kuli-slonim`: not_found
+- `mordechai-dovber-slonim`: filled chabadpedia_url, birth_year, death_year, birth_place_id, death_place_id
+- `shimon-menashe-chaikin`: filled chabadpedia_url, birth_year, death_year, birth_place_id, death_place_id
+- `chaim-eliezer-bichovsky`: not_found
+- `shlomo-zalman-havlin`: not_found
+- `chanoch-hendel-havlin`: not_found
+- `chaim-futerfas`: not_found
+- `itche-der-masmid`: filled chabadpedia_url, birth_year, death_year, photo_url, death_place_id
+- `moshe-leib-rodstein`: not_found
+- `nissan-telushkin`: not_found
+- `avraham-eliyahu-axelrod`: not_found
+- `moshe-axelrod`: not_found
+- `shraga-feivish-zalmanov`: not_found
+- `chaim-hodakov`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `chaim-liberman`: filled chabadpedia_url, birth_year, death_year, death_place_id
+- `menachem-mendel-feldman`: not_found
+- `shlomo-palmer`: not_found
+- `yosef-weinberg`: filled chabadpedia_url, birth_year, death_year, photo_url
+- `yaakov-yosef-of-polonne`: filled chabadpedia_url, death_year, photo_url
+- `pinchas-of-koretz`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `yechiel-michel-of-zlotchov`: filled chabadpedia_url, birth_year, death_year, death_place_id
+- `reb-zusha-of-anipoli`: filled chabadpedia_url, death_year, photo_url, death_place_id
+- `elimelech-of-lizhensk`: filled chabadpedia_url, birth_year, death_year, photo_url, death_place_id
+- `shmelke-of-nikolsburg`: filled chabadpedia_url, birth_year, death_year, photo_url, death_place_id
+- `baal-haflaa`: not_found
+- `ze-ev-wolf-of-zhitomir`: not_found
+- `aharon-the-great`: filled chabadpedia_url, birth_year, death_year
+- `nachum-of-chernobyl`: filled chabadpedia_url, death_place_id
+- `mordechai-of-chernobyl`: filled chabadpedia_url, birth_year, death_year, photo_url
+- `baruch-of-medzhybizh`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id
+- `chaim-of-krasna`: not_found
+- `leib-sarah-s`: filled chabadpedia_url, birth_year, death_year, photo_url
+- `yissachar-dov-of-lubavitch`: not_found
+- `shlomo-of-usha`: not_found
+- `avraham-the-malach`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `shalom-shachna-of-prohovitch`: not_found
+- `aharon-of-strashelye`: filled chabadpedia_url, birth_year, death_year, birth_place_id, death_place_id
+- `yitzchak-goldin`: not_found
+- `avraham-baruch-pevzner`: not_found
+- `yona-eidelkop`: not_found
+- `moshe-rosenblum`: not_found
+- `yehuda-chitrik`: filled chabadpedia_url, photo_url, birth_place_id, death_place_id
+- `tzvi-chitrik`: not_found
+- `yaakov-yisrael-zuber`: not_found
+- `zalman-shimon-dvorkin`: not_found
+- `saadia-liberov`: not_found
+- `yaakov-eizik-blattner`: not_found
+- `leib-eidelman`: not_found
+- `leib-cohen`: not_found
+- `tovia-belkin`: not_found
+- `efraim-wolff`: not_found
+- `moshe-yitzchak-hecht`: not_found
+- `j-j-hecht`: filled chabadpedia_url, birth_year, death_year, photo_url
+- `avraham-dov-hecht`: filled chabadpedia_url, birth_year, death_year, photo_url, death_place_id
+- `yochanan-gordon`: filled chabadpedia_url, birth_year, death_year, photo_url
+- `sholom-dovber-gordon`: filled chabadpedia_url, birth_year, death_year
+- `mordechai-mentlik`: filled chabadpedia_url, birth_year, death_year, photo_url, death_place_id
+- `dovid-raskin`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `sholom-mendel-kalmanson`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id
+- `binyamin-gorodetzky`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `yisrael-of-polotsk`: not_found
+- `yeshaya-of-yanovitch`: not_found
+- `avraham-of-zembin`: not_found
+- `ziskind-of-kurenets`: not_found
+- `efraim-of-vitebsk`: not_found
+- `efraim-zalman`: not_found
+- `yaakov-koppel-seligson`: not_found
+- `eliyahu-abeler`: not_found
+- `aharon-zelig-of-ula`: not_found
+- `avraham-meir-the-wagon-driver`: not_found
+- `betzalel-wilshansky`: not_found
+- `chaim-moshe-of-shklov`: not_found
+- `dovber-moshe-of-disna`: not_found
+- `eliyahu-shmuel-of-rogatchov`: not_found
+- `mordechai-of-lieply`: not_found
+- `yosef-moshe-of-minsk`: not_found
+- `shlomo-chaim-of-horodok`: not_found
+- `moshe-eliyahu-of-smilovitz`: not_found
+- `alexander-ziskind-of-vitebsk`: not_found
+- `yitzchak-isaac-jaffe`: not_found
+- `yisrael-kozik`: not_found
+- `yosef-of-beshenkovitz`: not_found
+- `yekutiel-zalman-of-vilna`: not_found
+- `yaakov-of-smilyan`: not_found
+- `reuven-sofer`: not_found
+- `meir-refaels`: not_found
+- `yeshaya-hakohen-shapiro`: not_found
+- `avraham-david-shapiro`: not_found
+- `yitzchak-rubinstein`: not_found
+- `mordechai-elinson`: not_found
+- `yisrael-neta-gnesin`: not_found
+- `yehoshua-eliyahu-volosov`: not_found
+- `yaakov-utevsky`: not_found
+- `hillel-levin`: not_found
+- `zeev-wolf-steingart`: not_found
+- `shmuel-steingart`: not_found
+- `uziel-chazanov`: not_found
+- `betzalel-rubashkin`: not_found
+- `yehuda-botrashvili`: not_found
+- `natan-gurary`: not_found
+- `chaim-yosef-rosenblum`: not_found
+- `shimon-berliner`: not_found
+- `mendel-beilis`: not_found
+- `yaakov-zuravitzer`: not_found
+- `sholom-dovber-notik`: not_found
+- `shmuel-krugliak`: not_found
+- `tzvi-hirsch-of-klimovitch`: not_found
+- `simcha-of-beshenkovitz`: not_found
+- `akiva-menuhin`: not_found
+- `aharon-khazanov`: not_found
+- `peretz-motzkin`: not_found
+- `aryeh-leib-sheinin`: not_found
+- `yaakov-yehuda-rizek`: not_found
+- `shamai-vigan`: not_found
+- `zalman-david-michlin`: not_found
+- `hillel-jochvedin`: not_found
+- `chaim-jochvedin`: not_found
+- `yehoshua-korf`: not_found
+- `dovid-shifrin`: not_found
+- `avraham-shmuel-heilman`: not_found
+- `alexander-sender-nemtzov`: not_found
+- `shmuel-isaac-dubin`: not_found
+- `eliyahu-chaim-althaus`: filled chabadpedia_url, birth_year, photo_url, birth_place_id, death_place_id
+- `menachem-ze-ev-greenglass`: filled chabadpedia_url, birth_year, death_year, photo_url, death_place_id
+- `yitzchak-dovid-groner`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `shalom-posner`: not_found
+- `yehoshua-mondshine`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `avraham-chanoch-glitzenstein`: filled chabadpedia_url, birth_year, death_year, photo_url, birth_place_id, death_place_id
+- `avraham-david-pozner`: not_found
+- `chaim-yona-lutski`: not_found
+- `tzvi-hirsch-azimov`: not_found
+- `yisrael-noach-belinitzki`: not_found
+- `isser-klobgant`: not_found
+- `chaikel-chanin`: not_found
+- `yisrael-leibov`: not_found
+- `chaim-minkowitz`: not_found
+- `shmuel-betzalel-althaus`: not_found
+- `shlomo-zalman-hecht`: not_found
+- `shlomo-of-krichev`: not_found
+- `menachem-mendel-of-repka`: not_found
+- `yisrael-novik`: not_found
+- `shneur-zalman-of-lodz`: not_found
+- `menachem-mendel-deitsch`: not_found
+- `shmuel-leib-levin`: not_found
+- `shmuel-katzman`: not_found
+- `shmuel-bezpalov`: not_found
+- `yehuda-leib-raskin`: not_found
+- `yaakov-katz`: not_found
+- `meir-ashkenazi`: not_found
+- `shalom-dovber-levin`: not_found
+- `zalman-schneerson`: not_found
+- `shmuel-gurary`: not_found
+- `nechemia-of-dubrovna`: not_found
+- `aharon-of-dubrovna`: not_found
+- `eliyahu-yosef-of-dribin`: filled chabadpedia_url, birth_year, death_year, birth_place_id, death_place_id
+- `shmaryahu-paitelson`: not_found
+- `yisrael-chaikin`: not_found
+- `zalman-neimark`: not_found
+- `moshe-maisels`: not_found
+- `yehuda-leib-the-batlan`: not_found
+- `shlomo-freides`: not_found
+- `yosef-kolbo`: not_found
+- `gavriel-nosse-chen`: not_found
+- `moshe-chein`: not_found
+- `avraham-chein`: not_found
+- `yitzchak-shaul`: not_found
+- `the-rogatchover-gaon`: not_found
+- `shimon-lazarev`: not_found
+- `zalman-vilenkin`: not_found
+- `ben-tzion-shemtov`: not_found
+- `asher-grossman`: not_found
+- `shmaryahu-yehuda-leib-medalie`: not_found
+- `menachem-mendel-gluskin`: not_found
+- `yitzchak-yoel-rafalovitch`: not_found
+- `chava`: not_found
+- `sara`: not_found
+- `yehuda-leib-segal`: not_found
+- `shalom-dovber-of-rechitsa`: not_found
+- `shmaryahu-noach`: not_found
+- `maharid`: not_found
+- `meir-shlomo-yanovsky`: not_found
+- `avraham-david-lavut`: not_found
+- `avraham-david-yanovsky`: not_found
+- `shalom-shlomo-schneerson`: not_found
+- `baruch-schneur-schneerson`: not_found
+- `yaakov-yisrael-of-cherkasy`: not_found
+- `menucha-rochel-slonim`: filled chabadpedia_url, death_year, photo_url, death_place_id
+- `sara-2`: not_found
+- `devorah-leah`: not_found
+- `chaya-mushka`: not_found
+- `shmaryahu-schneerson`: not_found
+- `dovber-schneerson`: not_found
+- `yitzchak-schneersohn`: not_found
+
+## Skipped (already enriched before this pass)
+
+- `reb-hillel-paritcher`: skipped (already enriched)
+- `rabbi-baruch-shalom`: skipped (already enriched)
+- `rabbi-shlomo-zalman-schneersohn`: skipped (already enriched)
+- `rabbi-shneur-zalman-fradkin`: skipped (already enriched)
+- `reb-shmuel-gronem-esterman`: skipped (already enriched)
+- `reb-itche-masmid`: skipped (already enriched)
+- `reb-michoel-dvorkin`: skipped (already enriched)
+- `rabbi-yaakov-landau`: skipped (already enriched)
+- `rabbi-alter-simchovitch`: skipped (already enriched)
+- `reb-zalman-moshe-hayitzchaki`: skipped (already enriched)
+- `rabbi-levi-yitzchak-schneerson`: skipped (already enriched)
+- `reb-elchonon-dov-morozov`: skipped (already enriched)
+- `reb-chaim-shaul-brook`: skipped (already enriched)
+- `reb-shlomo-chaim-kesselman`: skipped (already enriched)
+- `rabbi-eliezer-karasik`: skipped (already enriched)
+- `reb-mendel-futerfas`: skipped (already enriched)
+- `rabbi-yechezkel-feigin`: skipped (already enriched)
+- `reb-pinye-althaus`: skipped (already enriched)
+- `reb-nachum-goldschmid`: skipped (already enriched)
+- `reb-moshe-gurary`: skipped (already enriched)
+- `rabbi-alexander-sender-yudasin`: skipped (already enriched)
+- `reb-folleh-kahn`: skipped (already enriched)
+- `reb-avraham-pariz`: skipped (already enriched)
+- `reb-yankel-zurovitzer`: skipped (already enriched)
+- `reb-simcha-gorodetsky`: skipped (already enriched)
+- `reb-zalman-leib-estulin`: skipped (already enriched)
+- `rabbi-motel-kozliner`: skipped (already enriched)
+- `rabbi-chaim-moshe-alperovitz`: skipped (already enriched)
+- `rabbi-meir-blizinsky`: skipped (already enriched)
+- `rabbi-azriel-zelig-slonim`: skipped (already enriched)
+- `rabbi-nissan-nemenov`: skipped (already enriched)
+- `reb-yisrael-neveler`: skipped (already enriched)
+- `reb-avraham-mayor-drizin`: skipped (already enriched)
+- `rabbi-shaul-dovber-zislin`: skipped (already enriched)
+- `rabbi-shashonkin`: skipped (already enriched)
+- `rabbi-asher-sasonkin`: skipped (already enriched)
+- `rabbi-moshe-ashkenazi`: skipped (already enriched)
+- `rabbi-yoel-kahn`: skipped (already enriched)
+- `rabbi-shlomo-yosef-zevin`: skipped (already enriched)
+- `rabbi-shmuel-zalmanov`: skipped (already enriched)
+- `rabbi-avraham-chaim-naeh`: skipped (already enriched)
+- `rabbi-shneur-zalman-garlick`: skipped (already enriched)
+- `rabbi-shraga-melech-kaplan`: skipped (already enriched)
+- `rabbi-david-horodoker`: skipped (already enriched)
+- `rabbi-shlomo-aharon-kazarnovsky`: skipped (already enriched)
+- `reb-berke-chein`: skipped (already enriched)
+
+## Unmatched places
+
+These Hebrew place names appeared in Chabadpedia articles but did not match any entry in `places.json`:
+
+- `לוקאטש` (referenced by: maggid-of-mezeritch)
+- `ברודי` (referenced by: yechiel-michel-of-zlotchov)
+- `טשורטקוב` (referenced by: shmelke-of-nikolsburg)
+- `גורינסק` (referenced by: nachum-of-chernobyl)
+- `הוסקוב` (referenced by: levi-yitzchak-of-berditchev)
+- `פינסק` (referenced by: rabbi-tzvi-baal-shem-tov-son)

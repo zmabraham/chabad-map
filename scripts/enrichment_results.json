@@ -1,0 +1,561 @@
+{
+  "baal-shem-tov": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/הבעל_שם_טוב",
+    "birth_year": 1697,
+    "death_year": 1760,
+    "birth_place_he": "טלוסט",
+    "death_place_he": "מז'יבוז'",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/5/5b/%D7%91%D7%A2%D7%9C_%D7%A9%D7%9D_%D7%98%D7%95%D7%91.jpg/220px-%D7%91%D7%A2%D7%9C_%D7%A9%D7%9D_%D7%98%D7%95%D7%91.jpg"
+  },
+  "alter-rebbe": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אדמו\"ר_הזקן",
+    "birth_year": 1745,
+    "death_year": 1812,
+    "birth_place_he": "ליאזנא",
+    "death_place_he": "פיענא",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/a/a8/%D7%A8%D7%91%D7%99_%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8_%D7%96%D7%9C%D7%9E%D7%9F.jpg/220px-%D7%A8%D7%91%D7%99_%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8_%D7%96%D7%9C%D7%9E%D7%9F.jpg"
+  },
+  "mitteler-rebbe": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אדמו\"ר_האמצעי",
+    "birth_year": 1773,
+    "death_year": 1827,
+    "birth_place_he": "ליאזנא",
+    "death_place_he": "ניעז'ין",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/f/f6/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%90%D7%9E%D7%A6%D7%A2%D7%99.jpg/220px-%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%90%D7%9E%D7%A6%D7%A2%D7%99.jpg"
+  },
+  "tzemach-tzedek": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/צמח_צדק",
+    "birth_year": 1789,
+    "death_year": 1866,
+    "birth_place_he": "ליאזנא",
+    "death_place_he": "ליובאוויטש",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/6/6c/%D7%90%D7%93%D7%9E%D7%95%D7%A8_%D7%94%D7%A6%D7%9E%D7%97_%D7%A6%D7%93%D7%A7_-_%D7%AA%D7%9E%D7%95%D7%A0%D7%94_%D7%A7%D7%98%D7%A0%D7%94.jpg/220px-%D7%90%D7%93%D7%9E%D7%95%D7%A8_%D7%94%D7%A6%D7%9E%D7%97_%D7%A6%D7%93%D7%A7_-_%D7%AA%D7%9E%D7%95%D7%A0%D7%94_%D7%A7%D7%98%D7%A0%D7%94.jpg"
+  },
+  "maharash": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/מהר\"ש",
+    "birth_year": 1834,
+    "death_year": 1882,
+    "birth_place_he": "ליובאוויטש",
+    "death_place_he": "ליובאוויטש",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/c/ce/%D7%AA%D7%95%D7%A8%D7%AA_%D7%A9%D7%9E%D7%95%D7%90%D7%9C.jpg/220px-%D7%AA%D7%95%D7%A8%D7%AA_%D7%A9%D7%9E%D7%95%D7%90%D7%9C.jpg"
+  },
+  "rashab": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/רש\"ב",
+    "birth_year": 1860,
+    "death_year": 1920,
+    "birth_place_he": "ליובאוויטש",
+    "death_place_he": "רוסטוב",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/0/03/%D7%90%D7%93%D7%9E%D7%95%D7%A8_%D7%94%D7%A8%D7%A9%D7%91_-_%D7%AA%D7%9E%D7%95%D7%A0%D7%94_%D7%A7%D7%98%D7%A0%D7%94.jpg/220px-%D7%90%D7%93%D7%9E%D7%95%D7%A8_%D7%94%D7%A8%D7%A9%D7%91_-_%D7%AA%D7%9E%D7%95%D7%A0%D7%94_%D7%A7%D7%98%D7%A0%D7%94.jpg"
+  },
+  "the-rebbe": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/הרבי",
+    "birth_year": 1902,
+    "death_year": 1994,
+    "birth_place_he": "ניקולייב",
+    "death_place_he": "ניו יורק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/d/de/%D7%9C%D7%A2%D7%A8%D7%9A_%D7%94%D7%A8%D7%91%D7%99_%D7%A9%D7%9C%D7%99%D7%98%22%D7%90.png/220px-%D7%9C%D7%A2%D7%A8%D7%9A_%D7%94%D7%A8%D7%91%D7%99_%D7%A9%D7%9C%D7%99%D7%98%22%D7%90.png"
+  },
+  "rayatz": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אדמו\"ר_הריי\"צ",
+    "birth_year": 1880,
+    "death_year": 1950,
+    "birth_place_he": "ליובאוויטש",
+    "death_place_he": "ניו יורק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/3/3e/%D7%90%D7%93%D7%9E%D7%95%D7%A8_%D7%94%D7%A8%D7%99%D7%99%D7%A5.jpg/220px-%D7%90%D7%93%D7%9E%D7%95%D7%A8_%D7%94%D7%A8%D7%99%D7%99%D7%A5.jpg"
+  },
+  "maggid-of-mezeritch": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/המגיד_ממעזריטש",
+    "death_year": 1772,
+    "birth_place_he": "לוקאטש",
+    "death_place_he": "אניפולי"
+  },
+  "rebbetzin-chaya-mushka": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/הרבנית_חיה_מושקא",
+    "birth_year": 1901,
+    "death_year": 1988,
+    "birth_place_he": "באבינוביטש",
+    "death_place_he": "ניו יורק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/7/75/%D7%97%D7%99%D7%94_%D7%9E%D7%95%D7%A9%D7%A7%D7%90.jpg/250px-%D7%97%D7%99%D7%94_%D7%9E%D7%95%D7%A9%D7%A7%D7%90.jpg"
+  },
+  "rebbetzin-chana": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/הרבנית_חנה",
+    "birth_year": 1880,
+    "death_year": 1964,
+    "birth_place_he": "רומנובקה",
+    "death_place_he": "ניו יורק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/f/f1/%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%97%D7%A0%D7%94.jpg/220px-%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%97%D7%A0%D7%94.jpg"
+  },
+  "rebbetzin-shterna-sarah": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/הרבנית_שטערנא_שרה",
+    "birth_year": 1859,
+    "death_year": 1942,
+    "birth_place_he": "ליובאוויטש",
+    "death_place_he": "ניו יורק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/c/c9/%D7%A9%D7%98%D7%A8%D7%A0%D7%90_%D7%A8%D7%A8%D7%94.jpg/250px-%D7%A8%D7%A8%D7%94.jpg"
+  },
+  "rebbetzin-rivka-wife-of-maharash": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/הרבנית_רבקה",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/1/17/%D7%90%D7%94%D7%9C_%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%A8%D7%91%D7%A7%D7%94.jpg/250px-%D7%90%D7%94%D7%9C_%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%A8%D7%91%D7%A7%D7%94.jpg"
+  },
+  "rebbetzin-rivka": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/רבקה_(אם_אדמו\"ר_הזקן)",
+    "birth_place_he": "ויטבסק"
+  },
+  "rebbetzin-nechama-dina": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/הרבנית_נחמה_דינה",
+    "birth_year": 1882,
+    "death_year": 1971,
+    "birth_place_he": "קישינב",
+    "death_place_he": "ניו יורק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/4/42/%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%A0%D7%97%D7%9E%D7%94_%D7%93%D7%99%D7%A0%D7%94.jpg/250px-%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%A0%D7%97%D7%9E%D7%94_%D7%93%D7%99%D7%A0%D7%94.jpg"
+  },
+  "rabbi-yisrael-aryeh-leib": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/ישראל_אריה_לייב_שניאורסון",
+    "birth_year": 1906,
+    "death_year": 1952,
+    "birth_place_he": "ניקולייב",
+    "death_place_he": "ליברפול",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/0/08/%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%90%D7%A8%D7%99%D7%94_%D7%9C%D7%99%D7%99%D7%91.jpg/220px-%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%90%D7%A8%D7%99%D7%94_%D7%9C%D7%99%D7%99%D7%91.jpg"
+  },
+  "yaakov-yosef-of-polonne": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יעקב_יוסף_מפולנאה",
+    "death_year": 1784,
+    "photo_url": "https://chabadpedia.co.il/images/thumb/1/1e/%D7%A6%D7%99%D7%95%D7%9F_%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%99%D7%A2%D7%A7%D7%91_%D7%99%D7%95%D7%A1%D7%A3.jpg/220px-%D7%A6%D7%99%D7%95%D7%9F_%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%99%D7%A2%D7%A7%D7%91_%D7%99%D7%95%D7%A1%D7%A3.jpg"
+  },
+  "pinchas-of-koretz": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/פנחס_מקוריץ",
+    "birth_year": 1726,
+    "death_year": 1790,
+    "birth_place_he": "שקלוב",
+    "death_place_he": "שפטיבקה",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/e/e6/%D7%9E%D7%A7%D7%95%D7%A8%D7%99%D7%A5.jpg/220px-%D7%9E%D7%A7%D7%95%D7%A8%D7%99%D7%A5.jpg"
+  },
+  "yechiel-michel-of-zlotchov": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יחיאל_מיכל_מזלוטשוב",
+    "birth_year": 1726,
+    "death_year": 1781,
+    "birth_place_he": "ברודי",
+    "death_place_he": "יאמפולי"
+  },
+  "reb-zusha-of-anipoli": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/זושא_מאניפולי",
+    "death_year": 1800,
+    "death_place_he": "מעזריטש",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/5/5d/%D7%A9%D7%A2%D7%A8_%D7%94%D7%A1%D7%A4%D7%A8_%D7%9E%D7%A0%D7%95%D7%A8%D7%AA_%D7%96%D7%94%D7%91.jpg/250px-%D7%A9%D7%A2%D7%A8_%D7%94%D7%A1%D7%A4%D7%A8_%D7%9E%D7%A0%D7%95%D7%A8%D7%AA_%D7%96%D7%94%D7%91.jpg"
+  },
+  "elimelech-of-lizhensk": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אלימלך_מליז'ענסק",
+    "birth_year": 1717,
+    "death_year": 1787,
+    "death_place_he": "ליז'נסק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/c/c8/%D7%9E%D7%9C%D7%99%D7%96%D7%A0%D7%A1%D7%A7.jpg/250px-%D7%9E%D7%9C%D7%99%D7%96%D7%A0%D7%A1%D7%A7.jpg"
+  },
+  "shmelke-of-nikolsburg": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/שמעלקא_מניקלשבורג",
+    "birth_year": 1726,
+    "death_year": 1778,
+    "birth_place_he": "טשורטקוב",
+    "death_place_he": "ניקלשבורג",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/b/ba/%D7%A0%D7%99%D7%A7%D7%A9%D7%9C%D7%91%D7%95%D7%A8%D7%92.jpg/250px-%D7%A0%D7%99%D7%A7%D7%A9%D7%9C%D7%91%D7%95%D7%A8%D7%92.jpg"
+  },
+  "aharon-the-great": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אהרן_הגדול_מקרלין",
+    "birth_year": 1736,
+    "death_year": 1772
+  },
+  "nachum-of-chernobyl": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/מנחם_נחום_מטשערנאביל",
+    "birth_year": 1726,
+    "death_year": 1787,
+    "birth_place_he": "גורינסק",
+    "death_place_he": "צ'רנוביל"
+  },
+  "mordechai-of-chernobyl": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/מרדכי_מטשערנאביל",
+    "birth_year": 1770,
+    "death_year": 1837,
+    "photo_url": "https://chabadpedia.co.il/images/thumb/8/81/%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%9E%D7%A6%D7%A8%D7%A0%D7%95%D7%91%D7%99%D7%9C.jpg/250px-%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%9E%D7%A6%D7%A8%D7%A0%D7%95%D7%91%D7%99%D7%9C.jpg"
+  },
+  "baruch-of-medzhybizh": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/ברוך_ממז'יבוז'",
+    "birth_year": 1757,
+    "death_year": 1811,
+    "birth_place_he": "מז'יבוז'",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/5/52/%D7%9E%D7%96%D7%99%D7%91%D7%95%D7%96.jpg/250px-%D7%9E%D7%96%D7%99%D7%91%D7%95%D7%96.jpg"
+  },
+  "leib-sarah-s": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/לייב_שרה'ס",
+    "birth_year": 1730,
+    "death_year": 1791,
+    "photo_url": "https://chabadpedia.co.il/images/e/eb/%D7%9C%D7%99%D7%99%D7%91_%D7%A9%D7%A8%D7%94%27%D7%A1.jpg"
+  },
+  "avraham-the-malach": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אברהם_המלאך",
+    "birth_year": 1741,
+    "death_year": 1776,
+    "birth_place_he": "פסטוב",
+    "death_place_he": "פסטוב",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/4/45/ציון_אברהם_המלאך.jpg/220px-ציון_אברהם_המלאך.jpg"
+  },
+  "yisrael-of-ruzhin": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/ישראל_מרוז'ין",
+    "birth_year": 1797,
+    "death_year": 1851,
+    "birth_place_he": "פראהביטש",
+    "death_place_he": "סדיגורה",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/0/09/%D7%A8%D7%99%D7%A4_%D7%A8%D7%95%D7%96%D7%99%D7%9F.jpg/220px-%D7%A8%D7%99%D7%A4_%D7%A8%D7%95%D7%96%D7%99%D7%9F.jpg"
+  },
+  "shlomo-of-karlin": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/שלמה_מקארלין",
+    "birth_year": 1738,
+    "death_year": 1792,
+    "death_place_he": "לודמיר"
+  },
+  "levi-yitzchak-of-berditchev": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/לוי_יצחק_מברדיטשוב",
+    "birth_year": 1740,
+    "death_year": 1809,
+    "birth_place_he": "הוסקוב",
+    "death_place_he": "ברדיטשוב",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/0/01/%D7%91%D7%A8%D7%93%D7%99%D7%98%D7%A9%D7%95%D7%91.jpg/250px-%D7%91%D7%A8%D7%93%D7%99%D7%98%D7%A9%D7%95%D7%91.jpg"
+  },
+  "rebbe-of-ovruch": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יוסף_יצחק_מאוורוטש",
+    "birth_year": 1822,
+    "death_year": 1876,
+    "birth_place_he": "ליובאוויטש",
+    "death_place_he": "אוורוטש",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/b/b9/%D7%A6%D7%99%D7%95%D7%9F_%D7%91%D7%9F_%D7%99%D7%95%D7%A1%D7%A3_%D7%91%D7%9F_%D7%94%D7%A6%D7%9E%D7%97_%D7%A6%D7%93%D7%A7.jpg/250px-%D7%A6%D7%99%D7%95%D7%9F_%D7%91%D7%9F_%D7%99%D7%95%D7%A1%D7%A3_%D7%91%D7%9F_%D7%94%D7%A6%D7%9E%D7%97_%D7%A6%D7%93%D7%A7.jpg"
+  },
+  "rebbe-of-liadi": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/חיים_שניאור_זלמן_מליאדי",
+    "birth_year": 1814,
+    "death_year": 1880,
+    "birth_place_he": "ליובאוויטש",
+    "death_place_he": "ליאדי"
+  },
+  "rabbi-yehuda-leib-kapust": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אדמו\"ר_מהרי\"ל",
+    "birth_year": 1808,
+    "death_year": 1866,
+    "birth_place_he": "ליאדי",
+    "death_place_he": "קאפוסט",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/a/ac/%D7%9E%D7%94%D7%A8%D7%99%D7%9C.jpg/220px-%D7%9E%D7%94%D7%A8%D7%99%D7%9C.jpg"
+  },
+  "rabbi-yitzchak-isaac-homel": {
+    "birth_year": 1770,
+    "death_year": 1857,
+    "death_place_he": "הומיל",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/1/19/%D7%97%D7%A0%D7%94_%D7%90%D7%A8%D7%99%D7%90%D7%9C.jpg/250px-%D7%97%D7%A0%D7%94_%D7%90%D7%A8%D7%99%D7%90%D7%9C.jpg"
+  },
+  "aharon-of-strashelye": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אהרן_מסטראשעלע",
+    "birth_year": 1766,
+    "death_year": 1828,
+    "birth_place_he": "אורשא",
+    "death_place_he": "סטראשעליע"
+  },
+  "rebbetzin-freida": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/הרבנית_פריידא_(בת_אדמו\"ר_הזקן)",
+    "birth_year": 1764,
+    "death_year": 1813,
+    "birth_place_he": "וויטבסק",
+    "death_place_he": "האדיטש"
+  },
+  "rebbetzin-devorah-leah": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/דבורה_לאה_(בת_אדמו\"ר_הזקן)",
+    "birth_year": 1766,
+    "death_year": 1793,
+    "birth_place_he": "וויטבסק",
+    "death_place_he": "ליאזנא"
+  },
+  "menachem-mendel-of-vitebsk": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/מנחם_מענדל_מוויטבסק",
+    "birth_year": 1730,
+    "death_year": 1788,
+    "birth_place_he": "ויטבסק",
+    "death_place_he": "טבריה",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/7/77/%D7%9E%D7%A6%D7%91%D7%AA_%D7%A8%27_%D7%9E%D7%A0%D7%93%D7%9C_%D7%9E%D7%95%D7%99%D7%98%D7%91%D7%A1%D7%A7.jpg/250px-%D7%9E%D7%A6%D7%91%D7%AA_%D7%A8%27_%D7%9E%D7%A0%D7%93%D7%9C_%D7%9E%D7%95%D7%99%D7%98%D7%91%D7%A1%D7%A7.jpg"
+  },
+  "rabbi-shalom-shachna": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/שלום_שכנא",
+    "birth_year": 1772,
+    "death_year": 1807
+  },
+  "rebbetzin-chaya-mushka-wife-of-tzemach-tzedek": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/הרבנית_חיה_מושקא_(אשת_הצמח_צדק)",
+    "birth_year": 1790,
+    "death_year": 1861,
+    "birth_place_he": "ליאזנא",
+    "death_place_he": "ליובאוויטש",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/3/35/%D7%90%D7%94%D7%9C_%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%95%D7%AA_%D7%91%D7%9C%D7%99%D7%95%D7%91%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9.jpg/250px-%D7%90%D7%94%D7%9C_%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%95%D7%AA_%D7%91%D7%9C%D7%99%D7%95%D7%91%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9.jpg"
+  },
+  "rabbi-chaim-avraham": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/חיים_אברהם_(בן_אדמו\"ר_הזקן)",
+    "birth_year": 1777,
+    "death_year": 1848,
+    "birth_place_he": "ליאזנא",
+    "death_place_he": "ליובאוויטש"
+  },
+  "rabbi-moshe-son-of-alter-rebbe": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/משה_(בן_אדמו\"ר_הזקן)",
+    "birth_year": 1779,
+    "birth_place_he": "ליאזנא"
+  },
+  "raza": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/הרז\"א",
+    "birth_year": 1858,
+    "death_year": 1909,
+    "birth_place_he": "ליובאוויטש",
+    "death_place_he": "ויטבסק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/2/22/%D7%94%D7%A8%D7%96%22%D7%90.jpg/249px-%D7%94%D7%A8%D7%96%22%D7%90.jpg"
+  },
+  "rashag": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/הרש\"ג",
+    "birth_year": 1896,
+    "death_year": 1989,
+    "birth_place_he": "קרמנצ'וג",
+    "death_place_he": "ניו יורק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/2/28/%D7%94%D7%A8%D7%A9%D7%92.jpg/220px-%D7%94%D7%A8%D7%A9%D7%92.jpg"
+  },
+  "chana-gurary": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/חנה_גוראריה",
+    "birth_year": 1899,
+    "death_year": 1991,
+    "birth_place_he": "ליובאוויטש",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/d/d8/%D7%97%D7%A0%D7%94_%D7%92%D7%95%D7%A8%D7%90%D7%A8%D7%99%D7%94.jpg/250px-%D7%97%D7%A0%D7%94_%D7%92%D7%95%D7%A8%D7%90%D7%A8%D7%99%D7%94.jpg"
+  },
+  "baruch-mordechai-of-bobruisk": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/ברוך_מרדכי_מבאברויסק",
+    "birth_year": 1761,
+    "death_year": 1852
+  },
+  "radatz": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/דוד_צבי_חן",
+    "birth_year": 1847,
+    "death_year": 1925,
+    "death_place_he": "ירושלים",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/6/67/%D7%A8%D7%93%22%D7%A5_%D7%97%D7%9F.jpg/220px-%D7%A8%D7%93%22%D7%A5_%D7%97%D7%9F.jpg"
+  },
+  "rabbi-menachem-mendel-son-of-maharash": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/רבי_מנחם_מענדל_בן_המהר\"ש"
+  },
+  "rabbi-yaakov-son-of-tzemach-tzedek": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יעקב_שניאורסון",
+    "death_year": 1837,
+    "death_place_he": "טולצ'ין"
+  },
+  "rabbi-tzvi-baal-shem-tov-son": {
+    "death_place_he": "פינסק"
+  },
+  "shmuel-munkes": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/שמואל_מונקעס",
+    "birth_place_he": "קאליסק"
+  },
+  "itche-der-masmid": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יצחק_הורוויץ",
+    "birth_year": 1890,
+    "death_year": 1941,
+    "death_place_he": "ריגא",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/d/d0/%D7%90%D7%99%D7%A6%27%D7%94.jpg/250px-%D7%90%D7%99%D7%A6%27%D7%94.jpg"
+  },
+  "yisrael-jacobson": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/ישראל_דזייקאבסאן",
+    "birth_year": 1896,
+    "death_year": 1975,
+    "birth_place_he": "זוראוויטש",
+    "death_place_he": "ניו יורק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/8/8a/%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%93%D7%96%D7%99%D7%99%D7%A7%D7%90%D7%91%D7%A1%D7%90%D7%9F2.jpg/250px-%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%93%D7%96%D7%99%D7%99%D7%A7%D7%90%D7%91%D7%A1%D7%90%D7%9F2.jpg"
+  },
+  "mordechai-dubin": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/מרדכי_דובין",
+    "birth_year": 1889,
+    "death_year": 1957,
+    "death_place_he": "טולא",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/3/37/%D7%A8%27_%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%93%D7%95%D7%91%D7%99%D7%9F.png/220px-%D7%A8%27_%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%93%D7%95%D7%91%D7%99%D7%9F.png"
+  },
+  "eliyahu-simpson": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אליהו_סימפסון",
+    "birth_year": 1889,
+    "death_year": 1977,
+    "birth_place_he": "באברויסק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/d/d7/5730-05-10_%2823%29.jpg/220px-5730-05-10_%2823%29.jpg"
+  },
+  "mordechai-dovber-slonim": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/מרדכי_דובער_סלונים",
+    "birth_year": 1840,
+    "death_year": 1916,
+    "birth_place_he": "ליובאוויטש",
+    "death_place_he": "חברון"
+  },
+  "shimon-menashe-chaikin": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/שמעון_מנשה_חייקין",
+    "birth_year": 1798,
+    "death_year": 1893,
+    "birth_place_he": "שקלוב",
+    "death_place_he": "חברון"
+  },
+  "chaim-hodakov": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/חיים_מרדכי_אייזיק_חדקוב",
+    "birth_year": 1902,
+    "death_year": 1993,
+    "birth_place_he": "בעשענקאוויטש",
+    "death_place_he": "ניו יורק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/1/17/%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%90%D7%99%D7%99%D7%96%D7%99%D7%A7_%D7%97%D7%95%D7%93%D7%A7%D7%95%D7%91.JPG/220px-%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%90%D7%99%D7%99%D7%96%D7%99%D7%A7_%D7%97%D7%95%D7%93%D7%A7%D7%95%D7%91.JPG"
+  },
+  "chaim-liberman": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/חיים_ליברמן",
+    "birth_year": 1892,
+    "death_year": 1991,
+    "death_place_he": "ירושלים"
+  },
+  "yosef-weinberg": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יוסף_וויינברג",
+    "birth_year": 1918,
+    "death_year": 2012,
+    "photo_url": "https://chabadpedia.co.il/images/thumb/4/47/Veinberg%2C_Yossel.png/220px-Veinberg%2C_Yossel.png"
+  },
+  "reb-shlomo-chaim-kesselman": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/שלמה_חיים_קסלמן",
+    "birth_year": 1894,
+    "death_year": 1971,
+    "birth_place_he": "זשיטאמיר",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/7/77/%D7%94%D7%9E%D7%A9%D7%A4%D7%99%D7%A2_%D7%A9%D7%9C%D7%9E%D7%94_%D7%97%D7%99%D7%99%D7%9D.jpg/220px-%D7%94%D7%9E%D7%A9%D7%A4%D7%99%D7%A2_%D7%A9%D7%9C%D7%9E%D7%94_%D7%97%D7%99%D7%99%D7%9D.jpg"
+  },
+  "menachem-ze-ev-greenglass": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/מנחם_זאב_גרינגלאס",
+    "birth_year": 1917,
+    "death_year": 2011,
+    "death_place_he": "מאנטרעאל",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/0/0b/%D7%92%D7%A8%D7%99%D7%A0%D7%92%D7%9C%D7%90%D7%A1_2.jpg/220px-%D7%92%D7%A8%D7%99%D7%A0%D7%92%D7%9C%D7%90%D7%A1_2.jpg"
+  },
+  "yehoshua-mondshine": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יהושע_מונדשיין",
+    "birth_year": 1947,
+    "death_year": 2015,
+    "birth_place_he": "תל אביב",
+    "death_place_he": "ירושלים",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/e/e8/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9E%D7%95%D7%A0%D7%93%D7%A9%D7%99%D7%99%D7%9F.jpg/220px-%D7%99%D7%94%D7%95%D7%A8%D7%A9%D7%A2_%D7%9E%D7%95%D7%A0%D7%93%D7%A9%D7%99%D7%99%D7%9F.jpg"
+  },
+  "avraham-chanoch-glitzenstein": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אברהם_חנוך_גליצנשטיין",
+    "birth_year": 1929,
+    "death_year": 2015,
+    "birth_place_he": "ירושלים",
+    "death_place_he": "ירושלים",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/2/25/%D7%92%D7%9C%D7%99%D7%A6%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F.jpg/220px-%D7%92%D7%9C%D7%99%D7%A6%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F.jpg"
+  },
+  "yitzchak-dovid-groner": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יצחק_דוד_גרונר",
+    "birth_year": 1915,
+    "death_year": 2008,
+    "birth_place_he": "ניו יורק",
+    "death_place_he": "ירושלים",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/8/86/%D7%99%D7%A6%D7%97%D7%A7_%D7%93%D7%95%D7%93_%D7%92%D7%A8%D7%95%D7%A0%D7%A8.jpg/150px-%D7%99%D7%A6%D7%97%D7%A7_%D7%93%D7%95%D7%93_%D7%92%D7%A8%D7%95%D7%A0%D7%A8.jpg"
+  },
+  "j-j-hecht": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יעקב_יהודה_העכט",
+    "birth_year": 1924,
+    "death_year": 1990,
+    "photo_url": "https://chabadpedia.co.il/images/thumb/0/04/%D7%99%D7%A2%D7%A7%D7%91_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%94%D7%A2%D7%9B%D7%98.png/220px-%D7%99%D7%A2%D7%A7%D7%91_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%94%D7%A2%D7%9B%D7%98.png"
+  },
+  "avraham-dov-hecht": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אברהם_דוב_העכט",
+    "birth_year": 1922,
+    "death_year": 2013,
+    "death_place_he": "ניו יורק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/9/94/%D7%90%D7%91%D7%A8%D7%94%D7%9D_%D7%93%D7%95%D7%91_%D7%94%D7%A2%D7%9B%D7%98.jpg/220px-%D7%90%D7%91%D7%A8%D7%94%D7%9D_%D7%93%D7%95%D7%91_%D7%94%D7%A2%D7%9B%D7%98.jpg"
+  },
+  "yochanan-gordon": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יוחנן_גורדון",
+    "birth_year": 1894,
+    "death_year": 1969,
+    "photo_url": "https://chabadpedia.co.il/images/thumb/1/10/Gordon%2C_Yochanan_01.jpg/250px-Gordon%2C_Yochanan_01.jpg"
+  },
+  "dovid-raskin": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/דוד_רסקין",
+    "birth_year": 1927,
+    "death_year": 2011,
+    "birth_place_he": "באברויסק",
+    "death_place_he": "ניו יורק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/3/3a/%D7%93%D7%95%D7%93_%D7%A8%D7%A1%D7%A7%D7%99%D7%9F_%D7%A0%22%D7%91.jpg/220px-%D7%93%D7%95%D7%93_%D7%A8%D7%A1%D7%A7%D7%99%D7%9F_%D7%A0%22%D7%91.jpg"
+  },
+  "binyamin-gorodetzky": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/בנימין_גורודצקי",
+    "birth_year": 1908,
+    "death_year": 1995,
+    "birth_place_he": "באברויסק",
+    "death_place_he": "ניו יורק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/8/80/%D7%94%D7%A8%D7%91_%D7%92%D7%95%D7%A8%D7%95%D7%93%D7%A6%D7%A7%D7%99_%D7%A0%22%D7%92.jpg/220px-%D7%94%D7%A8%D7%91_%D7%92%D7%95%D7%A8%D7%95%D7%93%D7%A6%D7%A7%D7%99_%D7%A0%22%D7%92.jpg"
+  },
+  "sholom-mendel-kalmanson": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/שלום_מענדל_קלמנסון",
+    "birth_year": 1922,
+    "death_year": 2012,
+    "birth_place_he": "ויטבסק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/5/5b/שלום_מענדל_קלמנסון.jpg/220px-שלום_מענדל_קלמנסון.jpg"
+  },
+  "mordechai-mentlik": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/מרדכי_מענטליק",
+    "birth_year": 1913,
+    "death_year": 1988,
+    "death_place_he": "ניו יורק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/b/b9/%D7%94%D7%A8%D7%91_%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%9E%D7%A2%D7%A0%D7%98%D7%9C%D7%99%D7%A7.jpeg/220px-%D7%94%D7%A8%D7%91_%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%9E%D7%A2%D7%A0%D7%98%D7%9C%D7%99%D7%A7.jpeg"
+  },
+  "sholom-dovber-gordon": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/שלום_דובער_גורדון",
+    "birth_year": 1921,
+    "death_year": 2001
+  },
+  "yosef-yitzchak-feldman": {
+    "_skip": true
+  },
+  "menachem-mendel-feldman": {
+    "_skip": true
+  },
+  "yoel-kahan-skip": {
+    "_skip": true
+  },
+  "rabbi-baruch-alter-rebbe-father": {
+    "photo_url": "https://chabadpedia.co.il/images/thumb/9/9b/%D7%A6%D7%99%D7%95%D7%9F_%D7%A8%D7%91%D7%99_%D7%91%D7%A8%D7%95%D7%9A.jpg/250px-%D7%A6%D7%99%D7%95%D7%9F_%D7%A8%D7%91%D7%99_%D7%91%D7%A8%D7%95%D7%9A.jpg"
+  },
+  "yehuda-chitrik": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יהודה_חיטריק",
+    "birth_place_he": "קראסנאלוקי",
+    "death_place_he": "ניו יורק",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/1/12/5752-02-20_%2826%29.jpg/253px-5752-02-20_%2826%29.jpg"
+  },
+  "chaim-meir-bukiet": {
+    "_skip": true
+  },
+  "mitteler-rebbe-2": {
+    "_skip": true
+  },
+  "menucha-rochel-slonim": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/מנוחה_רחל_סלונים",
+    "birth_year": 1799,
+    "death_year": 1888,
+    "death_place_he": "חברון",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/2/27/%D7%9E%D7%A0%D7%95%D7%97%D7%94_%D7%A8%D7%97%D7%9C.jpg/250px-%D7%9E%D7%A0%D7%95%D7%97%D7%94_%D7%A8%D7%97%D7%9C.jpg"
+  },
+  "eliyahu-yosef-of-dribin": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אליהו_יוסף_ריבלין",
+    "birth_year": 1805,
+    "death_year": 1865,
+    "birth_place_he": "אולא",
+    "death_place_he": "ירושלים"
+  },
+  "tzemach-tzedek-photo": {
+    "_skip": true
+  },
+  "eliyahu-chaim-althaus": {
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אליהו_חיים_אלטהויז",
+    "birth_year": 1871,
+    "birth_place_he": "ניקולייב",
+    "death_place_he": "ריגא",
+    "photo_url": "https://chabadpedia.co.il/images/thumb/b/bd/%D7%90%D7%9C%D7%99%D7%94%D7%95_%D7%97%D7%99%D7%99%D7%9D_%D7%90%D7%9C%D7%98%D7%94%D7%95%D7%99%D7%96.jpg/220px-%D7%90%D7%9C%D7%99%D7%94%D7%95_%D7%97%D7%99%D7%99%D7%9D_%D7%90%D7%9C%D7%98%D7%94%D7%95%D7%99%D7%96.jpg"
+  },
+  "reb-mendel-futerfas-2": {
+    "_skip": true
+  }
+}

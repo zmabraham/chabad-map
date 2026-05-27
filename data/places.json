@@ -1132,5 +1132,32 @@
     "lat": 52.0833,
     "lng": 31.1833,
     "modern_country": "Belarus"
+  },
+  {
+    "id": "brody",
+    "name_en": "Brody",
+    "name_he": "ברודי",
+    "lat": 50.0833,
+    "lng": 25.15,
+    "modern_country": "Ukraine",
+    "significance": "Major Galician Jewish center; mentioned as birthplace of pre-Chabad figures."
+  },
+  {
+    "id": "chortkov",
+    "name_en": "Chortkov (Chortkiv)",
+    "name_he": "טשורטקוב",
+    "lat": 49.0167,
+    "lng": 25.8,
+    "modern_country": "Ukraine",
+    "significance": "Galician town with a notable Chassidic dynasty."
+  },
+  {
+    "id": "pinsk",
+    "name_en": "Pinsk",
+    "name_he": "פינסק",
+    "lat": 52.1167,
+    "lng": 26.0833,
+    "modern_country": "Belarus",
+    "significance": "Major Belarusian Jewish center; appears in early chassidic biographies."
   }
 ]
