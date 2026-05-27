@@ -2248,7 +2248,7 @@
     "bio": "A prominent chassid who served as one of the great mashpiyim at the Toras Emes yeshiva in Jerusalem. Contributed to establishing and building the Chabad community in Jerusalem, alongside Rabbi David Goldberg and Rabbi Moshe Weber. Student and brother-in-law of R' Alter Shimchovitz; preserved and relayed many stories and teachings from his great mentor.",
     "primary_place_id": null,
     "chabadpedia_url": null,
-    "photo_url": null,
+    "photo_url": "https://chabadpedia.co.il/images/d/d0/%D7%9E%D7%A9%D7%94_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%A8%D7%99%D7%99%D7%9B%D7%9E%D7%9F.jpg",
     "journey": []
   },
   {
@@ -3188,7 +3188,7 @@
     ],
     "death_place_id": "treblinka",
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/4/4a/%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%A9%D7%99%D7%99%D7%A0%D7%90.jpg"
   },
   {
     "id": "chana-gurary",
@@ -3282,7 +3282,7 @@
     "birth_place_id": null,
     "death_place_id": "treblinka",
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/f/fc/%D7%9E%D7%A0%D7%97%D7%9D_%D7%9E%D7%A2%D7%A0%D7%93%D7%9C_%D7%94%D7%95%D7%A8%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F.jpg"
   },
   {
     "id": "menachem-mendel-of-vitebsk",
@@ -3946,7 +3946,7 @@
     "death_place_id": "kharkov",
     "primary_place_id": "kharkov",
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/2/27/%D7%94%D7%A8%D7%91_%D7%AA%D7%95%D7%9E%D7%90%D7%A8%D7%A7%D7%99%D7%9F.jpg"
   },
   {
     "id": "yitzchak-dubov",
@@ -3969,7 +3969,7 @@
     "death_place_id": "manchester",
     "primary_place_id": "manchester",
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/5/56/%D7%99%D7%A6%D7%97%D7%A7_%D7%93%D7%95%D7%91%D7%95%D7%91.JPG"
   },
   {
     "id": "shmuel-levitin",
@@ -4484,7 +4484,7 @@
     "birth_year": null,
     "birth_place_id": null,
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/f/fb/Rotshtein_%28Shifrin%29%2C_Moshe_Leib_%28Zusya%29.jpg"
   },
   {
     "id": "nissan-telushkin",
@@ -4507,7 +4507,7 @@
     "death_year": null,
     "birth_place_id": null,
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/d/d4/Telushkin%2C_Nissen_%26_Rivkin%2C_Berel.jpg"
   },
   {
     "id": "avraham-eliyahu-axelrod",
@@ -4545,7 +4545,7 @@
     "death_place_id": "baltimore",
     "primary_place_id": "baltimore",
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/2/2f/%D7%90%D7%A7%D7%A1%D7%9C%D7%A8%D7%95%D7%93_%D7%90%D7%91%D7%A8%D7%94%D7%9D_%D7%90%D7%9C%D7%99%D7%94%D7%95.jpg"
   },
   {
     "id": "moshe-axelrod",
@@ -4616,7 +4616,7 @@
     "birth_place_id": null,
     "death_place_id": null,
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/d/d5/%D7%A9%D7%A8%D7%92%D7%90_%D7%A4%D7%99%D7%99%D7%91%D7%99%D7%A9_%D7%96%D7%9C%D7%9E%D7%A0%D7%95%D7%91.jpg"
   },
   {
     "id": "chaim-hodakov",
@@ -4735,7 +4735,7 @@
     "death_place_id": null,
     "primary_place_id": "baltimore",
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/e/e4/%D7%9E%D7%A2%D7%A0%D7%93%D7%9C_%D7%A4%D7%9C%D7%93%D7%9E%D7%9F.jpg"
   },
   {
     "id": "shlomo-palmer",
@@ -5319,7 +5319,7 @@
     "bio": "Rabbi Avraham Baruch Pevzner was a highly regarded Mashpia and devoted Chassid in Soviet Russia. He played a critical role in sustaining the clandestine yeshiva network before being arrested and ultimately sacrificing his life for his religious activities.",
     "journey": [],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/2/27/%D7%90%D7%91%D7%A8%D7%94%D7%9D_%D7%91%D7%A8%D7%95%D7%9A_%D7%A4%D7%91%D7%96%D7%A0%D7%A82.jpg"
   },
   {
     "id": "yona-eidelkop",
@@ -5437,7 +5437,7 @@
       }
     ],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/1/13/%D7%99%D7%A2%D7%A7%D7%91_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%96%D7%95%D7%91%D7%A2%D7%A8.jpg"
   },
   {
     "id": "zalman-shimon-dvorkin",
@@ -5545,7 +5545,7 @@
     "bio": "Rabbi Leib Cohen was a respected Chassid and the brother of the famous activist Reb Refael Nachman Cohen. He was deeply embedded in the Chabad community, upholding the movement's rigorous spiritual traditions during a tumultuous era.",
     "journey": [],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/7/7e/Kahan%2C_Leibel_01.jpg"
   },
   {
     "id": "tovia-belkin",
@@ -6089,7 +6089,7 @@
     "bio": "Rabbi Betzalel Wilshansky was a prominent Rabbi and deeply devoted Chassid. He is remembered for authoring significant memoirs that chronicled the rich life, oral traditions, and history of the Chabad movement in Eastern Europe.",
     "journey": [],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/a/aa/Vilshansky%2C_Betzalel.jpg"
   },
   {
     "id": "chaim-moshe-of-shklov",
@@ -6567,7 +6567,7 @@
     "bio": "Rabbi Zeev Wolf Steingart was a prominent Chassid in the Chabad movement. He dedicated himself to the spread of Chassidic teachings and provided strong support to his community.",
     "journey": [],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/1/19/%D7%96%D7%90%D7%91_%D7%95%D7%95%D7%9C%D7%A3_%D7%A9%D7%98%D7%99%D7%99%D7%A0%D7%92%D7%A8%D7%98.jpg"
   },
   {
     "id": "shmuel-steingart",
@@ -6658,7 +6658,7 @@
       }
     ],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/3/32/%D7%A8%27_%D7%A0%D7%AA%D7%9F_%D7%92%D7%95%D7%A8%D7%90%D7%A8%D7%99%D7%94.jpg"
   },
   {
     "id": "chaim-yosef-rosenblum",
@@ -6743,7 +6743,7 @@
     "bio": "Rabbi Sholom Dovber Notik was a dedicated Chassid and chronicler. He played an important role in transcribing and preserving many oral Chassidic stories and historical traditions.",
     "journey": [],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/4/4b/%D7%A9%D7%9C%D7%95%D7%9D_%D7%91%D7%A2%D7%A8_%D7%A0%D7%95%D7%98%D7%99%D7%A7.jpg"
   },
   {
     "id": "shmuel-krugliak",
@@ -6783,7 +6783,7 @@
       }
     ],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/c/c0/%D7%A6%D7%91%D7%99_%D7%94%D7%99%D7%A8%D7%A9_%D7%A8%D7%99%D7%91%D7%A7%D7%99%D7%9F.jpg"
   },
   {
     "id": "simcha-of-beshenkovitz",
@@ -7016,7 +7016,7 @@
       }
     ],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/e/e3/%D7%93%D7%95%D7%93_%D7%A9%D7%99%D7%A4%D7%A8%D7%99%D7%9F2.jpg"
   },
   {
     "id": "avraham-shmuel-heilman",
@@ -7050,7 +7050,7 @@
     "bio": "Rabbi Alexander Sender Nemtzov was a devoted Chassid. He was firmly attached to the Chabad leadership and contributed to the community's spiritual resilience.",
     "journey": [],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/6/6a/%D7%A8%27_%D7%90%D7%91%D7%A8%D7%94%D7%9D_%D7%A1%D7%A0%D7%93%D7%A8_%D7%A0%D7%9E%D7%A6%D7%95%D7%91.jpg"
   },
   {
     "id": "shmuel-isaac-dubin",
@@ -7315,7 +7315,7 @@
     "bio": "Rabbi Yisrael Noach Belinitzki was a prominent activist in the Chabad underground in Russia. He worked tirelessly under dangerous conditions to maintain Jewish education and religious practice.",
     "journey": [],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/c/c1/Blinitzky%2C_Yisrael_Noach_01.jpg"
   },
   {
     "id": "isser-klobgant",
@@ -7332,7 +7332,7 @@
     "bio": "Rabbi Isser Klobgant was an active Chabad supporter and activist. He was deeply involved in assisting the community during difficult times in Soviet Russia.",
     "journey": [],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/2/2a/%D7%90%D7%99%D7%A1%D7%A8_%D7%A7%D7%9C%D7%99%D7%95%D7%91%D7%92%D7%90%D7%A0%D7%98.jpg"
   },
   {
     "id": "chaikel-chanin",
@@ -7349,7 +7349,7 @@
     "bio": "Rabbi Chaikel Chanin was a dedicated Chassid who remained steadfast in his religious commitment despite the hardships of his era.",
     "journey": [],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/b/ba/%D7%97%D7%99%D7%99%D7%A7%D7%9C_%D7%97%D7%A0%D7%99%D7%9F.jpg"
   },
   {
     "id": "yisrael-leibov",
@@ -7383,7 +7383,7 @@
     "bio": "Rabbi Chaim Minkowitz was an active Chassid and administrator. He played a significant role in managing Chabad institutions and assisting the community.",
     "journey": [],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/b/b0/%D7%97%D7%99%D7%99%D7%9D_%D7%9E%D7%99%D7%A0%D7%A7%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9.jpg"
   },
   {
     "id": "shmuel-betzalel-althaus",
@@ -7406,7 +7406,7 @@
       }
     ],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/e/e1/%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%D7%91%D7%A6%D7%9C%D7%90%D7%9C_%D7%90%D7%9C%D7%98%D7%94%D7%95%D7%99%D7%96_%28%D7%90%D7%95%D7%A1%D7%98%D7%A8%D7%9C%D7%99%D7%90%29.jpg"
   },
   {
     "id": "shlomo-zalman-hecht",
@@ -8207,7 +8207,7 @@
       }
     ],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/1/1b/Lazerov%2C_Shimon.jpg"
   },
   {
     "id": "zalman-vilenkin",
@@ -8263,7 +8263,7 @@
       }
     ],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/b/b9/%D7%91%D7%A2%D7%A0%D7%98%D7%A9%D7%A2.jpg"
   },
   {
     "id": "asher-grossman",
@@ -8339,7 +8339,7 @@
       }
     ],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/3/3f/%D7%94%D7%A8%D7%91_%D7%A9%D7%9E%D7%A8%D7%99%D7%94%D7%95_%D7%9E%D7%93%D7%9C%D7%99%D7%94.jpg"
   },
   {
     "id": "menachem-mendel-gluskin",
@@ -8372,7 +8372,7 @@
       }
     ],
     "chabadpedia_url": null,
-    "photo_url": null
+    "photo_url": "https://chabadpedia.co.il/images/e/e3/%D7%9E%D7%A0%D7%97%D7%9D_%D7%9E%D7%A2%D7%A0%D7%93%D7%9C_%D7%92%D7%9C%D7%95%D7%A1%D7%A7%D7%99%D7%9F.JPG"
   },
   {
     "id": "yitzchak-yoel-rafalovitch",
