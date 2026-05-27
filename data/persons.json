@@ -7278,5 +7278,22 @@
     ],
     "chabadpedia_url": null,
     "photo_url": null
+  },
+  {
+    "id": "shmaryahu-noach-schneersohn",
+    "name_en": "Rabbi Shemaryahu Noach Schneersohn",
+    "name_he": "ר' שמריהו נח שניאורסאהן",
+    "common_name": "Rebbe of Babroisk",
+    "generation": 5,
+    "birth_year": 1842,
+    "death_year": 1923,
+    "birth_place_id": "lubavitch",
+    "death_place_id": "bobruisk",
+    "role": "Rebbe",
+    "bio": "Rabbi Shemaryahu Noach Schneersohn (1842-1923) served as rabbi of Babroisk and Rebbe of the Kopust Chabad dynasty. A grandson of the Tzemach Tzedek through the Maharil of Kopust, he founded a yeshiva in Babroisk in 1901 that produced dozens of prominent rabbis and yeshiva heads throughout Russia.",
+    "primary_place_id": "bobruisk",
+    "journey": [],
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/שמריה_נח_שניאורסון",
+    "photo_url": "https://chabadpedia.co.il/images/4/40/%D7%A8%27_%D7%A9%D7%9E%D7%A8%D7%99%D7%94%D7%95_%D7%A0%D7%97_%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8%D7%A1%D7%90%D7%94%D7%9F.jpg"
   }
 ]
