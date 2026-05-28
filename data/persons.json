@@ -21,6 +21,11 @@
         "event": "Born"
       },
       {
+        "year": 1740,
+        "place_id": "mezhibuzh",
+        "event": "Settled"
+      },
+      {
         "year": 1760,
         "place_id": "mezhibuzh",
         "event": "Passed away"
@@ -42,7 +47,13 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/אליעזר_אבי_הבעל_שם_טוב",
     "primary_place_id": null,
     "photo_url": null,
-    "journey": []
+    "journey": [
+      {
+        "year": null,
+        "place_id": "okopy",
+        "event": "Lived"
+      }
+    ]
   },
   {
     "id": "rabbi-tzvi-baal-shem-tov-son",
@@ -59,7 +70,18 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/צבי_(בן_הבעל_שם_טוב)",
     "photo_url": null,
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": null,
+        "place_id": "mezhibuzh",
+        "event": "Served as Rebbe"
+      },
+      {
+        "year": null,
+        "place_id": "pinsk",
+        "event": "Established court"
+      }
+    ]
   },
   {
     "id": "maggid-of-mezeritch",
@@ -86,6 +108,16 @@
         "year": 1772,
         "place_id": "anipoli",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "mezritch",
+        "event": "Studied"
+      },
+      {
+        "year": null,
+        "place_id": "mezhibuzh",
+        "event": "Disciple of Baal Shem Tov"
       }
     ]
   },
@@ -131,6 +163,11 @@
         "year": null,
         "place_id": "mezhibuzh",
         "event": "Visited the Baal Shem Tov and received a blessing for a son"
+      },
+      {
+        "year": null,
+        "place_id": "vitebsk",
+        "event": "Born"
       }
     ]
   },
@@ -190,14 +227,44 @@
         "event": "Born"
       },
       {
+        "year": 1748,
+        "place_id": "mezhibuzh",
+        "event": "Visited Baal Shem Tov"
+      },
+      {
+        "year": 1754,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1760,
+        "place_id": "vitebsk",
+        "event": "Married"
+      },
+      {
+        "year": 1764,
+        "place_id": "mezritch",
+        "event": "Studied with Maggid"
+      },
+      {
         "year": 1765,
         "place_id": "vitebsk",
         "event": "Traveled"
       },
       {
+        "year": 1766,
+        "place_id": "vitebsk",
+        "event": "Returned"
+      },
+      {
         "year": 1771,
         "place_id": "mezritch",
         "event": "Traveled"
+      },
+      {
+        "year": 1778,
+        "place_id": "liozna",
+        "event": "Appointed Rav"
       },
       {
         "year": 1789,
@@ -228,21 +295,6 @@
         "year": 1798,
         "place_id": "vilna",
         "event": "Imprisoned"
-      },
-      {
-        "year": 1805,
-        "place_id": "vitebsk",
-        "event": "Founded yeshiva"
-      },
-      {
-        "year": 1812,
-        "place_id": "liadi",
-        "event": "Released"
-      },
-      {
-        "year": 1812,
-        "place_id": "piena",
-        "event": "Passed away"
       }
     ]
   },
@@ -263,9 +315,24 @@
     "primary_place_id": "vilna",
     "journey": [
       {
+        "year": 1741,
+        "place_id": "vilna",
+        "event": "Met Alter Rebbe"
+      },
+      {
+        "year": 1741,
+        "place_id": "liozna",
+        "event": "Studied"
+      },
+      {
         "year": null,
         "place_id": "vilna",
         "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "niezhin",
+        "event": "Present at Mitteler Rebbe passing"
       }
     ]
   },
@@ -288,6 +355,11 @@
       {
         "year": null,
         "place_id": "vilna",
+        "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "vitebsk",
         "event": "Lived"
       }
     ]
@@ -312,6 +384,21 @@
         "year": null,
         "place_id": "kletzk",
         "event": "Lived as a merchant and devoted Chassid"
+      },
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Studied"
+      },
+      {
+        "year": null,
+        "place_id": "riga",
+        "event": "Visited"
+      },
+      {
+        "year": null,
+        "place_id": "shklov",
+        "event": "Passed away"
       }
     ]
   },
@@ -330,7 +417,23 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/זלמן_זזמר",
     "photo_url": null,
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1783,
+        "place_id": "vilna",
+        "event": "Studied"
+      },
+      {
+        "year": 1783,
+        "place_id": "liozna",
+        "event": "Visited Alter Rebbe"
+      },
+      {
+        "year": null,
+        "place_id": "krislava",
+        "event": "Appointed Rav"
+      }
+    ]
   },
   {
     "id": "rabbi-menachem-zecharia",
@@ -383,6 +486,26 @@
     "primary_place_id": "shklov",
     "journey": [
       {
+        "year": 1781,
+        "place_id": "shklov",
+        "event": "Met Alter Rebbe"
+      },
+      {
+        "year": 1790,
+        "place_id": "liozna",
+        "event": "Studied"
+      },
+      {
+        "year": 1797,
+        "place_id": "shklov",
+        "event": "Hosted Alter Rebbe"
+      },
+      {
+        "year": 1811,
+        "place_id": "lubavitch",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "shklov",
         "event": "Lived as a devoted disciple and scholar"
@@ -404,7 +527,23 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/מרדכי_פייטלסון",
     "primary_place_id": null,
     "photo_url": null,
-    "journey": []
+    "journey": [
+      {
+        "year": null,
+        "place_id": "lepli",
+        "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "vilna",
+        "event": "Jewish representative"
+      },
+      {
+        "year": null,
+        "place_id": "petersburg",
+        "event": "Represented Jews to Tsar"
+      }
+    ]
   },
   {
     "id": "rabbi-yekutiel-lepler",
@@ -426,6 +565,16 @@
         "year": null,
         "place_id": "lepli",
         "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Studied with Alter Rebbe"
+      },
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Studied"
       }
     ]
   },
@@ -444,7 +593,13 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שלמה_רפאל'ס",
     "photo_url": "https://chabadpedia.co.il/images/thumb/9/9c/%D7%97%D7%95%D7%AA%D7%9E%D7%AA_%D7%A9%D7%9C%D7%9E%D7%94_%D7%A8%D7%A4%D7%90%D7%9C%27%D7%A1.jpg/220px-%D7%97%D7%95%D7%AA%D7%9E%D7%AA_%D7%A9%D7%9C%D7%9E%D7%94_%D7%A8%D7%A4%D7%90%D7%9C%27%D7%A1.jpg",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": null,
+        "place_id": "vilna",
+        "event": "Lived"
+      }
+    ]
   },
   {
     "id": "mitteler-rebbe",
@@ -466,6 +621,11 @@
         "year": 1773,
         "place_id": "liozna",
         "event": "Born"
+      },
+      {
+        "year": 1787,
+        "place_id": "lubavitch",
+        "event": "Coronation"
       },
       {
         "year": 1807,
@@ -498,6 +658,11 @@
         "event": "Made aliya"
       },
       {
+        "year": 1819,
+        "place_id": "lubavitch",
+        "event": "Became Rebbe"
+      },
+      {
         "year": 1821,
         "place_id": "hebron",
         "event": "Settled"
@@ -526,11 +691,6 @@
         "year": 1825,
         "place_id": "vitebsk",
         "event": "Imprisoned"
-      },
-      {
-        "year": 1827,
-        "place_id": "niezhin",
-        "event": "Passed away"
       }
     ]
   },
@@ -556,6 +716,11 @@
         "event": "Born"
       },
       {
+        "year": 1795,
+        "place_id": "homel",
+        "event": "Born"
+      },
+      {
         "year": 1855,
         "place_id": "paritch",
         "event": "Appointed Mashpia"
@@ -574,6 +739,16 @@
         "year": null,
         "place_id": "paritch",
         "event": "Appointed Rav"
+      },
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Visited Mitteler Rebbe"
+      },
+      {
+        "year": null,
+        "place_id": "bobruisk",
+        "event": "Served"
       }
     ]
   },
@@ -594,7 +769,7 @@
     "primary_place_id": "homel",
     "journey": [
       {
-        "year": null,
+        "year": 1805,
         "place_id": "homel",
         "event": "Appointed Rav"
       },
@@ -602,6 +777,11 @@
         "year": 1857,
         "place_id": "homel",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "homel",
+        "event": "Appointed Rav"
       }
     ]
   },
@@ -625,6 +805,21 @@
         "year": null,
         "place_id": "vitebsk",
         "event": "Served as a prominent Chassid and scholar"
+      },
+      {
+        "year": null,
+        "place_id": "smilovitz",
+        "event": "Born"
+      },
+      {
+        "year": null,
+        "place_id": "minsk",
+        "event": "Studied"
+      },
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Met Alter Rebbe"
       }
     ]
   },
@@ -650,9 +845,29 @@
         "event": "Born"
       },
       {
+        "year": 1803,
+        "place_id": "liadi",
+        "event": "Married"
+      },
+      {
+        "year": 1812,
+        "place_id": "liadi",
+        "event": "Lived"
+      },
+      {
+        "year": 1820,
+        "place_id": "lubavitch",
+        "event": "Became Rebbe"
+      },
+      {
         "year": 1824,
         "place_id": "lubavitch",
         "event": "Married"
+      },
+      {
+        "year": 1828,
+        "place_id": "lubavitch",
+        "event": "Published Torah Or"
       },
       {
         "year": 1830,
@@ -690,29 +905,14 @@
         "event": "Married"
       },
       {
+        "year": 1839,
+        "place_id": "lubavitch",
+        "event": "Founded Shchedrin"
+      },
+      {
         "year": 1842,
         "place_id": "lubavitch",
         "event": "Traveled"
-      },
-      {
-        "year": 1843,
-        "place_id": "hebron",
-        "event": "Made aliya"
-      },
-      {
-        "year": 1843,
-        "place_id": "petersburg",
-        "event": "Traveled"
-      },
-      {
-        "year": 1855,
-        "place_id": "paritch",
-        "event": "Appointed Mashpia"
-      },
-      {
-        "year": 1866,
-        "place_id": "lubavitch",
-        "event": "Passed away"
       }
     ]
   },
@@ -741,6 +941,21 @@
         "year": 1806,
         "place_id": "lubavitch",
         "event": "Born"
+      },
+      {
+        "year": 1806,
+        "place_id": "liadi",
+        "event": "Born"
+      },
+      {
+        "year": 1812,
+        "place_id": "liadi",
+        "event": "With Alter Rebbe"
+      },
+      {
+        "year": 1826,
+        "place_id": "lubavitch",
+        "event": "Lived"
       },
       {
         "year": 1869,
@@ -774,9 +989,34 @@
         "event": "Born"
       },
       {
+        "year": 1808,
+        "place_id": "liadi",
+        "event": "Born"
+      },
+      {
         "year": 1824,
         "place_id": "lubavitch",
         "event": "Married"
+      },
+      {
+        "year": 1825,
+        "place_id": "liadi",
+        "event": "Married"
+      },
+      {
+        "year": 1843,
+        "place_id": "petersburg",
+        "event": "Attended rabbinical conference"
+      },
+      {
+        "year": 1846,
+        "place_id": "kapust",
+        "event": "Founded Kapust dynasty"
+      },
+      {
+        "year": 1847,
+        "place_id": "kapust",
+        "event": "Passed away"
       },
       {
         "year": 1866,
@@ -814,14 +1054,24 @@
         "event": "Born"
       },
       {
-        "year": null,
-        "place_id": "kapust",
-        "event": "Appointed Rav"
+        "year": 1852,
+        "place_id": "lubavitch",
+        "event": "Married"
+      },
+      {
+        "year": 1862,
+        "place_id": "lubavitch",
+        "event": "Returned"
       },
       {
         "year": 1900,
         "place_id": "kapust",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "kapust",
+        "event": "Appointed Rav"
       }
     ]
   },
@@ -840,7 +1090,23 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/אברהם_בערל_מבוברויסק",
     "photo_url": null,
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": null,
+        "place_id": "homel",
+        "event": "Born"
+      },
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Visited Tzemach Tzedek"
+      },
+      {
+        "year": null,
+        "place_id": "bobruisk",
+        "event": "Lived"
+      }
+    ]
   },
   {
     "id": "rabbi-shneur-zalman-fradkin",
@@ -857,7 +1123,28 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שניאור_זלמן_פרדקין",
     "photo_url": "https://chabadpedia.co.il/images/a/ac/Grave_of_Rabbi_Shneur_Zalman_Fradkin.jpg",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1902,
+        "place_id": "jerusalem",
+        "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "polotsk",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": null,
+        "place_id": "lublin",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": null,
+        "place_id": "jerusalem",
+        "event": "Made aliya"
+      }
+    ]
   },
   {
     "id": "maharash",
@@ -884,6 +1171,21 @@
         "year": 1845,
         "place_id": "lubavitch",
         "event": "Traveled"
+      },
+      {
+        "year": 1848,
+        "place_id": "lubavitch",
+        "event": "Married"
+      },
+      {
+        "year": 1851,
+        "place_id": "lubavitch",
+        "event": "Married Rebecca"
+      },
+      {
+        "year": 1866,
+        "place_id": "lubavitch",
+        "event": "Became Rebbe"
       },
       {
         "year": 1871,
@@ -929,6 +1231,26 @@
     "primary_place_id": "lubavitch",
     "journey": [
       {
+        "year": 1853,
+        "place_id": "zembin",
+        "event": "Born"
+      },
+      {
+        "year": 1897,
+        "place_id": "zembin",
+        "event": "Appointed mashpia"
+      },
+      {
+        "year": 1901,
+        "place_id": "lubavitch",
+        "event": "Returned"
+      },
+      {
+        "year": 1905,
+        "place_id": "lubavitch",
+        "event": "Settled"
+      },
+      {
         "year": null,
         "place_id": "lubavitch",
         "event": "Appointed Mashpia of Tomchei Temimim"
@@ -955,6 +1277,36 @@
         "year": 1860,
         "place_id": "lubavitch",
         "event": "Born"
+      },
+      {
+        "year": 1875,
+        "place_id": "avritch",
+        "event": "Married"
+      },
+      {
+        "year": 1883,
+        "place_id": "lubavitch",
+        "event": "Became Rebbe"
+      },
+      {
+        "year": 1897,
+        "place_id": "lubavitch",
+        "event": "Founded yeshiva"
+      },
+      {
+        "year": 1903,
+        "place_id": "vienna",
+        "event": "Medical consultation"
+      },
+      {
+        "year": 1910,
+        "place_id": "petersburg",
+        "event": "Rabbinical conference"
+      },
+      {
+        "year": 1916,
+        "place_id": "rostov",
+        "event": "Relocated"
       },
       {
         "year": 1920,
@@ -988,8 +1340,28 @@
         "event": "Born"
       },
       {
+        "year": 1859,
+        "place_id": "lubavitch",
+        "event": "Born"
+      },
+      {
+        "year": 1875,
+        "place_id": "avritch",
+        "event": "Married"
+      },
+      {
+        "year": 1920,
+        "place_id": "new-york",
+        "event": "Arrived US"
+      },
+      {
         "year": 1942,
         "place_id": "leningrad",
+        "event": "Passed away"
+      },
+      {
+        "year": 1942,
+        "place_id": "new-york",
         "event": "Passed away"
       },
       {
@@ -1023,6 +1395,21 @@
     "primary_place_id": null,
     "journey": [
       {
+        "year": 1885,
+        "place_id": "disna",
+        "event": "Born"
+      },
+      {
+        "year": 1901,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1908,
+        "place_id": "lubavitch",
+        "event": "Appointed Mashpia"
+      },
+      {
         "year": 1919,
         "place_id": "lubavitch",
         "event": "Passed away"
@@ -1044,7 +1431,28 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/יצחק_הורביץ",
     "photo_url": "https://chabadpedia.co.il/images/thumb/d/d0/%D7%90%D7%99%D7%A6%27%D7%94.jpg/250px-%D7%90%D7%99%D7%A6%27%D7%94.jpg",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1890,
+        "place_id": "kherson",
+        "event": "Born"
+      },
+      {
+        "year": 1928,
+        "place_id": "riga",
+        "event": "Arrived"
+      },
+      {
+        "year": 1941,
+        "place_id": "riga",
+        "event": "Killed Al Kiddush Hashem"
+      },
+      {
+        "year": null,
+        "place_id": "zembin",
+        "event": "Studied"
+      }
+    ]
   },
   {
     "id": "reb-michoel-dvorkin",
@@ -1063,9 +1471,34 @@
     "primary_place_id": "new-york",
     "journey": [
       {
+        "year": 1906,
+        "place_id": "nevel",
+        "event": "Born"
+      },
+      {
+        "year": 1930,
+        "place_id": "tel-aviv",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1947,
+        "place_id": "new-york",
+        "event": "Arrived US"
+      },
+      {
+        "year": 1949,
+        "place_id": "new-york",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "new-york",
         "event": "Emigrated"
+      },
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Studied"
       }
     ]
   },
@@ -1086,6 +1519,31 @@
     "primary_place_id": "bnei-brak",
     "journey": [
       {
+        "year": 1883,
+        "place_id": "kurenets",
+        "event": "Born"
+      },
+      {
+        "year": 1908,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1913,
+        "place_id": "kurenets",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1936,
+        "place_id": "bnei-brak",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1986,
+        "place_id": "bnei-brak",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "lubavitch",
         "event": "Studied"
@@ -1096,9 +1554,9 @@
         "event": "Appointed Rav"
       },
       {
-        "year": 1986,
-        "place_id": "bnei-brak",
-        "event": "Passed away"
+        "year": null,
+        "place_id": "rostov",
+        "event": "Court rabbi"
       }
     ]
   },
@@ -1117,7 +1575,48 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/אלתר_שימחוביץ",
     "photo_url": "https://chabadpedia.co.il/images/thumb/1/11/%D7%90%D7%9C%D7%98%D7%A8_%D7%A9%D7%99%D7%9E%D7%97%D7%95%D7%91%D7%99%D7%A5.png/220px-%D7%90%D7%9C%D7%98%D7%A8_%D7%A9%D7%99%D7%9E%D7%97%D7%95%D7%91%D7%99%D7%A5.png",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1905,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1912,
+        "place_id": "hebron",
+        "event": "Founded yeshiva"
+      },
+      {
+        "year": 1916,
+        "place_id": "lubavitch",
+        "event": "Married"
+      },
+      {
+        "year": 1917,
+        "place_id": "shchedrin",
+        "event": "Director of yeshiva"
+      },
+      {
+        "year": 1920,
+        "place_id": "rostov",
+        "event": "Moved"
+      },
+      {
+        "year": 1921,
+        "place_id": "warsaw",
+        "event": "Appointed Mashpia"
+      },
+      {
+        "year": 1927,
+        "place_id": "jerusalem",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1939,
+        "place_id": "jerusalem",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "reb-zalman-moshe-hayitzchaki",
@@ -1141,8 +1640,28 @@
         "event": "Born"
       },
       {
+        "year": 1877,
+        "place_id": "zembin",
+        "event": "Married"
+      },
+      {
+        "year": 1935,
+        "place_id": "tel-aviv",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1941,
+        "place_id": "kfar-chabad",
+        "event": "Moved"
+      },
+      {
         "year": 1952,
         "place_id": "kfar-chabad",
+        "event": "Passed away"
+      },
+      {
+        "year": 1952,
+        "place_id": "tzfat",
         "event": "Passed away"
       }
     ]
@@ -1184,6 +1703,16 @@
         "event": "Released"
       },
       {
+        "year": 1897,
+        "place_id": "lubavitch",
+        "event": "Married"
+      },
+      {
+        "year": 1898,
+        "place_id": "lubavitch",
+        "event": "Director of yeshiva"
+      },
+      {
         "year": 1902,
         "place_id": "lubavitch",
         "event": "Imprisoned"
@@ -1219,14 +1748,14 @@
         "event": "Released"
       },
       {
-        "year": 1950,
-        "place_id": "new-york",
-        "event": "Passed away"
+        "year": 1928,
+        "place_id": "riga",
+        "event": "Settled"
       },
       {
-        "year": 1991,
-        "place_id": "kharkov",
-        "event": "Imprisoned"
+        "year": 1929,
+        "place_id": "jerusalem",
+        "event": "Visited"
       }
     ]
   },
@@ -1257,6 +1786,16 @@
         "event": "Married"
       },
       {
+        "year": 1900,
+        "place_id": "nikolaev",
+        "event": "Married"
+      },
+      {
+        "year": 1909,
+        "place_id": "yekaterinoslav",
+        "event": "Appointed Rav"
+      },
+      {
         "year": 1939,
         "place_id": "yekaterinoslav",
         "event": "Imprisoned"
@@ -1264,6 +1803,11 @@
       {
         "year": 1939,
         "place_id": "yekaterinoslav",
+        "event": "Exiled"
+      },
+      {
+        "year": 1940,
+        "place_id": "chiili",
         "event": "Exiled"
       },
       {
@@ -1308,9 +1852,19 @@
         "event": "Married"
       },
       {
+        "year": 1900,
+        "place_id": "warsaw",
+        "event": "Married"
+      },
+      {
         "year": 1907,
         "place_id": "nikolaev",
         "event": "Emigrated"
+      },
+      {
+        "year": 1907,
+        "place_id": "yekaterinoslav",
+        "event": "Moved"
       },
       {
         "year": 1909,
@@ -1328,24 +1882,34 @@
         "event": "Married"
       },
       {
+        "year": 1939,
+        "place_id": "yekaterinoslav",
+        "event": "Husband arrested"
+      },
+      {
+        "year": 1940,
+        "place_id": "chiili",
+        "event": "Joined husband in exile"
+      },
+      {
+        "year": 1944,
+        "place_id": "alma-ata",
+        "event": "Husband passed away"
+      },
+      {
         "year": 1946,
         "place_id": "new-york",
         "event": "Imprisoned"
       },
       {
+        "year": 1946,
+        "place_id": "moscow",
+        "event": "Left Soviet Union"
+      },
+      {
         "year": 1947,
         "place_id": "paris",
         "event": "Reunited with her son"
-      },
-      {
-        "year": 1947,
-        "place_id": "new-york",
-        "event": "Emigrated to the United States"
-      },
-      {
-        "year": 1964,
-        "place_id": "new-york",
-        "event": "Passed away"
       }
     ],
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/הרבנית_חנה",
@@ -1366,14 +1930,49 @@
     "primary_place_id": "liverpool",
     "journey": [
       {
+        "year": 1906,
+        "place_id": "nikolaev",
+        "event": "Born"
+      },
+      {
         "year": 1909,
         "place_id": "yekaterinoslav",
         "event": "Born"
       },
       {
+        "year": 1924,
+        "place_id": "petersburg",
+        "event": "Moved"
+      },
+      {
+        "year": 1930,
+        "place_id": "paris",
+        "event": "Moved"
+      },
+      {
+        "year": 1935,
+        "place_id": "tel-aviv",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1939,
+        "place_id": "tel-aviv",
+        "event": "Married"
+      },
+      {
+        "year": 1948,
+        "place_id": "liverpool",
+        "event": "Moved"
+      },
+      {
         "year": 1952,
         "place_id": "liverpool",
         "event": "Passed away"
+      },
+      {
+        "year": 1952,
+        "place_id": "tzfat",
+        "event": "Buried"
       },
       {
         "year": null,
@@ -1409,7 +2008,33 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/אלחנן_דב_מרוזוב",
     "photo_url": "https://chabadpedia.co.il/images/thumb/1/1f/%D7%90%D7%9C%D7%97%D7%A0%D7%9F_%D7%93%D7%95%D7%91_%D7%9E%D7%A8%D7%95%D7%96%D7%95%D7%91.jpg/220px-%D7%90%D7%9C%D7%97%D7%A0%D7%9F_%D7%93%D7%95%D7%91_%D7%9E%D7%A8%D7%95%D7%96%D7%95%D7%91.jpg",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1927,
+        "place_id": "leningrad",
+        "event": "Arrested"
+      },
+      {
+        "year": 1927,
+        "place_id": "siberia",
+        "event": "Exiled"
+      },
+      {
+        "year": 1938,
+        "place_id": "leningrad",
+        "event": "Executed"
+      },
+      {
+        "year": null,
+        "place_id": "minsk",
+        "event": "Studied"
+      },
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      }
+    ]
   },
   {
     "id": "reb-chaim-shaul-brook",
@@ -1426,7 +2051,28 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/חיים_שאול_ברוק",
     "photo_url": "https://chabadpedia.co.il/images/thumb/3/35/%D7%97%D7%99%D7%99%D7%9D_%D7%A9%D7%90%D7%95%D7%9C_%D7%91%D7%A8%D7%95%D7%A7.jpg/250px-%D7%97%D7%99%D7%99%D7%9D_%D7%A9%D7%90%D7%95%D7%9C_%D7%91%D7%A8%D7%95%D7%A7.jpg",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1909,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1935,
+        "place_id": "berditchev",
+        "event": "Founded yeshiva"
+      },
+      {
+        "year": 1937,
+        "place_id": "tel-aviv",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1938,
+        "place_id": "tel-aviv",
+        "event": "Appointed Mashpia"
+      }
+    ]
   },
   {
     "id": "reb-shlomo-chaim-kesselman",
@@ -1449,9 +2095,54 @@
         "event": "Born"
       },
       {
+        "year": 1909,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1910,
+        "place_id": "shchedrin",
+        "event": "Studied"
+      },
+      {
+        "year": 1920,
+        "place_id": "rostov",
+        "event": "Appointed Mashpia"
+      },
+      {
+        "year": 1922,
+        "place_id": "polotsk",
+        "event": "Appointed Mashpia"
+      },
+      {
+        "year": 1927,
+        "place_id": "polotsk",
+        "event": "Arrested"
+      },
+      {
         "year": 1929,
         "place_id": "poltava",
         "event": "Escaped"
+      },
+      {
+        "year": 1942,
+        "place_id": "tashkent",
+        "event": "Founded yeshiva"
+      },
+      {
+        "year": 1946,
+        "place_id": "lviv",
+        "event": "Escaped"
+      },
+      {
+        "year": 1947,
+        "place_id": "brunoy",
+        "event": "Co-founded yeshiva"
+      },
+      {
+        "year": 1949,
+        "place_id": "kfar-chabad",
+        "event": "Made aliya"
       },
       {
         "year": 1971,
@@ -1483,6 +2174,31 @@
     "primary_place_id": null,
     "journey": [
       {
+        "year": 1922,
+        "place_id": "rostov",
+        "event": "Married"
+      },
+      {
+        "year": 1925,
+        "place_id": "shchedrin",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1935,
+        "place_id": "tel-aviv",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1939,
+        "place_id": "tel-aviv",
+        "event": "Founded yeshiva"
+      },
+      {
+        "year": 1960,
+        "place_id": "tel-aviv",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "shchedrin",
         "event": "Served as Rabbi"
@@ -1511,6 +2227,41 @@
     "primary_place_id": "kfar-chabad",
     "journey": [
       {
+        "year": 1915,
+        "place_id": "lubavitch",
+        "event": "Yechidus"
+      },
+      {
+        "year": 1930,
+        "place_id": "yekaterinoslav",
+        "event": "Appointed Mashgiach"
+      },
+      {
+        "year": 1943,
+        "place_id": "samarkand",
+        "event": "Founded yeshiva"
+      },
+      {
+        "year": 1946,
+        "place_id": "lviv",
+        "event": "Imprisoned"
+      },
+      {
+        "year": 1964,
+        "place_id": "london",
+        "event": "Released"
+      },
+      {
+        "year": 1971,
+        "place_id": "kfar-chabad",
+        "event": "Appointed Mashpia"
+      },
+      {
+        "year": 1995,
+        "place_id": "london",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "kfar-chabad",
         "event": "Appointed Mashpia"
@@ -1534,9 +2285,24 @@
     "primary_place_id": "riga",
     "journey": [
       {
+        "year": 1912,
+        "place_id": "hebron",
+        "event": "Founded yeshiva"
+      },
+      {
         "year": 1921,
         "place_id": "kremenchug",
         "event": "Married"
+      },
+      {
+        "year": 1921,
+        "place_id": "homel",
+        "event": "Founded yeshiva"
+      },
+      {
+        "year": 1922,
+        "place_id": "poltava",
+        "event": "Director of yeshiva"
       },
       {
         "year": 1924,
@@ -1554,6 +2320,11 @@
         "event": "Imprisoned"
       },
       {
+        "year": 1927,
+        "place_id": "kharkov",
+        "event": "Served Rayatz"
+      },
+      {
         "year": 1928,
         "place_id": "jerusalem",
         "event": "Appointed Mashpia"
@@ -1562,6 +2333,11 @@
         "year": 1928,
         "place_id": "new-york",
         "event": "Married"
+      },
+      {
+        "year": 1928,
+        "place_id": "riga",
+        "event": "Moved"
       },
       {
         "year": 1929,
@@ -1574,14 +2350,14 @@
         "event": "Married"
       },
       {
+        "year": 1940,
+        "place_id": "riga",
+        "event": "Crossed border"
+      },
+      {
         "year": 1941,
         "place_id": "riga",
         "event": "Perished in the Holocaust"
-      },
-      {
-        "year": 1942,
-        "place_id": "riga",
-        "event": "Passed away"
       }
     ]
   },
@@ -1600,7 +2376,38 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/פנחס_אלטהויז",
     "photo_url": "https://chabadpedia.co.il/images/thumb/1/1f/%D7%A4%D7%99%D7%A0%D7%99%D7%99%D7%A2.jpg/220px-%D7%A4%D7%99%D7%A0%D7%99%D7%99%D7%A2.jpg",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1878,
+        "place_id": "nikolaev",
+        "event": "Born"
+      },
+      {
+        "year": 1927,
+        "place_id": "tel-aviv",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1941,
+        "place_id": "tel-aviv",
+        "event": "Appointed secretary"
+      },
+      {
+        "year": 1963,
+        "place_id": "tzfat",
+        "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": null,
+        "place_id": "leningrad",
+        "event": "Served Rayatz"
+      }
+    ]
   },
   {
     "id": "reb-nachum-goldschmid",
@@ -1617,7 +2424,33 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/נחום_גולדשמיד",
     "photo_url": "https://chabadpedia.co.il/images/thumb/a/a1/%D7%A0%D7%97%D7%95%D7%9D_%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%9E%D7%99%D7%93.png/220px-%D7%A0%D7%97%D7%95%D7%9D_%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%9E%D7%99%D7%93.png",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1905,
+        "place_id": "yekaterinoslav",
+        "event": "Born"
+      },
+      {
+        "year": 1923,
+        "place_id": "rostov",
+        "event": "Studied with Rayatz"
+      },
+      {
+        "year": 1925,
+        "place_id": "tel-aviv",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1928,
+        "place_id": "warsaw",
+        "event": "Married"
+      },
+      {
+        "year": 1976,
+        "place_id": "jerusalem",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "reb-moshe-gurary",
@@ -1634,7 +2467,28 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/משה_גוראריה",
     "photo_url": "https://chabadpedia.co.il/images/thumb/3/37/%D7%9E%D7%A9%D7%94_%D7%92%D7%95%D7%A8%D7%90%D7%A8%D7%99%D7%942.png/220px-%D7%9E%D7%A9%D7%94_%D7%92%D7%95%D7%A8%D7%90%D7%A8%D7%99%D7%942.png",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1935,
+        "place_id": "tel-aviv",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1973,
+        "place_id": "tel-aviv",
+        "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "moscow",
+        "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "riga",
+        "event": "Lived"
+      }
+    ]
   },
   {
     "id": "rabbi-alexander-sender-yudasin",
@@ -1653,14 +2507,39 @@
     "primary_place_id": "tel-aviv",
     "journey": [
       {
-        "year": null,
+        "year": 1897,
+        "place_id": "rogatchov",
+        "event": "Born"
+      },
+      {
+        "year": 1909,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1920,
+        "place_id": "kherson",
+        "event": "Founded yeshiva"
+      },
+      {
+        "year": 1921,
+        "place_id": "chernigov",
+        "event": "Received ordination"
+      },
+      {
+        "year": 1934,
         "place_id": "tel-aviv",
-        "event": "Appointed Rav"
+        "event": "Made aliya"
       },
       {
         "year": 1983,
         "place_id": "tel-aviv",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "tel-aviv",
+        "event": "Appointed Rav"
       }
     ]
   },
@@ -1679,7 +2558,38 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/רפאל_נחמן_כהן",
     "photo_url": "https://chabadpedia.co.il/images/thumb/5/56/%D7%A8%D7%A4%D7%90%D7%9C_%D7%A0%D7%97%D7%9E%D7%9F_%D7%9B%D7%94%D7%9F.jpg/220px-%D7%A8%D7%A4%D7%90%D7%9C_%D7%A0%D7%97%D7%9E%D7%9F_%D7%9B%D7%94%D7%9F.jpg",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1905,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1930,
+        "place_id": "moscow",
+        "event": "Arrested"
+      },
+      {
+        "year": 1930,
+        "place_id": "siberia",
+        "event": "Exiled"
+      },
+      {
+        "year": 1935,
+        "place_id": "tel-aviv",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1988,
+        "place_id": "kfar-chabad",
+        "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "ramat-gan",
+        "event": "Moved"
+      }
+    ]
   },
   {
     "id": "reb-avraham-pariz",
@@ -1697,6 +2607,46 @@
     "photo_url": "https://chabadpedia.co.il/images/thumb/8/8c/%D7%A4%D7%90%D7%A8%D7%99%D7%96.jpg/220px-%D7%A4%D7%90%D7%A8%D7%99%D7%96.jpg",
     "primary_place_id": "petach-tikva",
     "journey": [
+      {
+        "year": 1889,
+        "place_id": "bobruisk",
+        "event": "Born"
+      },
+      {
+        "year": 1902,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1914,
+        "place_id": "lubavitch",
+        "event": "Married"
+      },
+      {
+        "year": 1926,
+        "place_id": "petach-tikva",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1930,
+        "place_id": "new-york",
+        "event": "Moved"
+      },
+      {
+        "year": 1950,
+        "place_id": "kfar-chabad",
+        "event": "Settled"
+      },
+      {
+        "year": 1951,
+        "place_id": "tel-aviv",
+        "event": "Declared Rebbe leadership"
+      },
+      {
+        "year": 1968,
+        "place_id": "petach-tikva",
+        "event": "Passed away"
+      },
       {
         "year": null,
         "place_id": "petach-tikva",
@@ -1719,7 +2669,33 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/יעקב_זכריה_מסקליק",
     "photo_url": "https://chabadpedia.co.il/images/thumb/d/d2/%D7%A8%27_%D7%99%D7%A2%D7%A0%D7%A7%D7%9C_%D7%9E%D7%90%D7%A1%D7%A7%D7%90%D7%9C%D7%99%D7%A7.png/220px-%D7%A8%27_%D7%99%D7%A2%D7%A0%D7%A7%D7%9C_%D7%9E%D7%90%D7%A1%D7%A7%D7%90%D7%9C%D7%99%D7%A7.png",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1886,
+        "place_id": "shchedrin",
+        "event": "Born"
+      },
+      {
+        "year": 1911,
+        "place_id": "zuravitz",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1935,
+        "place_id": "moscow",
+        "event": "Arrested"
+      },
+      {
+        "year": 1935,
+        "place_id": "siberia",
+        "event": "Exiled"
+      },
+      {
+        "year": 1938,
+        "place_id": "siberia",
+        "event": "Killed Al Kiddush Hashem"
+      }
+    ]
   },
   {
     "id": "reb-simcha-gorodetsky",
@@ -1738,9 +2714,29 @@
     "primary_place_id": "bukhara",
     "journey": [
       {
+        "year": 1903,
+        "place_id": "bobruisk",
+        "event": "Born"
+      },
+      {
+        "year": 1923,
+        "place_id": "samarkand",
+        "event": "Founded underground network"
+      },
+      {
         "year": 1926,
         "place_id": "bukhara",
         "event": "Appointed Rav"
+      },
+      {
+        "year": 1964,
+        "place_id": "kfar-chabad",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1984,
+        "place_id": "kfar-chabad",
+        "event": "Passed away"
       }
     ]
   },
@@ -1759,7 +2755,33 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/זלמן_לייב_אסטולין",
     "photo_url": "https://chabadpedia.co.il/images/thumb/7/78/%D7%97%D7%99%D7%99.jpg/220px-%D7%97%D7%99%D7%99.jpg",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1945,
+        "place_id": "tashkent",
+        "event": "Arrived"
+      },
+      {
+        "year": 1966,
+        "place_id": "vienna",
+        "event": "Departed USSR"
+      },
+      {
+        "year": 1966,
+        "place_id": "bnei-brak",
+        "event": "Settled"
+      },
+      {
+        "year": 2005,
+        "place_id": "nachlat-har-chabad",
+        "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "moscow",
+        "event": "Studied"
+      }
+    ]
   },
   {
     "id": "rabbi-motel-kozliner",
@@ -1776,7 +2798,28 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/מרדכי_קוזלינר",
     "photo_url": "https://chabadpedia.co.il/images/thumb/0/06/%D7%A7%D7%95%D7%96%D7%9C%D7%99%D7%A0%D7%A8_%D7%9E%D7%95%D7%98%27%D7%9C.jpg/250px-%D7%A7%D7%95%D7%96%D7%9C%D7%99%D7%A0%D7%A8_%D7%9E%D7%95%D7%98%27%D7%9C.jpg",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1929,
+        "place_id": "nevel",
+        "event": "Born"
+      },
+      {
+        "year": 1937,
+        "place_id": "tashkent",
+        "event": "Settled"
+      },
+      {
+        "year": 1972,
+        "place_id": "nachlat-har-chabad",
+        "event": "Founded yeshiva"
+      },
+      {
+        "year": 2001,
+        "place_id": "jerusalem",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "rabbi-chaim-moshe-alperovitz",
@@ -1793,7 +2836,48 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/חיים_משה_אלפרוביץ",
     "photo_url": "https://chabadpedia.co.il/images/3/31/%D7%97%D7%99%D7%99%D7%9D_%D7%9E%D7%A9%D7%94_%D7%90%D7%9C%D7%A4%D7%A8%D7%95%D7%91%D7%99%D7%A5.JPG",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1899,
+        "place_id": "lubavitch",
+        "event": "Born"
+      },
+      {
+        "year": 1911,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1920,
+        "place_id": "rostov",
+        "event": "Moved"
+      },
+      {
+        "year": 1922,
+        "place_id": "zembin",
+        "event": "Married"
+      },
+      {
+        "year": 1935,
+        "place_id": "jerusalem",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1945,
+        "place_id": "new-york",
+        "event": "First visit"
+      },
+      {
+        "year": 1956,
+        "place_id": "ramat-gan",
+        "event": "Founded synagogue"
+      },
+      {
+        "year": 1977,
+        "place_id": "bnei-brak",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "rabbi-meir-blizinsky",
@@ -1810,7 +2894,33 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/מאיר_בליזינסקי",
     "photo_url": "https://chabadpedia.co.il/images/thumb/6/63/%D7%9E%D7%90%D7%99%D7%A8_%D7%91%D7%9C%D7%99%D7%96%D7%99%D7%A0%D7%A1%D7%A7%D7%992.jpg/220px-%D7%9E%D7%90%D7%99%D7%A8_%D7%91%D7%9C%D7%99%D7%96%D7%99%D7%A0%D7%A1%D7%A7%D7%992.jpg",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1907,
+        "place_id": "warsaw",
+        "event": "Born"
+      },
+      {
+        "year": 1990,
+        "place_id": "ramat-gan",
+        "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "otwock",
+        "event": "Married"
+      },
+      {
+        "year": null,
+        "place_id": "bnei-brak",
+        "event": "Made aliya"
+      },
+      {
+        "year": null,
+        "place_id": "ramat-gan",
+        "event": "Settled"
+      }
+    ]
   },
   {
     "id": "rabbi-azriel-zelig-slonim",
@@ -1837,6 +2947,31 @@
         "year": 1897,
         "place_id": "jerusalem",
         "event": "Born"
+      },
+      {
+        "year": 1912,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1918,
+        "place_id": "kherson",
+        "event": "Emissary"
+      },
+      {
+        "year": 1922,
+        "place_id": "jerusalem",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1923,
+        "place_id": "jerusalem",
+        "event": "Married"
+      },
+      {
+        "year": 1949,
+        "place_id": "jerusalem",
+        "event": "Manager of kollel"
       },
       {
         "year": 1972,
@@ -1867,6 +3002,51 @@
     "primary_place_id": "brunoy",
     "journey": [
       {
+        "year": 1904,
+        "place_id": "zhlobin",
+        "event": "Born"
+      },
+      {
+        "year": 1917,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1925,
+        "place_id": "kharkov",
+        "event": "Appointed Mashgiach"
+      },
+      {
+        "year": 1928,
+        "place_id": "nevel",
+        "event": "Appointed Mashpia"
+      },
+      {
+        "year": 1929,
+        "place_id": "siberia",
+        "event": "Exiled"
+      },
+      {
+        "year": 1930,
+        "place_id": "leningrad",
+        "event": "Appointed Mashpia"
+      },
+      {
+        "year": 1944,
+        "place_id": "samarkand",
+        "event": "Appointed Mashpia"
+      },
+      {
+        "year": 1948,
+        "place_id": "brunoy",
+        "event": "Appointed Mashpia"
+      },
+      {
+        "year": 1984,
+        "place_id": "brunoy",
+        "event": "Passed away"
+      },
+      {
         "year": 1994,
         "place_id": "brunoy",
         "event": "Passed away"
@@ -1893,7 +3073,43 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/ישראל_לוין",
     "photo_url": "https://chabadpedia.co.il/images/9/95/%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%9C%D7%95%D7%99%D7%9F_%28%D7%A0%D7%A2%D7%95%D7%95%D7%A2%D7%9C%29.jpg",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1885,
+        "place_id": "nevel",
+        "event": "Born"
+      },
+      {
+        "year": 1918,
+        "place_id": "rostov",
+        "event": "Followed Rashab"
+      },
+      {
+        "year": 1922,
+        "place_id": "nevel",
+        "event": "Returned"
+      },
+      {
+        "year": 1937,
+        "place_id": "klimovitch",
+        "event": "Arrested"
+      },
+      {
+        "year": 1939,
+        "place_id": "siberia",
+        "event": "Released"
+      },
+      {
+        "year": 1941,
+        "place_id": "tashkent",
+        "event": "Fled"
+      },
+      {
+        "year": 1948,
+        "place_id": "brunoy",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "reb-avraham-mayor-drizin",
@@ -1912,14 +3128,44 @@
     "primary_place_id": "new-york",
     "journey": [
       {
-        "year": null,
+        "year": 1915,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1925,
         "place_id": "nevel",
-        "event": "Appointed Mashpia"
+        "event": "Lecturer"
+      },
+      {
+        "year": 1935,
+        "place_id": "moscow",
+        "event": "Lived"
       },
       {
         "year": 1946,
         "place_id": "lviv",
         "event": "Escaped"
+      },
+      {
+        "year": 1949,
+        "place_id": "kfar-chabad",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1958,
+        "place_id": "new-york",
+        "event": "Moved"
+      },
+      {
+        "year": 1991,
+        "place_id": "new-york",
+        "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "nevel",
+        "event": "Appointed Mashpia"
       },
       {
         "year": null,
@@ -1943,7 +3189,33 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שאול_דוב_זיסלין",
     "photo_url": "https://chabadpedia.co.il/images/b/bc/Zislin%2C_Shaiel_Ber_03.jpg",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1881,
+        "place_id": "krislava",
+        "event": "Born"
+      },
+      {
+        "year": 1910,
+        "place_id": "shchedrin",
+        "event": "Appointed Mashpia"
+      },
+      {
+        "year": 1923,
+        "place_id": "orsha",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1934,
+        "place_id": "tel-aviv",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1964,
+        "place_id": "tel-aviv",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "rabbi-shashonkin",
@@ -1960,7 +3232,28 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/נחום_שמריהו_ששונקין",
     "photo_url": "https://chabadpedia.co.il/images/thumb/a/ad/%D7%94%D7%A8%D7%91_%D7%A9%D7%A9%D7%95%D7%A0%D7%A7%D7%99%D7%9F.jpg/220px-%D7%94%D7%A8%D7%91_%D7%A9%D7%A9%D7%95%D7%A0%D7%A7%D7%99%D7%9F.jpg",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1906,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1921,
+        "place_id": "rostov",
+        "event": "Emissary"
+      },
+      {
+        "year": 1930,
+        "place_id": "jerusalem",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1975,
+        "place_id": "jerusalem",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "rabbi-asher-sasonkin",
@@ -1984,8 +3277,23 @@
         "event": "Born"
       },
       {
+        "year": 1964,
+        "place_id": "jerusalem",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1965,
+        "place_id": "new-york",
+        "event": "Moved"
+      },
+      {
         "year": 1988,
         "place_id": "jerusalem",
+        "event": "Passed away"
+      },
+      {
+        "year": 1988,
+        "place_id": "new-york",
         "event": "Passed away"
       }
     ]
@@ -2007,13 +3315,43 @@
     "primary_place_id": null,
     "journey": [
       {
+        "year": 1910,
+        "place_id": "vladivostok",
+        "event": "Born"
+      },
+      {
+        "year": 1913,
+        "place_id": "shanghai",
+        "event": "Moved"
+      },
+      {
+        "year": 1924,
+        "place_id": "jerusalem",
+        "event": "Made aliya"
+      },
+      {
         "year": 1942,
         "place_id": "tel-aviv",
         "event": "Married"
       },
       {
+        "year": 1951,
+        "place_id": "new-york",
+        "event": "Visited Rebbe"
+      },
+      {
+        "year": 1960,
+        "place_id": "tel-aviv",
+        "event": "Appointed Rav"
+      },
+      {
         "year": 2007,
         "place_id": "tel-aviv",
+        "event": "Passed away"
+      },
+      {
+        "year": 2007,
+        "place_id": "tiberias",
         "event": "Passed away"
       }
     ]
@@ -2033,7 +3371,18 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/ירוחם_גרליק",
     "photo_url": null,
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": null,
+        "place_id": "bobruisk",
+        "event": "Born"
+      },
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      }
+    ]
   },
   {
     "id": "rabbi-yoel-kahn",
@@ -2057,7 +3406,32 @@
         "event": "Born"
       },
       {
+        "year": 1935,
+        "place_id": "ramat-gan",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1945,
+        "place_id": "tel-aviv",
+        "event": "Studied"
+      },
+      {
+        "year": 1951,
+        "place_id": "new-york",
+        "event": "Studied with Rebbe"
+      },
+      {
+        "year": 1954,
+        "place_id": "new-york",
+        "event": "Married"
+      },
+      {
         "year": 2020,
+        "place_id": "new-york",
+        "event": "Passed away"
+      },
+      {
+        "year": 2021,
         "place_id": "new-york",
         "event": "Passed away"
       },
@@ -2085,14 +3459,34 @@
     "primary_place_id": "jerusalem",
     "journey": [
       {
+        "year": 1887,
+        "place_id": "kazimirov",
+        "event": "Born"
+      },
+      {
         "year": 1888,
         "place_id": "kazimirov",
         "event": "Born"
       },
       {
+        "year": 1904,
+        "place_id": "kazimirov",
+        "event": "Appointed Rav"
+      },
+      {
         "year": 1934,
         "place_id": "jerusalem",
         "event": "Made aliya"
+      },
+      {
+        "year": 1934,
+        "place_id": "tel-aviv",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1937,
+        "place_id": "jerusalem",
+        "event": "Moved"
       },
       {
         "year": 1978,
@@ -2123,6 +3517,26 @@
         "event": "Born"
       },
       {
+        "year": 1904,
+        "place_id": "warsaw",
+        "event": "Born"
+      },
+      {
+        "year": 1913,
+        "place_id": "lubavitch",
+        "event": "Visited"
+      },
+      {
+        "year": 1926,
+        "place_id": "warsaw",
+        "event": "Studied"
+      },
+      {
+        "year": 1929,
+        "place_id": "warsaw",
+        "event": "Married"
+      },
+      {
         "year": 1930,
         "place_id": "warsaw",
         "event": "Appointed Mashpia"
@@ -2141,6 +3555,21 @@
         "year": 1940,
         "place_id": "lubavitch",
         "event": "Emigrated"
+      },
+      {
+        "year": 1941,
+        "place_id": "vilna",
+        "event": "Relocated"
+      },
+      {
+        "year": 1941,
+        "place_id": "new-york",
+        "event": "Arrived US"
+      },
+      {
+        "year": 1965,
+        "place_id": "jerusalem",
+        "event": "Moved"
       },
       {
         "year": 1975,
@@ -2171,6 +3600,26 @@
         "event": "Born"
       },
       {
+        "year": 1911,
+        "place_id": "samarkand",
+        "event": "Emissary"
+      },
+      {
+        "year": 1914,
+        "place_id": "lubavitch",
+        "event": "Yechidus"
+      },
+      {
+        "year": 1914,
+        "place_id": "jerusalem",
+        "event": "Returned"
+      },
+      {
+        "year": 1948,
+        "place_id": "jerusalem",
+        "event": "Manager Kollel Chabad"
+      },
+      {
         "year": 1954,
         "place_id": "jerusalem",
         "event": "Passed away"
@@ -2194,6 +3643,31 @@
     "primary_place_id": "kfar-chabad",
     "journey": [
       {
+        "year": 1897,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1898,
+        "place_id": "zembin",
+        "event": "Studied"
+      },
+      {
+        "year": 1940,
+        "place_id": "tashkent",
+        "event": "Settled"
+      },
+      {
+        "year": 1949,
+        "place_id": "kfar-chabad",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1974,
+        "place_id": "kfar-chabad",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "kfar-chabad",
         "event": "Appointed Rav"
@@ -2215,7 +3689,48 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שרגא_מלך_קפלן",
     "photo_url": "https://chabadpedia.co.il/images/4/45/%D7%9E%D7%9C%D7%9A_%D7%A7%D7%A4%D7%9C%D7%9F.jpg",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1927,
+        "place_id": "polotsk",
+        "event": "Studied"
+      },
+      {
+        "year": 1929,
+        "place_id": "nevel",
+        "event": "Studied"
+      },
+      {
+        "year": 1929,
+        "place_id": "yekaterinoslav",
+        "event": "Moved"
+      },
+      {
+        "year": 1935,
+        "place_id": "kharkov",
+        "event": "Imprisoned"
+      },
+      {
+        "year": 1939,
+        "place_id": "kharkov",
+        "event": "Married"
+      },
+      {
+        "year": 1945,
+        "place_id": "samarkand",
+        "event": "Relocated"
+      },
+      {
+        "year": 1949,
+        "place_id": "lod",
+        "event": "Founded yeshiva"
+      },
+      {
+        "year": 1981,
+        "place_id": "lod",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "rabbi-david-horodoker",
@@ -2232,7 +3747,23 @@
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/דוד_הורודוקר",
     "photo_url": "https://chabadpedia.co.il/images/thumb/1/16/%D7%93%D7%95%D7%93_%D7%94%D7%90%D7%A8%D7%90%D7%93%D7%90%D7%A7%D7%A2%D7%A8.png/250px-%D7%93%D7%95%D7%93_%D7%94%D7%90%D7%A8%D7%90%D7%93%D7%90%D7%A7%D7%A2%D7%A8.png",
     "primary_place_id": null,
-    "journey": []
+    "journey": [
+      {
+        "year": 1899,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1930,
+        "place_id": "homel",
+        "event": "Lived"
+      },
+      {
+        "year": 1943,
+        "place_id": "samarkand",
+        "event": "Passed away"
+      }
+    ]
   },
   {
     "id": "rabbi-moshe-yehuda-reichman",
@@ -2278,9 +3809,34 @@
         "event": "Studied"
       },
       {
+        "year": 1921,
+        "place_id": "lubavitch",
+        "event": "Married"
+      },
+      {
+        "year": 1926,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      },
+      {
         "year": 1927,
         "place_id": "new-york",
         "event": "Emigrated"
+      },
+      {
+        "year": 1940,
+        "place_id": "new-york",
+        "event": "Mashpia"
+      },
+      {
+        "year": 1941,
+        "place_id": "new-york",
+        "event": "Acquired 770"
+      },
+      {
+        "year": 1959,
+        "place_id": "kfar-chabad",
+        "event": "Founded school"
       },
       {
         "year": 1982,
@@ -2316,6 +3872,11 @@
         "event": "Born"
       },
       {
+        "year": 1920,
+        "place_id": "yekaterinoslav",
+        "event": "Appointed Rav"
+      },
+      {
         "year": 1921,
         "place_id": "rostov",
         "event": "Imprisoned"
@@ -2324,6 +3885,11 @@
         "year": 1921,
         "place_id": "rostov",
         "event": "Founded yeshiva"
+      },
+      {
+        "year": 1923,
+        "place_id": "yekaterinoslav",
+        "event": "Met Rayatz"
       },
       {
         "year": 1924,
@@ -2346,6 +3912,16 @@
         "event": "Traveled"
       },
       {
+        "year": 1929,
+        "place_id": "warsaw",
+        "event": "Married"
+      },
+      {
+        "year": 1929,
+        "place_id": "paris",
+        "event": "Lived"
+      },
+      {
         "year": 1931,
         "place_id": "warsaw",
         "event": "Traveled"
@@ -2364,21 +3940,6 @@
         "year": 1939,
         "place_id": "otwock",
         "event": "Escaped"
-      },
-      {
-        "year": 1939,
-        "place_id": "warsaw",
-        "event": "Yechidus"
-      },
-      {
-        "year": 1940,
-        "place_id": "new-york",
-        "event": "Escaped"
-      },
-      {
-        "year": 1994,
-        "place_id": "new-york",
-        "event": "Passed away"
       }
     ]
   },
@@ -2402,9 +3963,34 @@
         "event": "Born"
       },
       {
+        "year": 1916,
+        "place_id": "lubavitch",
+        "event": "Relocated"
+      },
+      {
+        "year": 1924,
+        "place_id": "rostov",
+        "event": "Moved"
+      },
+      {
         "year": 1928,
         "place_id": "warsaw",
         "event": "Married"
+      },
+      {
+        "year": 1928,
+        "place_id": "riga",
+        "event": "Relocated"
+      },
+      {
+        "year": 1929,
+        "place_id": "warsaw",
+        "event": "Married"
+      },
+      {
+        "year": 1933,
+        "place_id": "paris",
+        "event": "Relocated"
       },
       {
         "year": 1941,
@@ -2447,9 +4033,34 @@
         "event": "Born"
       },
       {
+        "year": 1925,
+        "place_id": "nevel",
+        "event": "Studied"
+      },
+      {
+        "year": 1933,
+        "place_id": "moscow",
+        "event": "Married"
+      },
+      {
+        "year": 1943,
+        "place_id": "samarkand",
+        "event": "Moved"
+      },
+      {
+        "year": 1946,
+        "place_id": "lviv",
+        "event": "Imprisoned"
+      },
+      {
         "year": 1961,
         "place_id": "vilna",
         "event": "Released"
+      },
+      {
+        "year": 1961,
+        "place_id": "kfar-chabad",
+        "event": "Made aliya"
       },
       {
         "year": 1990,
@@ -2493,6 +4104,21 @@
         "year": 1942,
         "place_id": "chicago",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "vitebsk",
+        "event": "Born"
+      },
+      {
+        "year": null,
+        "place_id": "liozna",
+        "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "mezhibuzh",
+        "event": "Visited Baal Shem Tov"
       }
     ],
     "birth_year": null,
@@ -2614,6 +4240,11 @@
         "year": null,
         "place_id": "liozna",
         "event": "Born to the Alter Rebbe"
+      },
+      {
+        "year": null,
+        "place_id": "vitebsk",
+        "event": "Born"
       }
     ],
     "birth_year": 1766,
@@ -2634,12 +4265,22 @@
     "bio": "Rebbetzin Freida was a deeply Chassidic daughter of the Alter Rebbe. Her father held her in high esteem and would deliver profound Chassidic discourses directly to her, which her brother the Mitteler Rebbe would secretly listen to. The Tzemach Tzedek described her spiritual gifts as a direct revelation from above.",
     "journey": [
       {
+        "year": 1813,
+        "place_id": "hadiach",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "liozna",
         "event": "Born"
       },
       {
-        "year": 1813,
+        "year": null,
+        "place_id": "vitebsk",
+        "event": "Born"
+      },
+      {
+        "year": null,
         "place_id": "hadiach",
         "event": "Passed away"
       }
@@ -2661,9 +4302,19 @@
     "bio": "Rabbi Chaim Avraham was the son of the Alter Rebbe and was known for his striking physical resemblance to his father. He was a man of few words with an aura of spiritual grace. After the Mitteler Rebbe's passing, he refused the leadership and insisted his nephew the Tzemach Tzedek take the mantle.",
     "journey": [
       {
+        "year": 1776,
+        "place_id": "liozna",
+        "event": "Born"
+      },
+      {
         "year": 1777,
         "place_id": "liozna",
         "event": "Born"
+      },
+      {
+        "year": 1808,
+        "place_id": "lubavitch",
+        "event": "Passed away"
       },
       {
         "year": 1848,
@@ -2701,6 +4352,16 @@
         "year": 1779,
         "place_id": "liozna",
         "event": "Born"
+      },
+      {
+        "year": 1798,
+        "place_id": "liozna",
+        "event": "Married"
+      },
+      {
+        "year": 1798,
+        "place_id": "ula",
+        "event": "Appointed Rav"
       },
       {
         "year": null,
@@ -2761,6 +4422,11 @@
         "year": null,
         "place_id": "liozna",
         "event": "Married Devorah Leah"
+      },
+      {
+        "year": null,
+        "place_id": "liadi",
+        "event": "Passed away"
       }
     ],
     "birth_year": 1772,
@@ -2786,6 +4452,16 @@
         "year": 1790,
         "place_id": "liozna",
         "event": "Born"
+      },
+      {
+        "year": 1803,
+        "place_id": "liadi",
+        "event": "Married"
+      },
+      {
+        "year": 1844,
+        "place_id": "lubavitch",
+        "event": "Passed away"
       },
       {
         "year": 1861,
@@ -2827,7 +4503,17 @@
         "event": "Born"
       },
       {
+        "year": 1829,
+        "place_id": "liadi",
+        "event": "Became Rebbe"
+      },
+      {
         "year": 1879,
+        "place_id": "liadi",
+        "event": "Passed away"
+      },
+      {
+        "year": 1880,
         "place_id": "liadi",
         "event": "Passed away"
       },
@@ -2861,17 +4547,22 @@
         "event": "Born"
       },
       {
-        "year": null,
+        "year": 1848,
         "place_id": "niezhin",
-        "event": "Appointed Rav"
+        "event": "Became Rebbe"
       },
       {
         "year": 1883,
         "place_id": "niezhin",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "niezhin",
+        "event": "Appointed Rav"
       }
     ],
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/ישראל_נח_שניאורסון",
     "photo_url": null
   },
   {
@@ -2892,6 +4583,11 @@
         "year": 1822,
         "place_id": "lubavitch",
         "event": "Born"
+      },
+      {
+        "year": 1858,
+        "place_id": "avritch",
+        "event": "Became Rebbe"
       },
       {
         "year": 1865,
@@ -2929,14 +4625,24 @@
     "bio": "Rabbi Yaakov was a son of the Tzemach Tzedek. He is mentioned in historical records alongside his brothers in the lineage of the Chabad Rebbes.",
     "journey": [
       {
-        "year": null,
+        "year": 1835,
         "place_id": "orsha",
-        "event": "Lived"
+        "event": "Married"
+      },
+      {
+        "year": 1837,
+        "place_id": "orsha",
+        "event": "Passed away"
       },
       {
         "year": 1876,
         "place_id": "orsha",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "orsha",
+        "event": "Lived"
       }
     ],
     "birth_place_id": null,
@@ -2965,14 +4671,14 @@
         "event": "Born"
       },
       {
-        "year": null,
-        "place_id": "lubavitch",
-        "event": "Married"
-      },
-      {
         "year": 1914,
         "place_id": "lubavitch",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Married"
       }
     ],
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/הרבנית_רבקה",
@@ -2997,6 +4703,11 @@
       },
       {
         "year": 1873,
+        "place_id": "lubavitch",
+        "event": "Married"
+      },
+      {
+        "year": 1874,
         "place_id": "lubavitch",
         "event": "Married"
       },
@@ -3138,6 +4849,11 @@
         "event": "Born"
       },
       {
+        "year": 1882,
+        "place_id": "kishinev",
+        "event": "Born"
+      },
+      {
         "year": 1897,
         "place_id": "lubavitch",
         "event": "Married"
@@ -3151,6 +4867,16 @@
         "year": 1940,
         "place_id": "new-york",
         "event": "Emigrated"
+      },
+      {
+        "year": 1950,
+        "place_id": "new-york",
+        "event": "Husband passed away"
+      },
+      {
+        "year": 1970,
+        "place_id": "new-york",
+        "event": "Passed away"
       },
       {
         "year": 1971,
@@ -3210,6 +4936,21 @@
         "event": "Born"
       },
       {
+        "year": 1921,
+        "place_id": "rostov",
+        "event": "Married"
+      },
+      {
+        "year": 1928,
+        "place_id": "riga",
+        "event": "Relocated"
+      },
+      {
+        "year": 1933,
+        "place_id": "warsaw",
+        "event": "Relocated"
+      },
+      {
         "year": 1940,
         "place_id": "new-york",
         "event": "Emigrated"
@@ -3245,6 +4986,16 @@
         "year": 1921,
         "place_id": "lubavitch",
         "event": "Married"
+      },
+      {
+        "year": 1921,
+        "place_id": "rostov",
+        "event": "Married"
+      },
+      {
+        "year": 1929,
+        "place_id": "tel-aviv",
+        "event": "Visited Israel"
       },
       {
         "year": 1940,
@@ -3307,6 +5058,11 @@
         "event": "Traveled"
       },
       {
+        "year": 1776,
+        "place_id": "vilna",
+        "event": "Visited Vilna Gaon"
+      },
+      {
         "year": 1777,
         "place_id": "tiberias",
         "event": "Made aliya"
@@ -3340,6 +5096,21 @@
         "year": 1788,
         "place_id": "tiberias",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "minsk",
+        "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "vitebsk",
+        "event": "Settled"
+      },
+      {
+        "year": null,
+        "place_id": "tiberias",
+        "event": "Settled"
       }
     ],
     "birth_place_id": "vitebsk",
@@ -3417,7 +5188,7 @@
     "birth_place_id": "kalisk",
     "death_place_id": null,
     "primary_place_id": "kalisk",
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אברהם_מקאליסק",
     "photo_url": null
   },
   {
@@ -3432,6 +5203,11 @@
     "bio": "Rabbi Levi Yitzchak of Berditchev was a famous Chassidic master and close colleague of the Alter Rebbe. He constantly advocated for the Jewish people before the Heavenly Court. He married into the Alter Rebbe's family at the 'Great Wedding' in Zhlobin.",
     "journey": [
       {
+        "year": 1771,
+        "place_id": "pinsk",
+        "event": "Appointed Rav"
+      },
+      {
         "year": 1785,
         "place_id": "berditchev",
         "event": "Traveled"
@@ -3440,6 +5216,11 @@
         "year": 1800,
         "place_id": "berditchev",
         "event": "Traveled"
+      },
+      {
+        "year": 1804,
+        "place_id": "zhlobin",
+        "event": "Wedding"
       },
       {
         "year": 1805,
@@ -3490,14 +5271,34 @@
         "event": "Born"
       },
       {
-        "year": null,
+        "year": 1797,
+        "place_id": "prohovitch",
+        "event": "Born"
+      },
+      {
+        "year": 1838,
+        "place_id": "ruzhin",
+        "event": "Established court"
+      },
+      {
+        "year": 1838,
+        "place_id": "siberia",
+        "event": "Arrested"
+      },
+      {
+        "year": 1842,
         "place_id": "sadigura",
-        "event": "Lived"
+        "event": "Settled"
       },
       {
         "year": 1850,
         "place_id": "sadigura",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "sadigura",
+        "event": "Lived"
       }
     ],
     "birth_place_id": "ruzhin",
@@ -3518,14 +5319,14 @@
     "bio": "Rabbi Shlomo of Karlin was a major Chassidic leader and a colleague of the Alter Rebbe. Once, when he visited Liozna, the Alter Rebbe sent his sons to welcome him outside the city, remarking on his exceptional spiritual stature.",
     "journey": [
       {
-        "year": null,
-        "place_id": "karlin",
-        "event": "Lived"
-      },
-      {
         "year": 1792,
         "place_id": "ludmir",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "karlin",
+        "event": "Lived"
       }
     ],
     "birth_place_id": null,
@@ -3547,6 +5348,21 @@
         "year": null,
         "place_id": "liozna",
         "event": "Became a devoted Chassid of the Alter Rebbe"
+      },
+      {
+        "year": null,
+        "place_id": "kalisk",
+        "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "polotsk",
+        "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "beshankovich",
+        "event": "Lived"
       }
     ],
     "birth_year": null,
@@ -3573,6 +5389,31 @@
         "year": 1761,
         "place_id": "vilna",
         "event": "Born"
+      },
+      {
+        "year": 1774,
+        "place_id": "shvintzian",
+        "event": "Studied"
+      },
+      {
+        "year": 1776,
+        "place_id": "vilna",
+        "event": "Studied"
+      },
+      {
+        "year": 1790,
+        "place_id": "vilna",
+        "event": "Married"
+      },
+      {
+        "year": 1799,
+        "place_id": "vilna",
+        "event": "Arrested"
+      },
+      {
+        "year": 1801,
+        "place_id": "bobruisk",
+        "event": "Appointed Rav"
       },
       {
         "year": 1814,
@@ -3621,6 +5462,11 @@
     "bio": "Rabbi David Tzvi Chen, known as Radatz, was a prominent Chabad Rabbi and halachic authority in Chernigov. He was a deeply respected elder Chassid who frequently consulted with the Rebbe Rashab.",
     "journey": [
       {
+        "year": 1865,
+        "place_id": "chernigov",
+        "event": "Appointed Rav"
+      },
+      {
         "year": 1925,
         "place_id": "jerusalem",
         "event": "Passed away"
@@ -3629,6 +5475,11 @@
         "year": null,
         "place_id": "jerusalem",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Visited Tzemach Tzedek"
       }
     ],
     "birth_year": 1847,
@@ -3884,6 +5735,16 @@
     "bio": "Rabbi Yaakov Mordechai Bezpalov served as the Rabbi of Poltava and was a deeply respected Chassid. He was a leading figure during the eras of the Rebbe Maharash and Rebbe Rashab.",
     "journey": [
       {
+        "year": 1846,
+        "place_id": "poltava",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1916,
+        "place_id": "poltava",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "poltava",
         "event": "Appointed Rav"
@@ -3899,7 +5760,7 @@
     "birth_place_id": null,
     "death_place_id": "poltava",
     "primary_place_id": "poltava",
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יעקב_מרדכי_בעזפאלאוו",
     "photo_url": null
   },
   {
@@ -3922,7 +5783,7 @@
     "birth_place_id": null,
     "death_place_id": "kremenchug",
     "primary_place_id": "kremenchug",
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יוסף_תומארקין",
     "photo_url": null
   },
   {
@@ -3958,6 +5819,26 @@
     "bio": "Rabbi Yitzchak Dubov was a respected Chassid and mashpia. He was actively involved in guiding students in the ways of Chassidus.",
     "journey": [
       {
+        "year": 1901,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1921,
+        "place_id": "riga",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1928,
+        "place_id": "manchester",
+        "event": "Moved"
+      },
+      {
+        "year": 1978,
+        "place_id": "manchester",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "riga",
         "event": "Appointed Rav"
@@ -3968,7 +5849,7 @@
     "birth_place_id": "yakshitz",
     "death_place_id": "manchester",
     "primary_place_id": "manchester",
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יצחק_דובאוו",
     "photo_url": "https://chabadpedia.co.il/images/5/56/%D7%99%D7%A6%D7%97%D7%A7_%D7%93%D7%95%D7%91%D7%95%D7%91.JPG"
   },
   {
@@ -3994,14 +5875,39 @@
         "event": "Appointed Mashpia"
       },
       {
+        "year": 1909,
+        "place_id": "rakshik",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1926,
+        "place_id": "nevel",
+        "event": "Head of seminary"
+      },
+      {
         "year": 1929,
         "place_id": "nevel",
         "event": "Imprisoned"
       },
       {
+        "year": 1929,
+        "place_id": "siberia",
+        "event": "Exiled"
+      },
+      {
+        "year": 1937,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      },
+      {
         "year": 1938,
         "place_id": "new-york",
         "event": "Emigrated"
+      },
+      {
+        "year": 1942,
+        "place_id": "montreal",
+        "event": "Founded yeshiva"
       },
       {
         "year": 1974,
@@ -4011,7 +5917,7 @@
     ],
     "birth_place_id": "pohar",
     "primary_place_id": "rakshik",
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/שמואל_לויטין",
     "photo_url": "https://drive.google.com/thumbnail?id=1xnsT5aLiReZijPEq-ZpI0tTmJ41jSPvI&sz=w800"
   },
   {
@@ -4034,6 +5940,11 @@
         "event": "Born"
       },
       {
+        "year": 1901,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
         "year": 1923,
         "place_id": "new-york",
         "event": "Emigrated"
@@ -4047,6 +5958,11 @@
         "year": 1929,
         "place_id": "new-york",
         "event": "Emigrated"
+      },
+      {
+        "year": 1940,
+        "place_id": "new-york",
+        "event": "Appointed gabbai"
       },
       {
         "year": 1976,
@@ -4075,6 +5991,21 @@
         "event": "Born"
       },
       {
+        "year": 1896,
+        "place_id": "zuravitz",
+        "event": "Born"
+      },
+      {
+        "year": 1908,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1920,
+        "place_id": "homel",
+        "event": "Married"
+      },
+      {
         "year": 1925,
         "place_id": "riga",
         "event": "Traveled"
@@ -4095,6 +6026,11 @@
         "event": "Traveled"
       },
       {
+        "year": 1926,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      },
+      {
         "year": 1927,
         "place_id": "riga",
         "event": "Imprisoned"
@@ -4103,6 +6039,11 @@
         "year": 1928,
         "place_id": "new-york",
         "event": "Married"
+      },
+      {
+        "year": 1932,
+        "place_id": "new-york",
+        "event": "Founded yeshiva"
       },
       {
         "year": 1975,
@@ -4144,12 +6085,32 @@
         "event": "Traveled"
       },
       {
+        "year": 1927,
+        "place_id": "riga",
+        "event": "Helped release Rayatz"
+      },
+      {
         "year": 1941,
         "place_id": "riga",
         "event": "Released"
       },
       {
+        "year": 1941,
+        "place_id": "moscow",
+        "event": "Released"
+      },
+      {
+        "year": 1948,
+        "place_id": "siberia",
+        "event": "Re-arrested"
+      },
+      {
         "year": 1956,
+        "place_id": "tula",
+        "event": "Passed away"
+      },
+      {
+        "year": 1957,
         "place_id": "tula",
         "event": "Passed away"
       },
@@ -4175,7 +6136,32 @@
     "bio": "Rabbi Levi Yitzchak Slonim was a leading figure of the Chabad community in Hebron. He served as a community leader and managed the affairs of Kollel Chabad in the Holy City.",
     "journey": [
       {
+        "year": 1833,
+        "place_id": "lubavitch",
+        "event": "Born"
+      },
+      {
+        "year": 1875,
+        "place_id": "hebron",
+        "event": "Moved"
+      },
+      {
+        "year": 1878,
+        "place_id": "hebron",
+        "event": "Married"
+      },
+      {
+        "year": 1885,
+        "place_id": "hebron",
+        "event": "Manager of kollel"
+      },
+      {
         "year": 1895,
+        "place_id": "hebron",
+        "event": "Passed away"
+      },
+      {
+        "year": 1915,
         "place_id": "hebron",
         "event": "Passed away"
       },
@@ -4188,7 +6174,7 @@
     "birth_year": null,
     "death_year": null,
     "birth_place_id": null,
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/לוי_יצחק_סלונים",
     "photo_url": null
   },
   {
@@ -4202,6 +6188,21 @@
     "bio": "Rabbi Yaakov Kuli Slonim was a significant member of the Slonim family in Hebron. He was the esteemed son-in-law of the Mitteler Rebbe.",
     "journey": [
       {
+        "year": 1813,
+        "place_id": "lubavitch",
+        "event": "Married"
+      },
+      {
+        "year": 1855,
+        "place_id": "hebron",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1857,
+        "place_id": "jerusalem",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "hebron",
         "event": "Lived as a prominent Chassid"
@@ -4211,7 +6212,7 @@
     "death_year": null,
     "birth_place_id": null,
     "death_place_id": null,
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יעקב_כולי_סלונים",
     "photo_url": null
   },
   {
@@ -4229,6 +6230,21 @@
         "year": 1840,
         "place_id": "lubavitch",
         "event": "Born"
+      },
+      {
+        "year": 1881,
+        "place_id": "hebron",
+        "event": "Moved"
+      },
+      {
+        "year": 1895,
+        "place_id": "hebron",
+        "event": "Manager of kollel"
+      },
+      {
+        "year": 1915,
+        "place_id": "hebron",
+        "event": "Passed away"
       },
       {
         "year": 1916,
@@ -4265,9 +6281,24 @@
         "event": "Born"
       },
       {
+        "year": 1816,
+        "place_id": "tzfat",
+        "event": "Made aliya"
+      },
+      {
+        "year": 1823,
+        "place_id": "hebron",
+        "event": "Moved"
+      },
+      {
         "year": 1849,
         "place_id": "hebron",
         "event": "Married"
+      },
+      {
+        "year": 1883,
+        "place_id": "hebron",
+        "event": "Passed away"
       },
       {
         "year": 1893,
@@ -4411,13 +6442,24 @@
     "generation": 6,
     "role": "Chossid",
     "bio": "Rabbi Chaim Futerfas was a dedicated member of the Chabad underground in Russia. He worked tirelessly to preserve and sustain Jewish practice under the oppressive Soviet regime.",
-    "journey": [],
+    "journey": [
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Visited Alter Rebbe"
+      },
+      {
+        "year": null,
+        "place_id": "kharkov",
+        "event": "Passed away"
+      }
+    ],
     "birth_year": null,
     "death_year": null,
     "birth_place_id": null,
     "death_place_id": null,
     "primary_place_id": null,
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/חיים_פוטרפס",
     "photo_url": null
   },
   {
@@ -4432,14 +6474,39 @@
     "bio": "Rabbi Yitzchak Horowitz, famously known as Itche Der Masmid, was an exceptionally devoted Chassid. He traveled widely as an emissary to strengthen Judaism before being tragically murdered in the Holocaust.",
     "journey": [
       {
+        "year": 1890,
+        "place_id": "kherson",
+        "event": "Born"
+      },
+      {
+        "year": 1907,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1929,
+        "place_id": "riga",
+        "event": "Settled"
+      },
+      {
         "year": 1933,
         "place_id": "new-york",
+        "event": "Emigrated"
+      },
+      {
+        "year": 1933,
+        "place_id": "warsaw",
         "event": "Emigrated"
       },
       {
         "year": 1941,
         "place_id": "kherson",
         "event": "Passed away"
+      },
+      {
+        "year": 1941,
+        "place_id": "riga",
+        "event": "Killed Al Kiddush Hashem"
       }
     ],
     "birth_year": 1890,
@@ -4615,7 +6682,7 @@
     "death_year": null,
     "birth_place_id": null,
     "death_place_id": null,
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/שרגא_פייוויש_זלמנוב",
     "photo_url": "https://chabadpedia.co.il/images/d/d5/%D7%A9%D7%A8%D7%92%D7%90_%D7%A4%D7%99%D7%99%D7%91%D7%99%D7%A9_%D7%96%D7%9C%D7%9E%D7%A0%D7%95%D7%91.jpg"
   },
   {
@@ -4637,9 +6704,34 @@
         "event": "Born"
       },
       {
+        "year": 1904,
+        "place_id": "riga",
+        "event": "Relocated"
+      },
+      {
+        "year": 1920,
+        "place_id": "riga",
+        "event": "School principal"
+      },
+      {
+        "year": 1927,
+        "place_id": "riga",
+        "event": "Met Rayatz"
+      },
+      {
+        "year": 1939,
+        "place_id": "riga",
+        "event": "Married"
+      },
+      {
         "year": 1940,
         "place_id": "new-york",
         "event": "Emigrated"
+      },
+      {
+        "year": 1942,
+        "place_id": "new-york",
+        "event": "Director of education"
       },
       {
         "year": 1993,
@@ -4673,6 +6765,11 @@
         "event": "Imprisoned"
       },
       {
+        "year": 1927,
+        "place_id": "warsaw",
+        "event": "Emigrated"
+      },
+      {
         "year": 1928,
         "place_id": "tambov",
         "event": "Imprisoned"
@@ -4698,14 +6795,29 @@
         "event": "Emigrated"
       },
       {
+        "year": 1940,
+        "place_id": "new-york",
+        "event": "Arrived US"
+      },
+      {
         "year": 1991,
         "place_id": "new-york",
+        "event": "Passed away"
+      },
+      {
+        "year": 1991,
+        "place_id": "jerusalem",
         "event": "Passed away"
       },
       {
         "year": null,
         "place_id": "tambov",
         "event": "Arrested and exiled by Soviet authorities"
+      },
+      {
+        "year": null,
+        "place_id": "rostov",
+        "event": "Served Rayatz"
       }
     ],
     "birth_year": 1892,
@@ -4724,9 +6836,24 @@
     "bio": "Rabbi Menachem Mendel Feldman was a dedicated Chassid and a prominent Torah scholar who assisted the Rebbe Rayatz's efforts. Known for his exceptional brilliance, he served as a respected Rabbi in Baltimore.",
     "journey": [
       {
+        "year": 1944,
+        "place_id": "new-york",
+        "event": "Appointed Beit Din"
+      },
+      {
+        "year": 2008,
+        "place_id": "baltimore",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "baltimore",
         "event": "Served as Rabbi"
+      },
+      {
+        "year": null,
+        "place_id": "new-york",
+        "event": "Studied"
       }
     ],
     "birth_year": null,
@@ -4734,7 +6861,7 @@
     "birth_place_id": null,
     "death_place_id": null,
     "primary_place_id": "baltimore",
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/מנחם_מענדל_פלדמן",
     "photo_url": "https://chabadpedia.co.il/images/e/e4/%D7%9E%D7%A2%D7%A0%D7%93%D7%9C_%D7%A4%D7%9C%D7%93%D7%9E%D7%9F.jpg"
   },
   {
@@ -4749,15 +6876,30 @@
     "bio": "Mr. Chaim Shlomo Palmer was a dedicated philanthropist and activist based in Chicago. He consistently supported Chabad institutions and was highly active in the Agudas Chasidei Chabad.",
     "journey": [
       {
+        "year": 1949,
+        "place_id": "jerusalem",
+        "event": "Visited"
+      },
+      {
+        "year": 1965,
+        "place_id": "chicago",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "chicago",
         "event": "Supported Chabad institutions as a community leader"
+      },
+      {
+        "year": null,
+        "place_id": "lubavitch",
+        "event": "Studied"
       }
     ],
     "birth_year": null,
     "death_year": null,
     "birth_place_id": null,
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/חיים_שלמה_פלמר",
     "photo_url": null
   },
   {
@@ -4772,9 +6914,24 @@
     "bio": "Rabbi Yosef Weinberg was a prominent activist who played an essential role in building Chabad in America. He is famously known for broadcasting Chassidic teachings on the radio, greatly expanding the reach of the movement.",
     "journey": [
       {
+        "year": 1918,
+        "place_id": "warsaw",
+        "event": "Studied"
+      },
+      {
+        "year": 1939,
+        "place_id": "warsaw",
+        "event": "Accompanied Rebbe"
+      },
+      {
         "year": 1941,
         "place_id": "montreal",
         "event": "Founded yeshiva"
+      },
+      {
+        "year": 1942,
+        "place_id": "montreal",
+        "event": "Founded community"
       },
       {
         "year": 2012,
@@ -4785,6 +6942,11 @@
         "year": null,
         "place_id": "new-york",
         "event": "Emigrated"
+      },
+      {
+        "year": null,
+        "place_id": "shanghai",
+        "event": "Escaped"
       }
     ],
     "birth_year": 1918,
@@ -4804,14 +6966,24 @@
     "bio": "Rabbi Yaakov Yosef of Polonne was a leading disciple of the Baal Shem Tov and the author of the foundational text Toldot Yaakov Yosef. He was the very first to publish Chassidic teachings in print, extensively citing and explaining the words of his master.",
     "journey": [
       {
-        "year": null,
+        "year": 1770,
         "place_id": "polonne",
         "event": "Appointed Rav"
+      },
+      {
+        "year": 1782,
+        "place_id": "polonne",
+        "event": "Passed away"
       },
       {
         "year": 1784,
         "place_id": "polonne",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "polonne",
+        "event": "Appointed Rav"
       }
     ],
     "birth_year": null,
@@ -4830,6 +7002,16 @@
     "role": "Pre-Chabad Teacher",
     "bio": "Rabbi Pinchas of Koretz was a prominent early Chassidic master and a close colleague of the Baal Shem Tov. He was highly revered for his immense piety, his focus on the attribute of truth, and his central role in the early spread of the movement.",
     "journey": [
+      {
+        "year": 1726,
+        "place_id": "shklov",
+        "event": "Born"
+      },
+      {
+        "year": 1790,
+        "place_id": "koretz",
+        "event": "Passed away"
+      },
       {
         "year": null,
         "place_id": "koretz",
@@ -4854,6 +7036,11 @@
     "bio": "Rabbi Yechiel Michel of Zlotchov was a major disciple of both the Baal Shem Tov and the Maggid of Mezritch. He was an influential early master who guided many of the subsequent leaders of the Chassidic movement through his fiery devotion and teachings.",
     "journey": [
       {
+        "year": 1746,
+        "place_id": "brody",
+        "event": "Born"
+      },
+      {
         "year": 1781,
         "place_id": "zlotchov",
         "event": "Passed away"
@@ -4862,6 +7049,11 @@
         "year": null,
         "place_id": "zlotchov",
         "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "brody",
+        "event": "Studied"
       }
     ],
     "birth_year": 1726,
@@ -4884,9 +7076,19 @@
     "bio": "Rabbi Meshulam Zusia of Anipoli was a famous, deeply pious Chassidic master and a beloved disciple of the Maggid of Mezritch. Known for his profound humility and simple devotion, he remains one of the most endearing and legendary figures in Chassidic history.",
     "journey": [
       {
+        "year": 1800,
+        "place_id": "mezritch",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "anipoli",
         "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "mezritch",
+        "event": "Studied"
       }
     ],
     "birth_year": null,
@@ -4907,14 +7109,19 @@
     "bio": "Rabbi Elimelech of Lizhensk was a leading disciple of the Maggid of Mezritch and the author of the classic text Noam Elimelech. He was the primary architect of the Chassidic movement in Poland, establishing the archetype of the Chassidic Tzaddik.",
     "journey": [
       {
-        "year": null,
-        "place_id": "lizhensk",
-        "event": "Lived"
+        "year": 1717,
+        "place_id": "mezritch",
+        "event": "Studied with Maggid"
       },
       {
         "year": 1787,
         "place_id": "lizhensk",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "lizhensk",
+        "event": "Lived"
       }
     ],
     "birth_place_id": null,
@@ -4932,6 +7139,21 @@
     "role": "Pre-Chabad Teacher",
     "bio": "Rabbi Shmuel Shmelke of Nikolsburg was a prominent disciple of the Maggid of Mezritch and an influential leader who served as the Chief Rabbi of Moravia. Together with his brother, Rabbi Pinchas Horowitz, he brought the fervor of Chassidism to the mainstream rabbinic world.",
     "journey": [
+      {
+        "year": 1746,
+        "place_id": "chortkov",
+        "event": "Born"
+      },
+      {
+        "year": 1773,
+        "place_id": "nikolsburg",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1788,
+        "place_id": "nikolsburg",
+        "event": "Passed away"
+      },
       {
         "year": null,
         "place_id": "nikolsburg",
@@ -5020,6 +7242,11 @@
         "year": null,
         "place_id": "karlin",
         "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "mezritch",
+        "event": "Studied"
       }
     ],
     "birth_year": 1736,
@@ -5042,14 +7269,29 @@
     "bio": "Rabbi Menachem Nachum of Chernobyl was a disciple of both the Baal Shem Tov and the Maggid of Mezritch. He was the author of the classic Chassidic work Meor Einayim and established the foundation for the Chernobyl Chassidic dynasty.",
     "journey": [
       {
-        "year": null,
+        "year": 1718,
         "place_id": "chernobyl",
         "event": "Lived"
+      },
+      {
+        "year": 1787,
+        "place_id": "chernobyl",
+        "event": "Passed away"
       },
       {
         "year": 1798,
         "place_id": "chernobyl",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "chernobyl",
+        "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "prohovitch",
+        "event": "Appointed Rav"
       }
     ],
     "birth_place_id": null,
@@ -5066,7 +7308,18 @@
     "generation": 1,
     "role": "Pre-Chabad Teacher",
     "bio": "Rabbi Mordechai of Chernobyl was a prominent Chassidic Rebbe and the son of Rabbi Menachem Nachum. He significantly expanded the Chernobyl dynasty, becoming a highly influential figure who maintained ties with the leaders of Chabad.",
-    "journey": [],
+    "journey": [
+      {
+        "year": 1770,
+        "place_id": "chernobyl",
+        "event": "Born"
+      },
+      {
+        "year": 1837,
+        "place_id": "chernobyl",
+        "event": "Passed away"
+      }
+    ],
     "birth_year": 1770,
     "death_year": 1837,
     "birth_place_id": null,
@@ -5086,6 +7339,21 @@
     "role": "Pre-Chabad Teacher",
     "bio": "Rabbi Baruch of Medzhybizh was the grandson of the Baal Shem Tov and an early, assertive Chassidic leader. He held court with regal bearing in Medzhybizh and was a major, sometimes controversial, authority in the emerging Chassidic world.",
     "journey": [
+      {
+        "year": 1757,
+        "place_id": "mezhibuzh",
+        "event": "Born"
+      },
+      {
+        "year": 1792,
+        "place_id": "mezhibuzh",
+        "event": "Established court"
+      },
+      {
+        "year": 1811,
+        "place_id": "mezhibuzh",
+        "event": "Passed away"
+      },
       {
         "year": null,
         "place_id": "mezhibuzh",
@@ -5123,7 +7391,13 @@
     "generation": 1,
     "role": "Pre-Chabad Teacher",
     "bio": "Rabbi Leib Sarah's was a renowned hidden tzaddik and a contemporary of the early Chabad Rebbes. Wandering across Eastern Europe, he devoted his life to mystical intercession, ransoming Jewish captives, and supporting hidden scholars.",
-    "journey": [],
+    "journey": [
+      {
+        "year": 1743,
+        "place_id": "mezhibuzh",
+        "event": "Visited Baal Shem Tov"
+      }
+    ],
     "birth_year": 1730,
     "death_year": 1791,
     "birth_place_id": null,
@@ -5144,6 +7418,21 @@
     "bio": "Rabbi Yissachar Dov of Lubavitch was an early disciple of the Maggid of Mezritch. He established a Chassidic presence in the town of Lubavitch years before the Alter Rebbe's successors made it the movement's capital.",
     "journey": [
       {
+        "year": 1777,
+        "place_id": "mezritch",
+        "event": "Studied"
+      },
+      {
+        "year": 1785,
+        "place_id": "lubavitch",
+        "event": "Lived"
+      },
+      {
+        "year": 1794,
+        "place_id": "lubavitch",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "lubavitch",
         "event": "Lived"
@@ -5152,7 +7441,7 @@
     "birth_year": null,
     "death_year": null,
     "birth_place_id": null,
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/ישכר_דוב_מליובאוויטש",
     "photo_url": null
   },
   {
@@ -5181,6 +7470,21 @@
     "role": "Pre-Chabad Teacher",
     "bio": "Rabbi Avraham, known as the \"Malach\" (Angel), was the son of the Maggid of Mezritch. He was celebrated for his extreme asceticism and otherworldly piety, completely detaching himself from physical desires.",
     "journey": [
+      {
+        "year": 1741,
+        "place_id": "fastov",
+        "event": "Born"
+      },
+      {
+        "year": 1772,
+        "place_id": "fastov",
+        "event": "Became leader"
+      },
+      {
+        "year": 1776,
+        "place_id": "fastov",
+        "event": "Passed away"
+      },
       {
         "year": null,
         "place_id": "mezritch",
@@ -5238,6 +7542,21 @@
         "event": "Born"
       },
       {
+        "year": 1779,
+        "place_id": "liadi",
+        "event": "Settled"
+      },
+      {
+        "year": 1801,
+        "place_id": "orsha",
+        "event": "Moved"
+      },
+      {
+        "year": 1813,
+        "place_id": "strashelye",
+        "event": "Established court"
+      },
+      {
         "year": 1825,
         "place_id": "strashelye",
         "event": "Imprisoned"
@@ -5281,9 +7600,29 @@
     "bio": "Rabbi Yitzchak Goldin was a prominent Chassid who personally assisted the Rebbe Rashab during his final illness in Rostov. Arrested in 1932 for his involvement in the Chabad educational underground, he survived a commuted death sentence and exile in Kazakhstan before escaping to the United States in 1946.",
     "journey": [
       {
+        "year": 1914,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1922,
+        "place_id": "rogatchov",
+        "event": "Returned"
+      },
+      {
         "year": 1932,
         "place_id": "new-york",
         "event": "Imprisoned"
+      },
+      {
+        "year": 1935,
+        "place_id": "siberia",
+        "event": "Imprisoned"
+      },
+      {
+        "year": 1938,
+        "place_id": "alma-ata",
+        "event": "Exiled"
       },
       {
         "year": 1947,
@@ -5291,7 +7630,22 @@
         "event": "Imprisoned"
       },
       {
+        "year": 1950,
+        "place_id": "paris",
+        "event": "Lived"
+      },
+      {
+        "year": 1956,
+        "place_id": "new-york",
+        "event": "Settled"
+      },
+      {
         "year": 1968,
+        "place_id": "new-york",
+        "event": "Passed away"
+      },
+      {
+        "year": 1969,
         "place_id": "new-york",
         "event": "Passed away"
       },
@@ -5301,7 +7655,7 @@
         "event": "Emigrated"
       }
     ],
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יצחק_גולדין",
     "photo_url": null
   },
   {
@@ -5376,9 +7730,54 @@
     "bio": "Rabbi Yehuda Chitrik was a highly respected elder Chassid and the author of the biographical series Reshimot Devarim. Living to be over a hundred years old, he served as a living bridge to the movement's past, meticulously recording and transmitting the oral history of the Chabad Rebbes.",
     "journey": [
       {
+        "year": 1898,
+        "place_id": "krasnaluki",
+        "event": "Born"
+      },
+      {
         "year": 1899,
         "place_id": "krasnaluki",
         "event": "Born"
+      },
+      {
+        "year": 1909,
+        "place_id": "borisov",
+        "event": "Studied"
+      },
+      {
+        "year": 1913,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1918,
+        "place_id": "rostov",
+        "event": "Visited Rebbe"
+      },
+      {
+        "year": 1925,
+        "place_id": "kharkov",
+        "event": "Married"
+      },
+      {
+        "year": 1939,
+        "place_id": "samarkand",
+        "event": "Fled"
+      },
+      {
+        "year": 1946,
+        "place_id": "antwerp",
+        "event": "Settled"
+      },
+      {
+        "year": 1950,
+        "place_id": "montreal",
+        "event": "Moved"
+      },
+      {
+        "year": 1975,
+        "place_id": "new-york",
+        "event": "Relocated"
       },
       {
         "year": 2006,
@@ -5412,8 +7811,49 @@
     "primary_place_id": null,
     "role": "Chossid",
     "bio": "Rabbi Tzvi Chitrik was a devoted Chassid and the father of Rabbi Yehuda Chitrik. He maintained a strong connection to the Chabad leadership and instilled a deep love for Chassidic tradition, scholarship, and storytelling in his family.",
-    "journey": [],
-    "chabadpedia_url": null,
+    "journey": [
+      {
+        "year": 1927,
+        "place_id": "kharkov",
+        "event": "Born"
+      },
+      {
+        "year": 1941,
+        "place_id": "samarkand",
+        "event": "Fled"
+      },
+      {
+        "year": 1946,
+        "place_id": "antwerp",
+        "event": "Relocated"
+      },
+      {
+        "year": 1948,
+        "place_id": "new-york",
+        "event": "Studied"
+      },
+      {
+        "year": 1951,
+        "place_id": "new-york",
+        "event": "Married"
+      },
+      {
+        "year": 1953,
+        "place_id": "new-york",
+        "event": "Emissary Brazil"
+      },
+      {
+        "year": 1960,
+        "place_id": "new-york",
+        "event": "Returned"
+      },
+      {
+        "year": 2011,
+        "place_id": "new-york",
+        "event": "Passed away"
+      }
+    ],
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/צבי_הירש_חיטריק",
     "photo_url": "https://chabadpedia.co.il/images/8/87/%D7%94%D7%99%D7%A8%D7%A9_%D7%97%D7%99%D7%98%D7%A8%D7%99%D7%A7.jpg"
   },
   {
@@ -5431,12 +7871,42 @@
     "bio": "Rabbi Yaakov Yisrael Zuber was a prominent Chabad Rabbi who initially served as an emissary in Soviet Georgia to strengthen local Jewish communities. After escaping the Soviet Union, he served as a rabbi in Stockholm, Sweden, before ultimately immigrating to the United States.",
     "journey": [
       {
+        "year": 1896,
+        "place_id": "shchedrin",
+        "event": "Born"
+      },
+      {
+        "year": 1929,
+        "place_id": "riga",
+        "event": "Settled"
+      },
+      {
+        "year": 1932,
+        "place_id": "stockholm",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1945,
+        "place_id": "new-york",
+        "event": "Emigrated US"
+      },
+      {
+        "year": 1948,
+        "place_id": "new-york",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1953,
+        "place_id": "new-york",
+        "event": "Killed Al Kiddush Hashem"
+      },
+      {
         "year": null,
         "place_id": "new-york",
         "event": "Emigrated"
       }
     ],
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/יעקב_ישראל_זובער",
     "photo_url": "https://chabadpedia.co.il/images/1/13/%D7%99%D7%A2%D7%A7%D7%91_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%96%D7%95%D7%91%D7%A2%D7%A8.jpg"
   },
   {
@@ -5454,7 +7924,32 @@
     "bio": "Rabbi Zalman Shimon Dvorkin was a deeply respected Torah scholar and Chassid. He served for many decades as the central halachic authority (Mara D'Asra) for the Crown Heights Chabad community, guiding thousands with his extensive halachic expertise.",
     "journey": [
       {
-        "year": null,
+        "year": 1900,
+        "place_id": "rogatchov",
+        "event": "Born"
+      },
+      {
+        "year": 1912,
+        "place_id": "lubavitch",
+        "event": "Studied"
+      },
+      {
+        "year": 1937,
+        "place_id": "leningrad",
+        "event": "Fled"
+      },
+      {
+        "year": 1948,
+        "place_id": "brunoy",
+        "event": "Mashpia"
+      },
+      {
+        "year": 1954,
+        "place_id": "pittsburgh",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1964,
         "place_id": "new-york",
         "event": "Appointed Rav"
       },
@@ -5462,9 +7957,14 @@
         "year": 1985,
         "place_id": "new-york",
         "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "new-york",
+        "event": "Appointed Rav"
       }
     ],
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/זלמן_שמעון_דווארקין",
     "photo_url": "https://drive.google.com/thumbnail?id=1DWpDDDOSWghPapkl7sg8M9q5fLcQoJ1S&sz=w800"
   },
   {
@@ -5596,12 +8096,32 @@
     "bio": "Rabbi Moshe Yitzchak Hecht was a prominent and energetic Shliach of the Rebbe. Sent to New Haven, Connecticut, he successfully established a flourishing Jewish day school and transformed the local community's religious landscape.",
     "journey": [
       {
+        "year": 1942,
+        "place_id": "new-haven",
+        "event": "Founded yeshiva"
+      },
+      {
+        "year": 1946,
+        "place_id": "new-haven",
+        "event": "Emissary"
+      },
+      {
+        "year": 1950,
+        "place_id": "new-york",
+        "event": "Born"
+      },
+      {
+        "year": 1992,
+        "place_id": "new-haven",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "new-haven",
         "event": "Appointed Rav"
       }
     ],
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/משה_יצחק_העכט",
     "photo_url": "https://drive.google.com/thumbnail?id=16ZeSEnlPb9AKui0mb3PAHnPontweZUyQ&sz=w800"
   },
   {
@@ -5618,6 +8138,16 @@
     "role": "Chossid",
     "bio": "Rabbi Yaakov Yehuda Hecht was a famous Chabad Rabbi, a charismatic orator, and the executive vice president of the National Committee for Furtherance of Jewish Education (NCFJE). He was a defining voice for Chabad in America, translating the Rebbe's campaigns into massive public action.",
     "journey": [
+      {
+        "year": 1945,
+        "place_id": "new-york",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1953,
+        "place_id": "new-york",
+        "event": "Founded camp"
+      },
       {
         "year": 1990,
         "place_id": "new-york",
@@ -5646,6 +8176,26 @@
     "role": "Chossid",
     "bio": "Rabbi Avraham Dov Hecht was a prominent Chabad Rabbi who led a major Syrian Jewish congregation in Brooklyn. He was highly respected for his rabbinic leadership and served as the president of the Rabbinical Alliance of America.",
     "journey": [
+      {
+        "year": 1939,
+        "place_id": "warsaw",
+        "event": "Studied"
+      },
+      {
+        "year": 1940,
+        "place_id": "new-york",
+        "event": "Returned US"
+      },
+      {
+        "year": 1946,
+        "place_id": "new-york",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 2013,
+        "place_id": "new-york",
+        "event": "Passed away"
+      },
       {
         "year": null,
         "place_id": "new-york",
@@ -5685,6 +8235,11 @@
         "event": "Emigrated"
       },
       {
+        "year": 1932,
+        "place_id": "new-york",
+        "event": "Emigrated"
+      },
+      {
         "year": 1940,
         "place_id": "new-york",
         "event": "Emigrated"
@@ -5718,9 +8273,29 @@
     "bio": "Rabbi Sholom Dovber Gordon was a dedicated Chassid and an active Shliach. He worked energetically in the United States to promote Chabad's educational initiatives, youth programs, and communal outreach.",
     "journey": [
       {
+        "year": 1942,
+        "place_id": "newark",
+        "event": "Founded yeshiva"
+      },
+      {
+        "year": 1949,
+        "place_id": "newark",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 2001,
+        "place_id": "newark",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "new-york",
         "event": "Lived"
+      },
+      {
+        "year": null,
+        "place_id": "newark",
+        "event": "Emigrated US"
       }
     ],
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שלום_דובער_גורדון",
@@ -5746,6 +8321,11 @@
         "event": "Born"
       },
       {
+        "year": 1917,
+        "place_id": "otwock",
+        "event": "Studied"
+      },
+      {
         "year": 1938,
         "place_id": "newark",
         "event": "Married"
@@ -5756,6 +8336,11 @@
         "event": "Traveled"
       },
       {
+        "year": 1951,
+        "place_id": "new-york",
+        "event": "Served Rebbe"
+      },
+      {
         "year": 1988,
         "place_id": "new-york",
         "event": "Passed away"
@@ -5764,6 +8349,16 @@
         "year": null,
         "place_id": "new-york",
         "event": "Appointed Rosh Yeshiva of Tomchei Temimim"
+      },
+      {
+        "year": null,
+        "place_id": "warsaw",
+        "event": "Studied"
+      },
+      {
+        "year": null,
+        "place_id": "newark",
+        "event": "Emigrated US"
       }
     ],
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/מרדכי_מענטליק",
@@ -5783,6 +8378,36 @@
     "role": "Chossid",
     "bio": "Rabbi Dovid Raskin was a prominent Chassid and the long-time chairman of the Lubavitch Youth Organization in New York. He meticulously directed the Rebbe's outreach campaigns and managed the daily operations of the central Chabad yeshiva.",
     "journey": [
+      {
+        "year": 1929,
+        "place_id": "bobruisk",
+        "event": "Born"
+      },
+      {
+        "year": 1929,
+        "place_id": "leningrad",
+        "event": "Relocated"
+      },
+      {
+        "year": 1942,
+        "place_id": "alma-ata",
+        "event": "Settled"
+      },
+      {
+        "year": 1950,
+        "place_id": "new-york",
+        "event": "Arrived"
+      },
+      {
+        "year": 1954,
+        "place_id": "new-york",
+        "event": "Teacher"
+      },
+      {
+        "year": 2011,
+        "place_id": "new-york",
+        "event": "Passed away"
+      },
       {
         "year": null,
         "place_id": "new-york",
@@ -5806,6 +8431,26 @@
     "role": "Chossid",
     "bio": "Rabbi Sholom Mendel Kalmanson was a deeply dedicated Chassid and an influential Shliach. Entrusted with crucial rescue missions by the Rebbe Rayatz and the Rebbe, he worked to sustain Jewish refugees and later directed Chabad activities in Europe.",
     "journey": [
+      {
+        "year": 1922,
+        "place_id": "vitebsk",
+        "event": "Born"
+      },
+      {
+        "year": 1946,
+        "place_id": "samarkand",
+        "event": "Escaped USSR"
+      },
+      {
+        "year": 1948,
+        "place_id": "paris",
+        "event": "Moved"
+      },
+      {
+        "year": 2011,
+        "place_id": "paris",
+        "event": "Passed away"
+      },
       {
         "year": null,
         "place_id": "paris",
@@ -5835,9 +8480,24 @@
         "event": "Born"
       },
       {
+        "year": 1926,
+        "place_id": "rostov",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1927,
+        "place_id": "nevel",
+        "event": "Married"
+      },
+      {
         "year": 1946,
         "place_id": "paris",
         "event": "Escaped"
+      },
+      {
+        "year": 1985,
+        "place_id": "new-york",
+        "event": "Passed away"
       },
       {
         "year": 1995,
@@ -5873,6 +8533,11 @@
         "event": "Made aliya"
       },
       {
+        "year": 1777,
+        "place_id": "tzfat",
+        "event": "Made aliya"
+      },
+      {
         "year": 1778,
         "place_id": "vitebsk",
         "event": "Made aliya"
@@ -5883,12 +8548,17 @@
         "event": "Passed away"
       },
       {
+        "year": 1840,
+        "place_id": "fastov",
+        "event": "Passed away"
+      },
+      {
         "year": null,
         "place_id": "polotsk",
         "event": "Lived"
       }
     ],
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/ישראל_מפולוצק",
     "photo_url": null
   },
   {
@@ -5929,12 +8599,22 @@
     "bio": "Rabbi Avraham Landau of Zembin was a prominent Chassid and profound scholar. He was highly regarded by the Alter Rebbe and subsequent generations for his exceptional piety, deep Torah knowledge, and pure Chassidic devotion.",
     "journey": [
       {
+        "year": 1883,
+        "place_id": "lubavitch",
+        "event": "Visited"
+      },
+      {
         "year": null,
         "place_id": "zembin",
         "event": "Appointed Rav"
+      },
+      {
+        "year": null,
+        "place_id": "kurenets",
+        "event": "Lived"
       }
     ],
-    "chabadpedia_url": null,
+    "chabadpedia_url": "https://chabadpedia.co.il/index.php/אברהם_מזעמבין",
     "photo_url": null
   },
   {
@@ -7095,6 +9775,16 @@
         "event": "Born"
       },
       {
+        "year": 1908,
+        "place_id": "podobranka",
+        "event": "Emissary"
+      },
+      {
+        "year": 1923,
+        "place_id": "leningrad",
+        "event": "Joined Rayatz"
+      },
+      {
         "year": 1941,
         "place_id": "riga",
         "event": "Passed away"
@@ -7128,9 +9818,44 @@
     "bio": "Rabbi Menachem Ze'ev Greenglass was a leading Mashpia and Rabbi in Montreal. He was a central figure in establishing and guiding the Chabad community and Yeshiva in Canada.",
     "journey": [
       {
+        "year": 1939,
+        "place_id": "lodz",
+        "event": "Emissary"
+      },
+      {
         "year": 1941,
         "place_id": "shanghai",
         "event": "Escaped"
+      },
+      {
+        "year": 2011,
+        "place_id": "montreal",
+        "event": "Passed away"
+      },
+      {
+        "year": null,
+        "place_id": "jerusalem",
+        "event": "Studied"
+      },
+      {
+        "year": null,
+        "place_id": "lodz",
+        "event": "Studied"
+      },
+      {
+        "year": null,
+        "place_id": "shanghai",
+        "event": "Studied"
+      },
+      {
+        "year": null,
+        "place_id": "otwock",
+        "event": "Studied"
+      },
+      {
+        "year": null,
+        "place_id": "montreal",
+        "event": "Founded yeshiva"
       }
     ],
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/מנחם_זאב_גרינגלאס",
@@ -7149,7 +9874,33 @@
     "primary_place_id": null,
     "role": "Chossid",
     "bio": "Rabbi Yitzchak Dovid Groner was a leading Shliach and Rabbi in Australia. He dedicated his life to building Jewish infrastructure and Chabad institutions across the continent.",
-    "journey": [],
+    "journey": [
+      {
+        "year": 1915,
+        "place_id": "new-york",
+        "event": "Born"
+      },
+      {
+        "year": 1941,
+        "place_id": "new-york",
+        "event": "Studied"
+      },
+      {
+        "year": 1946,
+        "place_id": "new-york",
+        "event": "Married"
+      },
+      {
+        "year": 1958,
+        "place_id": "montreal",
+        "event": "Emissary"
+      },
+      {
+        "year": 2008,
+        "place_id": "jerusalem",
+        "event": "Passed away"
+      }
+    ],
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/יצחק_דוד_גרונר",
     "photo_url": "https://chabadpedia.co.il/images/thumb/8/86/%D7%99%D7%A6%D7%97%D7%A7_%D7%93%D7%95%D7%93_%D7%92%D7%A8%D7%95%D7%A0%D7%A8.jpg/150px-%D7%99%D7%A6%D7%97%D7%A7_%D7%93%D7%95%D7%93_%D7%92%D7%A8%D7%95%D7%A0%D7%A8.jpg"
   },
@@ -7196,6 +9947,21 @@
         "event": "Born"
       },
       {
+        "year": 1964,
+        "place_id": "kfar-chabad",
+        "event": "Studied"
+      },
+      {
+        "year": 1968,
+        "place_id": "new-york",
+        "event": "Studied"
+      },
+      {
+        "year": 1977,
+        "place_id": "jerusalem",
+        "event": "Librarian"
+      },
+      {
         "year": 1988,
         "place_id": "new-york",
         "event": "Traveled"
@@ -7228,6 +9994,36 @@
     "role": "Chossid",
     "bio": "Rabbi Avraham Chanoch Glitzenstein was a respected author and compiler. He is best known for authoring the Sefer HaToldot series and Otzar Sipurei Chabad, vital works documenting Chabad history.",
     "journey": [
+      {
+        "year": 1929,
+        "place_id": "jerusalem",
+        "event": "Born"
+      },
+      {
+        "year": 1935,
+        "place_id": "jerusalem",
+        "event": "Studied"
+      },
+      {
+        "year": 1940,
+        "place_id": "lod",
+        "event": "Secretary"
+      },
+      {
+        "year": 1963,
+        "place_id": "jerusalem",
+        "event": "Manager of yeshiva"
+      },
+      {
+        "year": 1970,
+        "place_id": "new-york",
+        "event": "Visited Rebbe"
+      },
+      {
+        "year": 2015,
+        "place_id": "jerusalem",
+        "event": "Passed away"
+      },
       {
         "year": null,
         "place_id": "jerusalem",
@@ -7849,6 +10645,11 @@
         "year": 1805,
         "place_id": "ula",
         "event": "Born"
+      },
+      {
+        "year": 1837,
+        "place_id": "jerusalem",
+        "event": "Made aliya"
       },
       {
         "year": 1847,
@@ -8710,6 +11511,16 @@
         "event": "Born"
       },
       {
+        "year": 1799,
+        "place_id": "lubavitch",
+        "event": "Born"
+      },
+      {
+        "year": 1815,
+        "place_id": "hebron",
+        "event": "Made aliya"
+      },
+      {
         "year": 1844,
         "place_id": "hebron",
         "event": "Made aliya"
@@ -8718,6 +11529,11 @@
         "year": 1845,
         "place_id": "hebron",
         "event": "Made aliya"
+      },
+      {
+        "year": 1848,
+        "place_id": "hebron",
+        "event": "Passed away"
       },
       {
         "year": 1888,
@@ -8959,7 +11775,28 @@
     "role": "Rebbe",
     "bio": "Rabbi Shemaryahu Noach Schneersohn (1842-1923) served as rabbi of Babroisk and Rebbe of the Kopust Chabad dynasty. A grandson of the Tzemach Tzedek through the Maharil of Kopust, he founded a yeshiva in Babroisk in 1901 that produced dozens of prominent rabbis and yeshiva heads throughout Russia.",
     "primary_place_id": "bobruisk",
-    "journey": [],
+    "journey": [
+      {
+        "year": 1842,
+        "place_id": "lubavitch",
+        "event": "Born"
+      },
+      {
+        "year": 1862,
+        "place_id": "bobruisk",
+        "event": "Appointed Rav"
+      },
+      {
+        "year": 1901,
+        "place_id": "bobruisk",
+        "event": "Founded yeshiva"
+      },
+      {
+        "year": 1923,
+        "place_id": "bobruisk",
+        "event": "Passed away"
+      }
+    ],
     "chabadpedia_url": "https://chabadpedia.co.il/index.php/שמריה_נח_שניאורסון",
     "photo_url": "https://chabadpedia.co.il/images/4/40/%D7%A8%27_%D7%A9%D7%9E%D7%A8%D7%99%D7%94%D7%95_%D7%A0%D7%97_%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8%D7%A1%D7%90%D7%94%D7%9F.jpg"
   }

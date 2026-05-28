@@ -1,0 +1,461 @@
+# Chabadpedia Journey Extraction Report
+
+- Total persons processed: 324 / 324
+- Chabadpedia pages found: 157
+- Journey steps added: 584
+- Persons whose journey grew: 152
+- Persons with page but no extractable events: 5
+- Persons with no Chabadpedia page found: 167
+
+## Per-person
+
+- baal-shem-tov: +1 steps from chabadpedia
+- rabbi-eliezer-baal-shem-tov-father: +1 steps from chabadpedia
+- rabbi-tzvi-baal-shem-tov-son: +2 steps from chabadpedia
+- maggid-of-mezeritch: +2 steps from chabadpedia
+- rabbi-shimon-zundel-trisk: no_page_found
+- rabbi-baruch-alter-rebbe-father: +1 steps from chabadpedia
+- rabbi-chaim-eliyahu-vitebsk: no_page_found
+- rabbi-reuven-baal-shem: no_page_found
+- alter-rebbe: +8 steps from chabadpedia
+- rabbi-moshe-vilenker: +3 steps from chabadpedia
+- rabbi-zev-vilenker: +1 steps from chabadpedia
+- reb-binyamin-kletzker: +3 steps from chabadpedia
+- rabbi-zalman-zezmer: +3 steps from chabadpedia
+- rabbi-menachem-zecharia: no_page_found
+- rabbi-zerach-meir-dribin: no_page_found
+- reb-pinchas-reizes: +4 steps from chabadpedia
+- reb-mordechai-lepler: +3 steps from chabadpedia
+- rabbi-yekutiel-lepler: +2 steps from chabadpedia
+- rabbi-shlomo-raphael: +1 steps from chabadpedia
+- mitteler-rebbe: +3 steps from chabadpedia
+- reb-hillel-paritcher: +3 steps from chabadpedia
+- rabbi-yitzchak-isaac-homel: +1 steps from chabadpedia
+- rabbi-yitzchak-isaac-vitebsk-elder: +3 steps from chabadpedia
+- tzemach-tzedek: +5 steps from chabadpedia
+- rabbi-baruch-shalom: +3 steps from chabadpedia
+- rabbi-yehuda-leib-kapust: +5 steps from chabadpedia
+- rabbi-shlomo-zalman-schneersohn: +2 steps from chabadpedia
+- rabbi-avraham-dovber-bobruisk: +3 steps from chabadpedia
+- rabbi-shneur-zalman-fradkin: +4 steps from chabadpedia
+- maharash: +3 steps from chabadpedia
+- reb-shmuel-gronem-esterman: +4 steps from chabadpedia
+- rashab: +6 steps from chabadpedia
+- rebbetzin-shterna-sarah: +4 steps from chabadpedia
+- reb-shilem-kuratin: +3 steps from chabadpedia
+- reb-itche-masmid: +4 steps from chabadpedia
+- reb-michoel-dvorkin: +5 steps from chabadpedia
+- rabbi-yaakov-landau: +5 steps from chabadpedia
+- rabbi-alter-simchovitch: +8 steps from chabadpedia
+- reb-zalman-moshe-hayitzchaki: +4 steps from chabadpedia
+- rayatz: +6 steps from chabadpedia
+- rabbi-levi-yitzchak-schneerson: +3 steps from chabadpedia
+- rebbetzin-chana: +6 steps from chabadpedia
+- rabbi-yisrael-aryeh-leib: +7 steps from chabadpedia
+- reb-elchonon-dov-morozov: +5 steps from chabadpedia
+- reb-chaim-shaul-brook: +4 steps from chabadpedia
+- reb-shlomo-chaim-kesselman: +9 steps from chabadpedia
+- rabbi-eliezer-karasik: +5 steps from chabadpedia
+- reb-mendel-futerfas: +7 steps from chabadpedia
+- rabbi-yechezkel-feigin: +6 steps from chabadpedia
+- reb-pinye-althaus: +6 steps from chabadpedia
+- reb-nachum-goldschmid: +5 steps from chabadpedia
+- reb-moshe-gurary: +4 steps from chabadpedia
+- rabbi-alexander-sender-yudasin: +5 steps from chabadpedia
+- reb-folleh-kahn: +6 steps from chabadpedia
+- reb-avraham-pariz: +8 steps from chabadpedia
+- reb-yankel-zurovitzer: +5 steps from chabadpedia
+- reb-simcha-gorodetsky: +4 steps from chabadpedia
+- reb-zalman-leib-estulin: +5 steps from chabadpedia
+- rabbi-motel-kozliner: +4 steps from chabadpedia
+- rabbi-chaim-moshe-alperovitz: +8 steps from chabadpedia
+- rabbi-meir-blizinsky: +5 steps from chabadpedia
+- rabbi-azriel-zelig-slonim: +5 steps from chabadpedia
+- rabbi-nissan-nemenov: +9 steps from chabadpedia
+- reb-yisrael-neveler: +7 steps from chabadpedia
+- reb-avraham-mayor-drizin: +6 steps from chabadpedia
+- rabbi-shaul-dovber-zislin: +5 steps from chabadpedia
+- rabbi-shashonkin: +4 steps from chabadpedia
+- rabbi-asher-sasonkin: +3 steps from chabadpedia
+- rabbi-moshe-ashkenazi: +6 steps from chabadpedia
+- rabbi-yerucham-gorelik: +2 steps from chabadpedia
+- rabbi-yoel-kahn: +5 steps from chabadpedia
+- rabbi-shlomo-yosef-zevin: +4 steps from chabadpedia
+- rabbi-shmuel-zalmanov: +7 steps from chabadpedia
+- rabbi-avraham-chaim-naeh: +4 steps from chabadpedia
+- rabbi-shneur-zalman-garlick: +5 steps from chabadpedia
+- rabbi-shraga-melech-kaplan: +8 steps from chabadpedia
+- rabbi-david-horodoker: +3 steps from chabadpedia
+- rabbi-moshe-yehuda-reichman: no_page_found
+- rabbi-shlomo-aharon-kazarnovsky: +5 steps from chabadpedia
+- the-rebbe: +6 steps from chabadpedia
+- rebbetzin-chaya-mushka: +5 steps from chabadpedia
+- reb-berke-chein: +5 steps from chabadpedia
+- rebbetzin-rivka: +3 steps from chabadpedia
+- maharil-of-yanovitch: no_page_found
+- rabbi-mordechai-brother-of-alter-rebbe: no_page_found
+- rebbetzin-devorah-leah: +1 steps from chabadpedia
+- rebbetzin-freida: +2 steps from chabadpedia
+- rabbi-chaim-avraham: +2 steps from chabadpedia
+- rabbi-moshe-son-of-alter-rebbe: +2 steps from chabadpedia
+- rebbetzin-sheina: no_page_found
+- rabbi-shalom-shachna: +1 steps from chabadpedia
+- rebbetzin-chaya-mushka-wife-of-tzemach-tzedek: +2 steps from chabadpedia
+- rebbe-of-liadi: +2 steps from chabadpedia
+- rebbe-of-nezhin: +1 steps from chabadpedia
+- rebbe-of-ovruch: +1 steps from chabadpedia
+- rabbi-yaakov-son-of-tzemach-tzedek: +2 steps from chabadpedia
+- rebbetzin-rivka-wife-of-maharash: page_found_but_no_extractable_events
+- raza: +1 steps from chabadpedia
+- rabbi-menachem-mendel-son-of-maharash: no_page_found
+- rebbetzin-nechama-dina: +3 steps from chabadpedia
+- sheina-horenshtein: no_page_found
+- chana-gurary: +3 steps from chabadpedia
+- rashag: +2 steps from chabadpedia
+- menachem-mendel-horenshtein: no_page_found
+- menachem-mendel-of-vitebsk: +4 steps from chabadpedia
+- avraham-of-kalisk: page_found_but_no_extractable_events
+- levi-yitzchak-of-berditchev: +2 steps from chabadpedia
+- yisrael-of-ruzhin: +4 steps from chabadpedia
+- shlomo-of-karlin: page_found_but_no_extractable_events
+- shmuel-munkes: +3 steps from chabadpedia
+- baruch-mordechai-of-bobruisk: +5 steps from chabadpedia
+- radatz: +2 steps from chabadpedia
+- peretz-chen: no_page_found
+- meir-simcha-chen: no_page_found
+- menachem-mendel-chen: no_page_found
+- rashbatz: no_page_found
+- chanoch-hendel: no_page_found
+- aba-from-chashnik: no_page_found
+- meir-simcha-chen-2: no_page_found
+- aba-of-chashnik: no_page_found
+- rashdam: no_page_found
+- yaakov-mordechai-bezpalov: +2 steps from chabadpedia
+- yosef-tumarkin: page_found_but_no_extractable_events
+- aharon-tumarkin: no_page_found
+- yitzchak-dubov: +4 steps from chabadpedia
+- shmuel-levitin: +5 steps from chabadpedia
+- eliyahu-simpson: +2 steps from chabadpedia
+- yisrael-jacobson: +5 steps from chabadpedia
+- mordechai-dubin: +4 steps from chabadpedia
+- levi-yitzchak-slonim: +5 steps from chabadpedia
+- yaakov-kuli-slonim: +3 steps from chabadpedia
+- mordechai-dovber-slonim: +3 steps from chabadpedia
+- shimon-menashe-chaikin: +3 steps from chabadpedia
+- chaim-eliezer-bichovsky: no_page_found
+- shlomo-zalman-havlin: no_page_found
+- chanoch-hendel-havlin: no_page_found
+- chaim-futerfas: +2 steps from chabadpedia
+- itche-der-masmid: +5 steps from chabadpedia
+- moshe-leib-rodstein: no_page_found
+- nissan-telushkin: no_page_found
+- avraham-eliyahu-axelrod: no_page_found
+- moshe-axelrod: no_page_found
+- shraga-feivish-zalmanov: page_found_but_no_extractable_events
+- chaim-hodakov: +5 steps from chabadpedia
+- chaim-liberman: +4 steps from chabadpedia
+- menachem-mendel-feldman: +3 steps from chabadpedia
+- shlomo-palmer: +3 steps from chabadpedia
+- yosef-weinberg: +4 steps from chabadpedia
+- yaakov-yosef-of-polonne: +2 steps from chabadpedia
+- pinchas-of-koretz: +2 steps from chabadpedia
+- yechiel-michel-of-zlotchov: +2 steps from chabadpedia
+- reb-zusha-of-anipoli: +2 steps from chabadpedia
+- elimelech-of-lizhensk: +1 steps from chabadpedia
+- shmelke-of-nikolsburg: +3 steps from chabadpedia
+- baal-haflaa: no_page_found
+- ze-ev-wolf-of-zhitomir: no_page_found
+- aharon-the-great: +1 steps from chabadpedia
+- nachum-of-chernobyl: +3 steps from chabadpedia
+- mordechai-of-chernobyl: +2 steps from chabadpedia
+- baruch-of-medzhybizh: +3 steps from chabadpedia
+- chaim-of-krasna: no_page_found
+- leib-sarah-s: +1 steps from chabadpedia
+- yissachar-dov-of-lubavitch: +3 steps from chabadpedia
+- shlomo-of-usha: no_page_found
+- avraham-the-malach: +3 steps from chabadpedia
+- shalom-shachna-of-prohovitch: no_page_found
+- aharon-of-strashelye: +3 steps from chabadpedia
+- yitzchak-goldin: +7 steps from chabadpedia
+- avraham-baruch-pevzner: no_page_found
+- yona-eidelkop: no_page_found
+- moshe-rosenblum: no_page_found
+- yehuda-chitrik: +9 steps from chabadpedia
+- tzvi-chitrik: +8 steps from chabadpedia
+- yaakov-yisrael-zuber: +6 steps from chabadpedia
+- zalman-shimon-dvorkin: +6 steps from chabadpedia
+- saadia-liberov: no_page_found
+- yaakov-eizik-blattner: no_page_found
+- leib-eidelman: no_page_found
+- leib-cohen: no_page_found
+- tovia-belkin: no_page_found
+- efraim-wolff: no_page_found
+- moshe-yitzchak-hecht: +4 steps from chabadpedia
+- j-j-hecht: +2 steps from chabadpedia
+- avraham-dov-hecht: +4 steps from chabadpedia
+- yochanan-gordon: +1 steps from chabadpedia
+- sholom-dovber-gordon: +4 steps from chabadpedia
+- mordechai-mentlik: +4 steps from chabadpedia
+- dovid-raskin: +6 steps from chabadpedia
+- sholom-mendel-kalmanson: +4 steps from chabadpedia
+- binyamin-gorodetzky: +3 steps from chabadpedia
+- yisrael-of-polotsk: +2 steps from chabadpedia
+- yeshaya-of-yanovitch: no_page_found
+- avraham-of-zembin: +2 steps from chabadpedia
+- ziskind-of-kurenets: no_page_found
+- efraim-of-vitebsk: no_page_found
+- efraim-zalman: no_page_found
+- yaakov-koppel-seligson: no_page_found
+- eliyahu-abeler: no_page_found
+- aharon-zelig-of-ula: no_page_found
+- avraham-meir-the-wagon-driver: no_page_found
+- betzalel-wilshansky: no_page_found
+- chaim-moshe-of-shklov: no_page_found
+- dovber-moshe-of-disna: no_page_found
+- eliyahu-shmuel-of-rogatchov: no_page_found
+- mordechai-of-lieply: no_page_found
+- yosef-moshe-of-minsk: no_page_found
+- shlomo-chaim-of-horodok: no_page_found
+- moshe-eliyahu-of-smilovitz: no_page_found
+- alexander-ziskind-of-vitebsk: no_page_found
+- yitzchak-isaac-jaffe: no_page_found
+- yisrael-kozik: no_page_found
+- yosef-of-beshenkovitz: no_page_found
+- yekutiel-zalman-of-vilna: no_page_found
+- yaakov-of-smilyan: no_page_found
+- reuven-sofer: no_page_found
+- meir-refaels: no_page_found
+- yeshaya-hakohen-shapiro: no_page_found
+- avraham-david-shapiro: no_page_found
+- yitzchak-rubinstein: no_page_found
+- mordechai-elinson: no_page_found
+- yisrael-neta-gnesin: no_page_found
+- yehoshua-eliyahu-volosov: no_page_found
+- yaakov-utevsky: no_page_found
+- hillel-levin: no_page_found
+- zeev-wolf-steingart: no_page_found
+- shmuel-steingart: no_page_found
+- uziel-chazanov: no_page_found
+- betzalel-rubashkin: no_page_found
+- yehuda-botrashvili: no_page_found
+- natan-gurary: no_page_found
+- chaim-yosef-rosenblum: no_page_found
+- shimon-berliner: no_page_found
+- mendel-beilis: no_page_found
+- yaakov-zuravitzer: no_page_found
+- sholom-dovber-notik: no_page_found
+- shmuel-krugliak: no_page_found
+- tzvi-hirsch-of-klimovitch: no_page_found
+- simcha-of-beshenkovitz: no_page_found
+- akiva-menuhin: no_page_found
+- aharon-khazanov: no_page_found
+- peretz-motzkin: no_page_found
+- aryeh-leib-sheinin: no_page_found
+- yaakov-yehuda-rizek: no_page_found
+- shamai-vigan: no_page_found
+- zalman-david-michlin: no_page_found
+- hillel-jochvedin: no_page_found
+- chaim-jochvedin: no_page_found
+- yehoshua-korf: no_page_found
+- dovid-shifrin: no_page_found
+- avraham-shmuel-heilman: no_page_found
+- alexander-sender-nemtzov: no_page_found
+- shmuel-isaac-dubin: no_page_found
+- eliyahu-chaim-althaus: +2 steps from chabadpedia
+- menachem-ze-ev-greenglass: +7 steps from chabadpedia
+- yitzchak-dovid-groner: +5 steps from chabadpedia
+- shalom-posner: no_page_found
+- yehoshua-mondshine: +3 steps from chabadpedia
+- avraham-chanoch-glitzenstein: +6 steps from chabadpedia
+- avraham-david-pozner: no_page_found
+- chaim-yona-lutski: no_page_found
+- tzvi-hirsch-azimov: no_page_found
+- yisrael-noach-belinitzki: no_page_found
+- isser-klobgant: no_page_found
+- chaikel-chanin: no_page_found
+- yisrael-leibov: no_page_found
+- chaim-minkowitz: no_page_found
+- shmuel-betzalel-althaus: no_page_found
+- shlomo-zalman-hecht: no_page_found
+- shlomo-of-krichev: no_page_found
+- menachem-mendel-of-repka: no_page_found
+- yisrael-novik: no_page_found
+- shneur-zalman-of-lodz: no_page_found
+- menachem-mendel-deitsch: no_page_found
+- shmuel-leib-levin: no_page_found
+- shmuel-katzman: no_page_found
+- shmuel-bezpalov: no_page_found
+- yehuda-leib-raskin: no_page_found
+- yaakov-katz: no_page_found
+- meir-ashkenazi: no_page_found
+- shalom-dovber-levin: no_page_found
+- zalman-schneerson: no_page_found
+- shmuel-gurary: no_page_found
+- nechemia-of-dubrovna: no_page_found
+- aharon-of-dubrovna: no_page_found
+- eliyahu-yosef-of-dribin: +1 steps from chabadpedia
+- shmaryahu-paitelson: no_page_found
+- yisrael-chaikin: no_page_found
+- zalman-neimark: no_page_found
+- moshe-maisels: no_page_found
+- yehuda-leib-the-batlan: no_page_found
+- shlomo-freides: no_page_found
+- yosef-kolbo: no_page_found
+- gavriel-nosse-chen: no_page_found
+- moshe-chein: no_page_found
+- avraham-chein: no_page_found
+- yitzchak-shaul: no_page_found
+- the-rogatchover-gaon: no_page_found
+- shimon-lazarev: no_page_found
+- zalman-vilenkin: no_page_found
+- ben-tzion-shemtov: no_page_found
+- asher-grossman: no_page_found
+- shmaryahu-yehuda-leib-medalie: no_page_found
+- menachem-mendel-gluskin: no_page_found
+- yitzchak-yoel-rafalovitch: no_page_found
+- chava: no_page_found
+- sara: no_page_found
+- yehuda-leib-segal: no_page_found
+- shalom-dovber-of-rechitsa: no_page_found
+- shmaryahu-noach: no_page_found
+- maharid: no_page_found
+- meir-shlomo-yanovsky: no_page_found
+- avraham-david-lavut: no_page_found
+- avraham-david-yanovsky: no_page_found
+- shalom-shlomo-schneerson: no_page_found
+- baruch-schneur-schneerson: no_page_found
+- yaakov-yisrael-of-cherkasy: no_page_found
+- menucha-rochel-slonim: +3 steps from chabadpedia
+- sara-2: no_page_found
+- devorah-leah: no_page_found
+- chaya-mushka: no_page_found
+- shmaryahu-schneerson: no_page_found
+- dovber-schneerson: no_page_found
+- yitzchak-schneersohn: no_page_found
+- shmaryahu-noach-schneersohn: +4 steps from chabadpedia
+
+## Unmatched Hebrew place names
+
+These Hebrew place names appeared in Chabadpedia articles but did not resolve to any place_id in places.json. Consider adding the more common ones as new places.
+
+- קרמנצוג (28x)
+- פוקינג (7x)
+- קייב (5x)
+- הורודישץ (3x)
+- ברלין (3x)
+- קורסק (3x)
+- דוקשיץ (3x)
+- טלוסט (2x)
+- דווינסק (2x)
+- צרפת (2x)
+- חיפה (2x)
+- קזחסטן (2x)
+- ברית המועצות (2x)
+- באטום (2x)
+- הורודוק (2x)
+- פושקינה (2x)
+- פולין (2x)
+- טולצין (2x)
+- ריטשוואל (2x)
+- פראג (2x)
+- בוסטון (2x)
+- לבוב (1x)
+- לוקאטש (1x)
+- טורטשין (1x)
+- דובנא (1x)
+- פלוצק (1x)
+- זעזמיר (1x)
+- חומץ (1x)
+- טשרנוביל (1x)
+- סטוצק (1x)
+- אוסטרובנה (1x)
+- רוסיה (1x)
+- קובליץ (1x)
+- אוסווס (1x)
+- קוסטרמה (1x)
+- רמתיים (1x)
+- פוצעפ (1x)
+- צרקאס (1x)
+- בינשקוביץ (1x)
+- זוויהל (1x)
+- ראשון לציון (1x)
+- האליין (1x)
+- לאפיטש (1x)
+- פלעשניץ (1x)
+- קאראלעוויץ (1x)
+- גוסטיני (1x)
+- בלפוריה (1x)
+- זאולשא (1x)
+- רודניא (1x)
+- אורל (1x)
+- מלחובקה (1x)
+- שומיאץ (1x)
+- וויעזנא (1x)
+- ארכנגלסק (1x)
+- טארופיץ (1x)
+- מיור (1x)
+- דרויע (1x)
+- טשרניקא (1x)
+- דרבנט (1x)
+- ברזיל (1x)
+- ברעזנא (1x)
+- סנובסק (1x)
+- מאליאט (1x)
+- גרוזיה (1x)
+- וויעטקא (1x)
+- ניס (1x)
+- בורטיוק (1x)
+- צרנוביץ (1x)
+- דרויא (1x)
+- ויאזמע (1x)
+- רודמיסל (1x)
+- בית הבעל שם טוב (1x)
+- פקיעין (1x)
+- הוסקוב (1x)
+- יערוסלאוו (1x)
+- לברטוב (1x)
+- זעליחאוו (1x)
+- בוצאן (1x)
+- סקווירא (1x)
+- פלשניץ (1x)
+- יאנוב לובלסקי (1x)
+- דרום אפריקה (1x)
+- שרהורוד (1x)
+- ראשקוב (1x)
+- נמירוב (1x)
+- אוסטריה (1x)
+- שיפטיבקה (1x)
+- יאמפולי (1x)
+- שינובה (1x)
+- פולניה (1x)
+- ליטא (1x)
+- גורינסק (1x)
+- אנטבקה (1x)
+- רובנה (1x)
+- יאלטישקוב (1x)
+- אוסבה (1x)
+- מסצוסטס (1x)
+- ניו ג"רזי (1x)
+- גליציה (1x)
+- אומסק (1x)
+- מליטופול (1x)
+- כותאיס (1x)
+- אוברוויליע (1x)
+- רוטשסטר (1x)
+- פראוויdenס (1x)
+- אוסטרליה (1x)
+- קירסנוב (1x)
+- כותאיסי (1x)
+- פלך יקשוץ (1x)
+- וורונוק (1x)
+- סטרדוב (1x)
+- לובליץ (1x)
+- ניקופול (1x)
+- סטרעשין (1x)
+- וסטר (1x)
+- צכסלובקיה (1x)
+- פאולו (1x)
+- סוראז (1x)
+- דובראוונע (1x)
+- גקסונוויל, פלורידה (1x)
+- סידני (1x)

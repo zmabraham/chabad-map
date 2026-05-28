@@ -1,0 +1,221 @@
+PERSONS WITHOUT PHOTO: 204 / 324
+
+== Gen 0 (pre-Chabad) - 17 ==
+  [Family            ] Chava  |  חוה
+  [Family            ] Rabbi Tzvi (son of the Baal Shem Tov) (1754-1780)  |  רבי צבי בן הבעל שם טוב
+  [Family            ] Rebbetzin Rivka  |  הרבנית רבקה
+  [Family            ] Sara  |  שרה
+  [Pre-Chabad Teacher] Aharon the Great (1736-1772)  |  ר' אהרן הגדול מקארלין
+  [Pre-Chabad Teacher] Baal Haflaa  |  ר' פנחס הורוויץ
+  [Pre-Chabad Teacher] Chaim of Krasna  |  ר' חיים קראסנער
+  [Pre-Chabad Teacher] Efraim of Vitebsk  |  ר' אפרים מויטבסק
+  [Pre-Chabad Teacher] Maggid of Mezeritch (1704-1772)  |  רבי דובער המגיד ממעזריטש
+  [Pre-Chabad Teacher] Nachum of Chernobyl (1730-1798)  |  ר' מנחם נחום מטשערנאביל
+  [Pre-Chabad Teacher] Rabbi Eliezer (father of Baal Shem Tov)  |  רבי אליעזר
+  [Pre-Chabad Teacher] Rabbi Reuven Baal Shem  |  רבי ראובן בעל שם
+  [Pre-Chabad Teacher] Rabbi Shimon Zundel of Trisk  |  רבי שמעון זונדל מטריסק
+  [Pre-Chabad Teacher] Reb Chaim Eliyahu of Vitebsk  |  רבי חיים אליהו מוויטעבסק
+  [Pre-Chabad Teacher] Yechiel Michel of Zlotchov (1726-1781)  |  ר' יחיאל מיכל מזלאטשוב
+  [Pre-Chabad Teacher] Yissachar Dov of Lubavitch  |  ר' ישכר דוב מליובאוויטש
+  [Pre-Chabad Teacher] Ze'ev Wolf of Zhitomir (?-1797)  |  ר' זאב וואלף מזיטאמיר
+
+== Gen 1 (Alter R) - 45 ==
+  [Chossid           ] Alexander Ziskind of Vitebsk  |  ר' אלכסנדר זיסקינד מוויטעבסק
+  [Chossid           ] Avraham of Zembin  |  ר' אברהם מזעמבין (לנדא)
+  [Chossid           ] Baruch Mordechai of Bobruisk (1761-1852)  |  ברוך מרדכי מבאברויסק
+  [Chossid           ] Chaim Moshe of Shklov  |  ר' חיים משה משקלוב
+  [Chossid           ] Efraim Zalman  |  ר' אפרים זלמן מבעשינקאוויץ
+  [Chossid           ] Eliyahu Shmuel of Rogatchov  |  ר' אליהו שמואל מראהצ'וב
+  [Chossid           ] Gavriel Nosse Chen  |  ר' גבריאל נושא חן
+  [Chossid           ] Meir Refaels  |  ר' מאיר רפאלס
+  [Chossid           ] Mordechai of Lieply  |  ר' מרדכי מליעפלי
+  [Chossid           ] Moshe Eliyahu of Smilovitz  |  ר' משה אליהו מסמלוביץ
+  [Chossid           ] Moshe Maisels  |  ר' משה מייזליש
+  [Chossid           ] Rabbi Menachem Zecharia  |  רבי מנחם זכריה
+  [Chossid           ] Rabbi Moshe Vilenker  |  רבי משה ווילענקער
+  [Chossid           ] Rabbi Yekutiel Lepler  |  רבי יקותיאל לעפלער
+  [Chossid           ] Rabbi Zalman Zezmer (1763-?)  |  רבי זלמן זעזמער
+  [Chossid           ] Rabbi Ze'ev Vilenker  |  רבי זאב ווילענקער
+  [Chossid           ] Rabbi Zerach Meir of Dribin  |  רבי זרח מאיר מדריבין
+  [Chossid           ] Reb Binyamin Kletzker  |  ר' בנימין קלעצקער
+  [Chossid           ] Reb Mordechai Lepler  |  רבי מרדכי לעפלער
+  [Chossid           ] Reuven Sofer  |  ר' ראובן סופר
+  [Chossid           ] Shlomo Chaim of Horodok  |  ר' שלמה חיים מהורודוק
+  [Chossid           ] Shlomo Freides  |  ר' שלמה פריידעס
+  [Chossid           ] Shlomo of Krichev  |  ר' שלמה מקריטשוב
+  [Chossid           ] Shlomo of Usha  |  ר' שלמה אושאווער
+  [Chossid           ] Shmuel Munkes  |  שמואל מונקעס
+  [Chossid           ] Yehuda Leib the Batlan  |  ר' יהודה ליב הבטלן
+  [Chossid           ] Yeshaya of Yanovitch  |  ר' ישעיה יאניווער
+  [Chossid           ] Yisrael Kozik  |  ר' ישראל יפה (המדפיס בקאפוסט)
+  [Chossid           ] Yisrael of Polotsk (?-1785)  |  ר' ישראל מפולוצק
+  [Chossid           ] Yosef Kolbo  |  ר' יוסף כלבו
+  [Chossid           ] Yosef Moshe of Minsk  |  ר' יוסף משה ממינסק
+  [Chossid           ] Yosef of Beshenkovitz  |  ר' יוסף מבישנקוביץ
+  [Chossid           ] Ziskind of Kurenets  |  ר' זיסקינד מקורעניץ
+  [Family            ] Maharil of Yanovitch  |  ר' יהודה ליב
+  [Family            ] Rabbi Mordechai (brother of Alter Rebbe)  |  ר' מרדכי
+  [Family            ] Rabbi Shalom Shachna (1772-1807)  |  ר' שלום שכנא
+  [Family            ] Rebbetzin Devorah Leah (1766-1792)  |  הרבנית דבורה לאה
+  [Family            ] Rebbetzin Freida (1764-1813)  |  הרבנית פריידא
+  [Family            ] Yehuda Leib Segal  |  ר' יהודה ליב סגל
+  [Mashpia           ] Aharon of Strashelye (1766-1828)  |  ר' אהרן מסטראשעלע
+  [Pre-Chabad Teacher] Avraham of Kalisk (1741-1810)  |  אברהם מקאליסק
+  [Pre-Chabad Teacher] Shalom Shachna of Prohovitch  |  ר' שלום שכנא מפראהביטש
+  [Pre-Chabad Teacher] Shlomo of Karlin (1738-1792)  |  שלמה מקארלין
+  [Son of Rebbe      ] Rabbi Chaim Avraham (1777-1848)  |  ר' חיים אברהם
+  [Son of Rebbe      ] Rabbi Moshe (son of Alter Rebbe) (1779-?)  |  ר' משה
+
+== Gen 2 (Mitteler R) - 9 ==
+  [Chossid           ] Aharon Zelig of Ula  |  ר' אהרן זליג
+  [Chossid           ] Avraham Meir the Wagon Driver  |  ר' אברהם מאיר העגלון
+  [Chossid           ] Dovber Moshe of Disna  |  ר' דובער משה מדיסנא
+  [Chossid           ] Eliyahu Abeler  |  ר' אליהו אבעלער
+  [Chossid           ] Yaakov Koppel Seligson  |  ר' יעקב קאפיל זליגסון
+  [Chossid           ] Yaakov Kuli Slonim  |  ר' יעקב כולי סלונים
+  [Chossid           ] Yaakov of Smilyan  |  ר' יעקב מסמיליאן
+  [Chossid           ] Yitzchak Isaac Jaffe  |  ר' יצחק אייזיק יפה
+  [Rebbetzin         ] Rebbetzin Sheina  |  הרבנית שיינא
+
+== Gen 3 (Tzemach T) - 15 ==
+  [Chossid           ] Aharon of Dubrovna  |  ר' אהרן מדובראוונא
+  [Chossid           ] Nechemia of Dubrovna (1788-1852)  |  ר' נחמיה מדובראוונא
+  [Chossid           ] Peretz Chen  |  פרץ חן
+  [Chossid           ] Rabbi Avraham DovBer of Bobruisk (1746-?)  |  רבי אברהם דובער מבאברויסק
+  [Chossid           ] Rabbi Yitzchak Isaac of Vitebsk (1768-1867)  |  רבי יצחק אייזיק מוויטעבסק
+  [Chossid           ] Shimon Menashe Chaikin (1798-1893)  |  ר' שמעון מנשה חייקין
+  [Chossid           ] Shmaryahu Paitelson  |  ר' שמריה פייטלסון
+  [Chossid           ] Yisrael Chaikin  |  ר' ישראל חייקין
+  [Chossid           ] Yitzchak Shaul  |  ר' יצחק שאול מקלימאוויטש
+  [Chossid           ] Yosef Tumarkin  |  ר' יוסף תומארקין
+  [Family            ] Devorah Leah  |  דבורה לאה (טברסקי)
+  [Family            ] Sara  |  שרה
+  [Family            ] Yaakov Yisrael of Cherkasy (1792-1876)  |  ר' יעקב ישראל מטשרקאס
+  [Family            ] Yekutiel Zalman of Vilna  |  ר' יקותיאל זלמן חתן אדאה"מ
+  [Mashpia           ] Eliyahu Yosef of Dribin (1805-1865)  |  ר' אליהו יוסף ריבלין מדריבין
+
+== Gen 4 (Maharash) - 9 ==
+  [Chossid           ] Levi Yitzchak Slonim  |  ר' לוי יצחק סלונים
+  [Chossid           ] Moshe Chein  |  ר' משה חן
+  [Chossid           ] Rashdam  |  ר' שמואל דובער מבאריסאוו
+  [Chossid           ] Simcha of Beshenkovitz  |  ר' שמחה מבישנקוביץ
+  [Chossid           ] Zalman Neimark  |  ר' זלמן ניימארק
+  [Family            ] Avraham David Lavut (1815-1890)  |  ר' אברהם דוד לאוואוט
+  [Son of Rebbe      ] Rabbi Yaakov (son of Tzemach Tzedek) (1808-1876)  |  ר' יעקב
+  [Son of Rebbe      ] Rebbe of Liadi (1814-1879)  |  ר' חיים שניאור זלמן
+  [Son of Rebbe      ] Rebbe of Nezhin (1815-1883)  |  ר' ישראל נח
+
+== Gen 5 (Rashab) - 30 ==
+  [Chossid           ] Aba from Chashnik  |  אבא פרסון
+  [Chossid           ] Aba of Chashnik  |  ר' אבא פרסון
+  [Chossid           ] Asher Grossman  |  ר' אשר גראסמאן
+  [Chossid           ] Avraham David Pozner  |  ר' אברהם דוד פויזנער מקלימוביץ
+  [Chossid           ] Avraham Shmuel Heilman  |  ר' אברהם שמואל היילמאן
+  [Chossid           ] Chaim Eliezer Bichovsky  |  ר' חיים אליעזר ביחאווסקי
+  [Chossid           ] Chaim Yona Lutski  |  ר' חיים יונה לוצקי
+  [Chossid           ] Meir Simcha Chen  |  ר' מאיר שמחה חן
+  [Chossid           ] Menachem Mendel Chen  |  מנחם מענדל חן
+  [Chossid           ] Mendel Beilis  |  מענדל בייליס
+  [Chossid           ] Rabbi Yerucham Gorelik (?-1921)  |  רבי ירוחם גאראליק
+  [Chossid           ] Shmuel Bezpalov  |  ר' שמואל בעזפאלאוו
+  [Chossid           ] The Rogatchover Gaon (1858-1936)  |  ר' יוסף ראזין
+  [Chossid           ] Tovia Belkin  |  ר' טוביה בעלקין
+  [Chossid           ] Tzvi Chitrik  |  ר' צבי הירש חיטריק
+  [Chossid           ] Tzvi Hirsch Azimov  |  ר' צבי הירש אזימוב מקלימוביץ
+  [Chossid           ] Yaakov Mordechai Bezpalov  |  ר' יעקב מרדכי בעזפאלאוו
+  [Family            ] Avraham David Yanovsky  |  ר' אברהם דוד ינבוסקי
+  [Family            ] Baruch Schneur Schneerson  |  ר' ברוך שניאור שניאורסון
+  [Family            ] Chaya Mushka  |  חיה מושקא
+  [Family            ] Menachem Mendel of Repka  |  ר' מנחם מענדל שניאורסאהן מרעפקא
+  [Family            ] Zalman Schneerson  |  ר' זלמן שניאורסאהן מוועליז
+  [Mashpia           ] Chanoch Hendel  |  חנוך הענדל קוגל
+  [Mashpia           ] Rashbatz (?-1905)  |  שמואל בצלאל שעפטיל
+  [Mashpia           ] Reb Shilem Kuratin (1885-1919)  |  ר' שילם קוראטין
+  [Mashpia           ] Shlomo Zalman Havlin  |  ר' שלמה זלמן האוולין
+  [Rebbe             ] Maharid (1826-1910)  |  ר' יצחק דובער מליאדי (מהרי"ד)
+  [Rebbe             ] Shalom Dovber of Rechitsa  |  ר' שלום דובער מרציצה
+  [Rebbe             ] Shmaryahu Noach (1842-1923)  |  ר' שמריהו נח מבוברויסק
+  [Son of Rebbe      ] Rabbi Menachem Mendel (son of Maharash)  |  ר' מנחם מענדל
+
+== Gen 6 (Rayatz) - 67 ==
+  [Chossid           ] Aharon Khazanov  |  ר' אהרן חזנוב
+  [Chossid           ] Aharon Tumarkin  |  ר' אהרן תומארקין
+  [Chossid           ] Akiva Menuhin  |  ר' עקיבא מנוחין
+  [Chossid           ] Alexander Sender Nemtzov  |  ר' אלכסנדר סענדר נעמצאוו
+  [Chossid           ] Aryeh Leib Sheinin  |  ר' ארי' ליב שיינין
+  [Chossid           ] Avraham David Shapiro  |  ר' אברהם דוד שפירא
+  [Chossid           ] Avraham Eliyahu Axelrod (?-1952)  |  ר' אברהם אלי' אקסלראד
+  [Chossid           ] Ben Tzion Shemtov (1902-1975)  |  ר' בן ציון שם טוב
+  [Chossid           ] Betzalel Rubashkin  |  ר' בצלאל רובשקין
+  [Chossid           ] Betzalel Wilshansky  |  ר' בצלאל וילשנסקי
+  [Chossid           ] Chaikel Chanin  |  ר' חייקיל חאנין
+  [Chossid           ] Chaim Futerfas  |  ר' חיים פוטרפס
+  [Chossid           ] Chaim Jochvedin  |  ר' חיים יוכווידין
+  [Chossid           ] Chaim Minkowitz  |  ר' חיים מינקאוויטש
+  [Chossid           ] Chaim Yosef Rosenblum  |  ר' חיים יוסף רוזנבלום
+  [Chossid           ] Chanoch Hendel Havlin  |  ר' חנוך הענדל האוולין
+  [Chossid           ] Dovid Shifrin  |  ר' דוד שיפרין
+  [Chossid           ] Hillel Jochvedin  |  ר' הלל יוכווידין
+  [Chossid           ] Hillel Levin  |  ר' הלל לוין
+  [Chossid           ] Isser Klobgant  |  ר' איסר קלובגאנט
+  [Chossid           ] Leib Cohen  |  ר' ליב כהן
+  [Chossid           ] Leib Eidelman  |  ר' ארי' ליב איידלמאן
+  [Chossid           ] Meir Simcha Chen  |  מאיר שמחה חן
+  [Chossid           ] Menachem Mendel Deitsch  |  ר' מנחם מענדל דייטש
+  [Chossid           ] Menachem Mendel Feldman  |  ר' מנחם מענדל פלדמן
+  [Chossid           ] Menachem Mendel Gluskin (1878-1936)  |  ר' מנחם מענדל גלוסקין
+  [Chossid           ] Mordechai Elinson  |  ר' מרדכי אלינסון
+  [Chossid           ] Moshe Axelrod  |  ר' משה אקסלראד
+  [Chossid           ] Moshe Leib Rodstein (?-1968)  |  ר' משה ליב ראדשטיין
+  [Chossid           ] Moshe Rosenblum  |  ר' משה ראזענבלום
+  [Chossid           ] Natan Gurary  |  ר' נתן גורארי'
+  [Chossid           ] Nissan Telushkin  |  ר' ניסן טעלושקין
+  [Chossid           ] Shamai Vigan  |  ר' שמאי וויגאן
+  [Chossid           ] Shimon Berliner  |  ר' שמעון בלינער
+  [Chossid           ] Shimon Lazarev (?-1933)  |  ר' שמעון לאזאראוו
+  [Chossid           ] Shlomo Palmer  |  ר' חיים שלמה פלמר
+  [Chossid           ] Shmaryahu Yehuda Leib Medalie (1872-1938)  |  ר' שמריהו יהודא ליב מעדאליע
+  [Chossid           ] Shmuel Betzalel Althaus  |  ר' שמואל בצלאל אלטהויז
+  [Chossid           ] Shmuel Isaac Dubin  |  ר' שמואל יצחק דובין
+  [Chossid           ] Shmuel Krugliak  |  ר' שמואל קרוגליאק
+  [Chossid           ] Shmuel Steingart  |  ר' שמואל שטיינגארט
+  [Chossid           ] Sholom Dovber Notik  |  ר' שלום דובער נוטיק
+  [Chossid           ] Shraga Feivish Zalmanov  |  ר' שרגא פייוויש זלמנוב
+  [Chossid           ] Tzvi Hirsch of Klimovitch  |  ר' צבי הירש ריבקין מקלימוביץ
+  [Chossid           ] Yaakov Eizik Blattner  |  ר' יעקב אייזיק בלאטנער
+  [Chossid           ] Yaakov Utevsky  |  ר' יעקב אוטבסקי
+  [Chossid           ] Yaakov Yehuda Rizek  |  ר' יעקב יהודה ריזיק
+  [Chossid           ] Yaakov Yisrael Zuber  |  ר' יעקב ישראל זובער
+  [Chossid           ] Yaakov Zuravitzer  |  ר' יעקב מסקליק (ז'וראוויצער)
+  [Chossid           ] Yehoshua Eliyahu Volosov  |  ר' יהושע אליהו וולוסוב
+  [Chossid           ] Yeshaya Hakohen Shapiro  |  ר' ישעיה הכהן שפירא
+  [Chossid           ] Yisrael Leibov  |  ר' ישראל לייבאוו
+  [Chossid           ] Yisrael Neta Gnesin  |  ר' ישראל נטע גנעסין
+  [Chossid           ] Yisrael Noach Belinitzki  |  ר' ישראל נח בעליניצקי
+  [Chossid           ] Yisrael Novik  |  ר' ישראל נוביק
+  [Chossid           ] Yitzchak Goldin (1900-1968)  |  ר' יצחק גולדין
+  [Chossid           ] Yitzchak Rubinstein  |  ר' יצחק רובינשטיין
+  [Chossid           ] Zalman David Michlin  |  ר' זלמן דוד מיכלין
+  [Chossid           ] Zeev Wolf Steingart  |  ר' זאב וולף שטיינגארט
+  [Family            ] Menachem Mendel Horenshtein (?-1942)  |  מנחם מענדל הארנשטיין
+  [Family            ] Shalom Shlomo Schneerson (?-1926)  |  ר' שלום שלמה שניאורסון
+  [Family            ] Sheina Horenshtein (1904-1942)  |  שיינא הארנשטיין
+  [Family            ] Shmaryahu Schneerson  |  ר' שמריהו שניאורסון
+  [Family            ] Shneur Zalman of Lodz  |  ר' שניאור זלמן שניאורסאהן מלודז
+  [Mashpia           ] Avraham Baruch Pevzner  |  ר' אברהם ברוך פעווזנער
+  [Mashpia           ] R' Moshe Yehuda Reichman  |  רבי משה יהודה הכהן רייכמן
+  [Mashpia           ] Yitzchak Dubov  |  ר' יצחק דובאוו
+
+== Gen 7 (The Rebbe) - 12 ==
+  [Chossid           ] Efraim Wolff  |  ר' אפרים וואלף
+  [Chossid           ] Shalom Dovber Levin  |  ר' שלום דובער לוין
+  [Chossid           ] Shalom Posner  |  ר' שלום פויזנער
+  [Chossid           ] Shlomo Zalman Hecht  |  ר' שלמה זלמן העכט
+  [Chossid           ] Shmuel Katzman  |  ר' שמואל כצמן
+  [Chossid           ] Yaakov Katz  |  ר' יעקב כץ
+  [Chossid           ] Yehuda Botrashvili  |  ר' יהודה בוטראשוילי
+  [Chossid           ] Yehuda Leib Raskin  |  ר' יהודה ליב רסקין
+  [Family            ] Dovber Schneerson  |  ר' דובער שניאורסון
+  [Family            ] Yitzchak Schneersohn  |  ר' יצחק שניאורסון
+  [Mashpia           ] Peretz Motzkin  |  ר' פרץ מוצקין
+  [Mashpia           ] Yehoshua Korf  |  ר' יהושע קארף
